@@ -1,397 +1,341 @@
 [
   {
-    "animeSlug": "niwatori-fighter",
-    "title": "Episódio 04 - Focando no Desejo",
-    "number": 4,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/jSZC01O12OCKpURE0St60mIIg6c-300x170.jpg",
+    "animeSlug": "invencivel-4-dublado",
+    "title": "Episodio 07 - Não Faça Nenhuma Loucura",
+    "number": 7,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/vEyYNzrfpLCefYhILeUmdBcLp0M-300x170.jpg",
     "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/007.mp4",
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dxHHexyeINWqU1SK1gdvNF6HHFNtjdG1jQzS57e8i-d5cmGK7Y2DIycOfwSqQSVbzOOSvCHKb-Xv80CWS1IQ7QszFd6XfGia2euBuHdgbKyyPJ6rXf8EsfDTo1exzdbRe_q6zL7",
-          "type": "blogger",
+          "url": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/007.mp4",
+          "type": "mp4",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#l6hwym",
+          "url": "https://animeshd.cloud/#prdhda",
+          "type": "iframe",
+          "label": "FHD"
+        },
+        {
+          "url": "https://cdn10.rpmhub.site/#fd6unp",
           "type": "iframe",
           "label": "FHD"
         }
-      ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dxHHexyeINWqU1SK1gdvNF6HHFNtjdG1jQzS57e8i-d5cmGK7Y2DIycOfwSqQSVbzOOSvCHKb-Xv80CWS1IQ7QszFd6XfGia2euBuHdgbKyyPJ6rXf8EsfDTo1exzdbRe_q6zL7"
+      ]
     },
     "order": 0,
-    "createdAt": "2026-04-14T16:11:50.000Z"
+    "createdAt": "2026-04-15T12:52:34.000Z"
   },
   {
-    "animeSlug": "gnosia-dublado",
-    "title": "Episódio 21 - Ponto Final e Ponto de Partida",
-    "number": 21,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/6kwhhyrSJjpD8vy7SmDssSzKLtk-300x170.jpg",
+    "animeSlug": "tadaima-ojamasaremasu",
+    "title": "Episódio 02 - Começando com um namorado de mentira?!",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/pZVpiguQL2TJGYTwFWTqzrVnI5k-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwFbIVdgwr3ccPHPI6Qgf6qTCMC3Y08pRfBuBIvHltXXNULPkk50s7nXbOkyVove_T5jNiuEaA-przjO7-yuArc9C7Kg9npdvxLfvcV-EqL7s_AYAkB6NmRKs5W31SOSxxTt21Y",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dx-okSAUtAjRK1mbzV6y-pth3buyf_k4lwUfp2ImgBLUiG5uC63S2NMDqBrnBGNwsxuNhQSva2VXi0OYzVXevb35ICUxwXiXdX5B5JUgQTfMvkWSn_ITaCA5kWSUoTe_elmWJg",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#wksngn",
+          "url": "https://animes.strp2p.com/#tuyr8m",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwFbIVdgwr3ccPHPI6Qgf6qTCMC3Y08pRfBuBIvHltXXNULPkk50s7nXbOkyVove_T5jNiuEaA-przjO7-yuArc9C7Kg9npdvxLfvcV-EqL7s_AYAkB6NmRKs5W31SOSxxTt21Y"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dx-okSAUtAjRK1mbzV6y-pth3buyf_k4lwUfp2ImgBLUiG5uC63S2NMDqBrnBGNwsxuNhQSva2VXi0OYzVXevb35ICUxwXiXdX5B5JUgQTfMvkWSn_ITaCA5kWSUoTe_elmWJg"
     },
     "order": 1,
-    "createdAt": "2026-04-14T16:11:54.000Z"
+    "createdAt": "2026-04-15T12:52:41.000Z"
   },
   {
-    "animeSlug": "trigun-stargaze-dublado",
-    "title": "Episódio 10 - Mártir",
-    "number": 10,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/nnsUYGGKjxcbxouR98KCyW9SvA0-300x170.jpg",
+    "animeSlug": "hidarikiki-no-eren",
+    "title": "Episódio 02 - Existe algo além disso, sabe?",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/iiCCWbA4ABgxGl0l6oIjfUSCx47-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzIo0M6Cma_-ysIuoIWhEnvkYPwRXn4u0MVf0M0pZsdcOpENj4rsQU3uwpNuTdVhaMEi2ICW3L6rOr8duFITIElNu2hYFzmgH7iEr0T_bPFJKNfjlTkHEHmZj5Gj5G2E_OgHqDl",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dwdyaI0wP1YRpDYJFvXUoXwC8SNnAU0mB0_KXGL1bwbPmEqMkwXO_nralDsIK2ciStQvd3oZtX5WSURxNFuFdbrwgQt_6AwhDUQdqiHy272LXHg5hfse-_T5fSI0mi-MVh_aEo",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#hdis3r",
+          "url": "https://animes.strp2p.com/#q5apm9",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzIo0M6Cma_-ysIuoIWhEnvkYPwRXn4u0MVf0M0pZsdcOpENj4rsQU3uwpNuTdVhaMEi2ICW3L6rOr8duFITIElNu2hYFzmgH7iEr0T_bPFJKNfjlTkHEHmZj5Gj5G2E_OgHqDl"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dwdyaI0wP1YRpDYJFvXUoXwC8SNnAU0mB0_KXGL1bwbPmEqMkwXO_nralDsIK2ciStQvd3oZtX5WSURxNFuFdbrwgQt_6AwhDUQdqiHy272LXHg5hfse-_T5fSI0mi-MVh_aEo"
     },
     "order": 2,
-    "createdAt": "2026-04-14T16:11:57.000Z"
+    "createdAt": "2026-04-15T12:52:44.000Z"
   },
   {
-    "animeSlug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado",
-    "title": "Episódio 22 - Shocker está em movimento",
-    "number": 22,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/eshC8B8FJcxOXFCaqsDcM6VRbbd-300x170.jpg",
+    "animeSlug": "marriagetoxin",
+    "title": "Episódio 02 - Afinal, o que é \"charme\"?",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/re7mKwuGgsGEssdUL92CvvJ5U9S-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dyImfpC0d_y0wsyc2TTH02O3YcgBr9lrtVouEkzAtb43L0Todctml7DcNy1MFa2bGYcQBp11ugpPkBIhcczaoyc9GaKq-tkFOQjFYHqmLTodVWVHJ1VrbeEZu0SYAzoA0FvCzo",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dw9qxg_XyoSPOC9KlyCvkWAXV8oT9Jdu0mcQtbzEzMG6n_iE6faydy42AN8gBqs-GFz-lubZzxR2k9uLnKItkacYnjJQVou5yE967yODu3x_hannLp-RRTHLZxGpp4c88t6jGq1",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#fvj5gl",
+          "url": "https://animes.strp2p.com/#idbeje",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dyImfpC0d_y0wsyc2TTH02O3YcgBr9lrtVouEkzAtb43L0Todctml7DcNy1MFa2bGYcQBp11ugpPkBIhcczaoyc9GaKq-tkFOQjFYHqmLTodVWVHJ1VrbeEZu0SYAzoA0FvCzo"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dw9qxg_XyoSPOC9KlyCvkWAXV8oT9Jdu0mcQtbzEzMG6n_iE6faydy42AN8gBqs-GFz-lubZzxR2k9uLnKItkacYnjJQVou5yE967yODu3x_hannLp-RRTHLZxGpp4c88t6jGq1"
     },
     "order": 3,
-    "createdAt": "2026-04-14T16:12:00.000Z"
+    "createdAt": "2026-04-15T12:52:47.000Z"
   },
   {
-    "animeSlug": "maid-san-wa-taberu-dake",
-    "title": "Episódio 02 - Sorvete, Tian Cha, Bolo, Kikyou Shingen Mochi e Melon Pan",
+    "animeSlug": "replica-datte-koi-wo-suru",
+    "title": "Episódio 02 - A Replica Skips School",
     "number": 2,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/bWxHsDoSJYH3k1kka0ZXYMQeZaL-300x170.jpg",
+    "image": "https://animeq.net/wp-content/uploads/2026/04/q4ARXxS7dX0fvvEd9uRwqodPJAd-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dyZqIU8e0vZMEuFt_L8wvOnIUaVZR_vzkfjXFgjcnJs8lLz_dBwRsLRm8tQhFDCfa2vQaxdXlswL33NXIEmlA8mHPNMvqgunm-mxLNh8d3AE2MoJqiqLZtu9u_52Je_eP49OYtw",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dyprwc9lQAidxKI6AT5iICQgcgenb3MXSXjLpaBIBBHcChFGPXS6jUtBBlRZuIxVhonBwuiyVXYQ7oLa6PJwRHOcymleTi75sMb5pYqSAUc4AHeIvRylOitihPn8dcm6OcgL9M",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#uyrqf1",
+          "url": "https://animes.strp2p.com/#ke8loe",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dyZqIU8e0vZMEuFt_L8wvOnIUaVZR_vzkfjXFgjcnJs8lLz_dBwRsLRm8tQhFDCfa2vQaxdXlswL33NXIEmlA8mHPNMvqgunm-mxLNh8d3AE2MoJqiqLZtu9u_52Je_eP49OYtw"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dyprwc9lQAidxKI6AT5iICQgcgenb3MXSXjLpaBIBBHcChFGPXS6jUtBBlRZuIxVhonBwuiyVXYQ7oLa6PJwRHOcymleTi75sMb5pYqSAUc4AHeIvRylOitihPn8dcm6OcgL9M"
     },
     "order": 4,
-    "createdAt": "2026-04-14T16:12:10.000Z"
+    "createdAt": "2026-04-15T12:52:50.000Z"
   },
   {
-    "animeSlug": "ace-of-the-diamond-act-ii-season-2",
-    "title": "Episódio 01 - Para o próximo nível",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/hAy6Du8IWd1wfIEQMsKX48T7u47-300x170.jpg",
+    "animeSlug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
+    "title": "Episódio 02 - Caranguejo-eremita / Porta para o Castelo do Rei Demônio (à direita)",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/lBAGJPqNJy3ZuWABLrL6ppsk83X-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dw3e1VNk1GZad_hnEgmUKUPvgOk0rl6CvscYIg5Xpz_nVMtjq9-kE0RsWlnofljTL6iv1kICphUExvGMTm7GhY-XYkOUl__wdN2_8aYzCCFceBt2_ZncxEM44t4DTs_zIjJM4s",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dxFS7oGRVLNsi7jd3bwv4BvAf-ikoBPRA_KV1gb8pMYXKdmQPDUwwQfoMLgivARpKeLlr5yg25nM7w7P13c9N-Sv0sqCi8UaW2ltCWNfOM8mDg-Otv96AyRnqhnKbL5klsEBFR5",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animeshd.cloud/#prkg83",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#1hvw6y",
+          "url": "https://animes.strp2p.com/#dmgbwe",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dw3e1VNk1GZad_hnEgmUKUPvgOk0rl6CvscYIg5Xpz_nVMtjq9-kE0RsWlnofljTL6iv1kICphUExvGMTm7GhY-XYkOUl__wdN2_8aYzCCFceBt2_ZncxEM44t4DTs_zIjJM4s"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dxFS7oGRVLNsi7jd3bwv4BvAf-ikoBPRA_KV1gb8pMYXKdmQPDUwwQfoMLgivARpKeLlr5yg25nM7w7P13c9N-Sv0sqCi8UaW2ltCWNfOM8mDg-Otv96AyRnqhnKbL5klsEBFR5"
     },
     "order": 5,
-    "createdAt": "2026-04-14T16:12:13.000Z"
+    "createdAt": "2026-04-15T12:52:54.000Z"
   },
   {
-    "animeSlug": "hikuidori-ushuu-boro-tobi-gumi",
-    "title": "Episódio 12 - Cuspidor de Fogo",
-    "number": 12,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/qhPoXrTABYgA0gAyzN753WGfZAK-300x170.jpg",
+    "animeSlug": "aishiteru-game-wo-owarasetai",
+    "title": "Episódio 01 - Eu não quero perder para meu amigo de infância.",
+    "number": 1,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/q5LyGf542SJlur7kjZQZPprAA4J-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzwvGzpj2vyque9P1NtsT9GRmMQzbFrE8x9Eq9XnGHSiRVlqRMaqw6BoLQUfUoJSC_T02zgeATRpsTpkJSzvMoyia8-cecRQ92M0s004NRkKU5DP7GaieHGAAJtZ2OLKXZxxkcx",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dzU-jYISvkI2jLhCvDXFknSImbyiKiQNUwqDZlNqYlKlxKx3OGK1osG9VJLwhEXmlCivoRU5cgB8JLT8jtud5ji6Nx6R2RsV2P5cPmVLXPxnUyU3LgpJsr_FRYXDDYZr7RyoS0",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#iekigr",
+          "url": "https://animes.strp2p.com/#ebzekz",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzwvGzpj2vyque9P1NtsT9GRmMQzbFrE8x9Eq9XnGHSiRVlqRMaqw6BoLQUfUoJSC_T02zgeATRpsTpkJSzvMoyia8-cecRQ92M0s004NRkKU5DP7GaieHGAAJtZ2OLKXZxxkcx"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dzU-jYISvkI2jLhCvDXFknSImbyiKiQNUwqDZlNqYlKlxKx3OGK1osG9VJLwhEXmlCivoRU5cgB8JLT8jtud5ji6Nx6R2RsV2P5cPmVLXPxnUyU3LgpJsr_FRYXDDYZr7RyoS0"
     },
     "order": 6,
-    "createdAt": "2026-04-14T16:12:26.000Z"
+    "createdAt": "2026-04-15T12:52:57.000Z"
   },
   {
-    "animeSlug": "ghost-concert-missing-songs",
-    "title": "Episódio 01 - Uma despedida de partir o coração",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/229iOfxjnr5mqWf0P1iJY5EYcUt-300x170.jpg",
+    "animeSlug": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-2",
+    "title": "Episódio 02 - A Rainha Cruel Fala",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/yyPY5Jd2t3G6os5tOEfiFCdx1eo-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dySe7bIjUWOEITa0T18cKWwDtdRLEAgAeyPpK27GdXFKC_fsq_bHmnrMYL5b1HvFESEadMGe4g24E3TMMLYmcAlZNsmDtqGHmHiiVSjAQFdHfpsdKzh4coTETANVKJHACxp83XM",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dzvtTNJWmWrKDy0xo4BxSCD7BmfPuD-Gj28EbI07cp7wOlmR2A8NpGp2GcFw9kLCHS5MBHXetTpGPNxI5CCwj7X9JQKn4SBi0YgU-xAoUD4WFCDD5HE53RxmslwQPpGNuEfnF1x",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animeshd.cloud/#xs6wcp",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#e8e6zx",
+          "url": "https://animes.strp2p.com/#6zg6ie",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dySe7bIjUWOEITa0T18cKWwDtdRLEAgAeyPpK27GdXFKC_fsq_bHmnrMYL5b1HvFESEadMGe4g24E3TMMLYmcAlZNsmDtqGHmHiiVSjAQFdHfpsdKzh4coTETANVKJHACxp83XM"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dzvtTNJWmWrKDy0xo4BxSCD7BmfPuD-Gj28EbI07cp7wOlmR2A8NpGp2GcFw9kLCHS5MBHXetTpGPNxI5CCwj7X9JQKn4SBi0YgU-xAoUD4WFCDD5HE53RxmslwQPpGNuEfnF1x"
     },
     "order": 7,
-    "createdAt": "2026-04-14T18:53:49.000Z"
+    "createdAt": "2026-04-15T12:53:00.000Z"
   },
   {
-    "animeSlug": "niwatori-fighter-dublado",
-    "title": "Episódio 04 - Focando no Desejo",
-    "number": 4,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/oVuxOiHcY5mFyHYtLeHzyHPNdTf-300x170.jpg",
+    "animeSlug": "my-hero-academia-vigilantes-2-dublado",
+    "title": "Episódio 12 - Isso é um super-herói",
+    "number": 12,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/k5tHHSK1EvWRbFGQyI0AQA1XJKy-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzekSC8A9PdU25ccCW2EK3eq5KY9Zgb0DMB70Z5R5hIw_45Urqtz9kIo185Qd2VMxjgY8iZkrdzslKMvhYgcrnhnOPES9UlTASMjEgU0vyY-zvnWbaHw4D2ZGjnqExD5tXGd7o",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dzwC2p7giCT0FBrWY1WrykxnyBVYBAsXTuY2OBcw611kODDZm0lAl1uoOg6ONm3R8Vsa7-w4S5Z8HQ_akDel_56uL_uPSCkbNl9ncfGuVDdtlN4GZHSiKVHAVeTcIRJhg0yyqU4",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#turua5",
+          "url": "https://animes.strp2p.com/#jvkjr8",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzekSC8A9PdU25ccCW2EK3eq5KY9Zgb0DMB70Z5R5hIw_45Urqtz9kIo185Qd2VMxjgY8iZkrdzslKMvhYgcrnhnOPES9UlTASMjEgU0vyY-zvnWbaHw4D2ZGjnqExD5tXGd7o"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dzwC2p7giCT0FBrWY1WrykxnyBVYBAsXTuY2OBcw611kODDZm0lAl1uoOg6ONm3R8Vsa7-w4S5Z8HQ_akDel_56uL_uPSCkbNl9ncfGuVDdtlN4GZHSiKVHAVeTcIRJhg0yyqU4"
     },
     "order": 8,
-    "createdAt": "2026-04-14T18:53:51.000Z"
+    "createdAt": "2026-04-15T12:53:03.000Z"
   },
   {
-    "animeSlug": "nippon-sangoku",
-    "title": "Episódio 01 - Um Voto de Paz",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/6s3ccjClJaAgYEMNpAEKrjPypmM-300x170.jpg",
+    "animeSlug": "tongari-boushi-no-atelier-dublado",
+    "title": "Episódio 03 - O teste da cordilheira Dada",
+    "number": 3,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/hmGBLvJ5WkgGffdWDbMHAm41dhh-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwAcfOz9dkkF27NA8iOEVG0m-D5pE9zBs5NkmRGvms73NZV8oWnFv2Jm7mAYdW_bcIT-UaWhgPAGCVotIUX9XV3MeSSK3ZUikLDgVob_oA9UeGLZwrFl7ewzNozVRde22BeYwzG",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dwZskvXgnKBTtwaCkw_YBm4CByWKAFRcDILomBuG6CPZfODionds48mE_6vQRmMXyEvoTEjGNsAyutee8q0nHXsUQue8TWPAr3zzI6srryIgRRziZ4V55wx3aveug52ZRKTtnw",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animeshd.cloud/#prukb6",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#wiki5o",
+          "url": "https://animes.strp2p.com/#ow1oqc",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwAcfOz9dkkF27NA8iOEVG0m-D5pE9zBs5NkmRGvms73NZV8oWnFv2Jm7mAYdW_bcIT-UaWhgPAGCVotIUX9XV3MeSSK3ZUikLDgVob_oA9UeGLZwrFl7ewzNozVRde22BeYwzG"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dwZskvXgnKBTtwaCkw_YBm4CByWKAFRcDILomBuG6CPZfODionds48mE_6vQRmMXyEvoTEjGNsAyutee8q0nHXsUQue8TWPAr3zzI6srryIgRRziZ4V55wx3aveug52ZRKTtnw"
     },
     "order": 9,
-    "createdAt": "2026-04-14T18:53:54.000Z"
+    "createdAt": "2026-04-15T12:53:06.000Z"
   },
   {
-    "animeSlug": "nippon-sangoku-dublado",
-    "title": "Episódio 01 - Um Voto de Paz",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/trmvNrx9KygN4byuzBWpEVCRjaw-300x170.jpg",
+    "animeSlug": "fangkai-nage-nuwu",
+    "title": "Episódio 07",
+    "number": 7,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/sut3E6CvcCifq3QIQvwnYKvAOy7-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dxZJbb0ZSxMjRolp7cm6NLk3Ot-Tncu_Dr2AxdWTS0UM8bVq-gCndUDJFEIwgfb-nAMgHOt8kp7BOty2krpLmxA3-e7YnXo_TLDe790WqV5NOZNJdHEE0UU3hlxcMgmChd3R6g",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dxFvJumRBmaVFiwRxjTMR5GNMqmWMUyMNKYojXCC24HQaiBFut7RchM3bqWbT4vCdnMcIy_ou9_2FmGxThmBsUtLaTy5_28KWEAGedMLhCfwlKyp2s3QZSqCd3Lj3N2K4dB4Sc",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animeshd.cloud/#czv5nm",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#q5p5zz",
+          "url": "https://animes.strp2p.com/#asvyfj",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dxZJbb0ZSxMjRolp7cm6NLk3Ot-Tncu_Dr2AxdWTS0UM8bVq-gCndUDJFEIwgfb-nAMgHOt8kp7BOty2krpLmxA3-e7YnXo_TLDe790WqV5NOZNJdHEE0UU3hlxcMgmChd3R6g"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dxFvJumRBmaVFiwRxjTMR5GNMqmWMUyMNKYojXCC24HQaiBFut7RchM3bqWbT4vCdnMcIy_ou9_2FmGxThmBsUtLaTy5_28KWEAGedMLhCfwlKyp2s3QZSqCd3Lj3N2K4dB4Sc"
     },
     "order": 10,
-    "createdAt": "2026-04-14T18:53:57.000Z"
+    "createdAt": "2026-04-15T12:53:10.000Z"
   },
   {
-    "animeSlug": "seihantai-na-kimi-to-boku-dublado",
-    "title": "Episódio 10 - Excursão Escolar (Parte 1)",
-    "number": 10,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/1Zv3mma8R5NLfWA0NOJXOjY4vG9-300x170.jpg",
+    "animeSlug": "liar-game",
+    "title": "Episódio 02 - Onda de choque",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/rPLaMptngmdoLOPIwunO2xysUVp-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dz33GwYiifU67H8o1K4lZ9hIw18xSXOv-txi2su8DQdw4zxSnLPvOV1REbNHRHRMIQtlmaFHtXx-x_7xG0v_gWELbqPz-wLhmzYygQXFUOF0XY1-3iWuGRnJHrQEckWCCYp9bs",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dy4hARNg_bLW6Lo5imGkoFGaLFxNU0FRrm4w9GdSOYOyahMhzYiLlDSL9atZINKc8Q7xe2AdCf2usdgZrG9WwLsbUcdC2hA5QN3eUy-T7kPYJDDA_YoHA8wqVyJG9OLyI0xU9c",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#yjojqs",
+          "url": "https://animes.strp2p.com/#3pyx6i",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dz33GwYiifU67H8o1K4lZ9hIw18xSXOv-txi2su8DQdw4zxSnLPvOV1REbNHRHRMIQtlmaFHtXx-x_7xG0v_gWELbqPz-wLhmzYygQXFUOF0XY1-3iWuGRnJHrQEckWCCYp9bs"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dy4hARNg_bLW6Lo5imGkoFGaLFxNU0FRrm4w9GdSOYOyahMhzYiLlDSL9atZINKc8Q7xe2AdCf2usdgZrG9WwLsbUcdC2hA5QN3eUy-T7kPYJDDA_YoHA8wqVyJG9OLyI0xU9c"
     },
     "order": 11,
-    "createdAt": "2026-04-14T18:54:00.000Z"
+    "createdAt": "2026-04-15T12:53:13.000Z"
   },
   {
-    "animeSlug": "yami-shibai-16",
-    "title": "Episódio 13 - Desfecho",
-    "number": 13,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/40itlmKAyLz6Xyer6yMwVv9GTD4-300x170.jpg",
+    "animeSlug": "ichijouma-mankitsugurashi",
+    "title": "Episódio 01 - Mudando-se para Tóquio? O que acontecerá com Meiko?",
+    "number": 1,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/lUYRLmJHJyVzwwJUIPIJHxZR6TE-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dys0rxrVaorSQ9c3W1MsVXYt_zdn3F0WPyhbPtKhfQ2hW4CyYM7XSaffQByOLvm2h86_waLawvq2xAOMLBN1NkHwiP2d5CV8jlRMvJXuzLFxkPzDcMfMLcVeKJYaZTEcxiZg7s",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dz395BqoclV4UQoZVwx-ImOkez_zrSeZZGQOaJj4iFISFg7uXLnmyq0jSMRyDpidFU4T_aYMINaJRAn9dSl7yxn4zKkGqkQPYjxXD7UhHC1We9kk_VMQm0YbLQqMvOjCaGq8WKt",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#3pupxv",
+          "url": "https://animeshd.cloud/#69lrwh",
+          "type": "iframe",
+          "label": "FHD"
+        },
+        {
+          "url": "https://animes.strp2p.com/#yjsumz",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dys0rxrVaorSQ9c3W1MsVXYt_zdn3F0WPyhbPtKhfQ2hW4CyYM7XSaffQByOLvm2h86_waLawvq2xAOMLBN1NkHwiP2d5CV8jlRMvJXuzLFxkPzDcMfMLcVeKJYaZTEcxiZg7s"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dz395BqoclV4UQoZVwx-ImOkez_zrSeZZGQOaJj4iFISFg7uXLnmyq0jSMRyDpidFU4T_aYMINaJRAn9dSl7yxn4zKkGqkQPYjxXD7UhHC1We9kk_VMQm0YbLQqMvOjCaGq8WKt"
     },
     "order": 12,
-    "createdAt": "2026-04-14T18:54:03.000Z"
+    "createdAt": "2026-04-15T12:53:16.000Z"
   },
   {
-    "animeSlug": "isekai-nonbiri-nouka-2",
-    "title": "Episódio 01 - Bem-vindo",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/kpPZxrtDc1dbpKjwnTVBD6bDoKY-300x170.jpg",
+    "animeSlug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
+    "title": "Episódio 02 - A Monitora Desastrada e a Assistente da Biblioteca / A Vez em que Ela Almoçou com a Desastrada",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/vGL99yt1q2u0AlozVQlSVrrvlox-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwwWbrLW4yeVkpMt0CNZ5VRD5M18f6pELKTzG6pObmgxQU3KfPZ7mFt176NWSjy3AyRb8mlAsjX4_FUWS-i_BZiDVIR6XhCV-Gc47i6ytPe_kbMAoRnIZJRCUZd2iaOGUurvwcs",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dyqwPeU3NYrM4y5nLFYHx63T05IZ4nYrY3wUE99WsySY7b87DjJXiqjPC8mPWkFoqYVnWiX5SBk_86dtVv1jHm_0ndX5Av9iKHW6311X4VOZpjeGreMTZMxKk2CWSsxmq51NCfh",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#6zmiem",
+          "url": "https://animes.strp2p.com/#ke6wxw",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwwWbrLW4yeVkpMt0CNZ5VRD5M18f6pELKTzG6pObmgxQU3KfPZ7mFt176NWSjy3AyRb8mlAsjX4_FUWS-i_BZiDVIR6XhCV-Gc47i6ytPe_kbMAoRnIZJRCUZd2iaOGUurvwcs"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dyqwPeU3NYrM4y5nLFYHx63T05IZ4nYrY3wUE99WsySY7b87DjJXiqjPC8mPWkFoqYVnWiX5SBk_86dtVv1jHm_0ndX5Av9iKHW6311X4VOZpjeGreMTZMxKk2CWSsxmq51NCfh"
     },
     "order": 13,
-    "createdAt": "2026-04-14T18:54:06.000Z"
-  },
-  {
-    "animeSlug": "jigokuraku-2-dublado",
-    "title": "Episódio 10 - Mestre e Estudante",
-    "number": 10,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/b9SK0PMsCJVKgOhWi8416xnYYXT-300x170.jpg",
-    "video": {
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzBUk2jz601L9b5Ib1yExcuYGj2gEYvVtULIrAomCK34wpTwOf6x3hqTiS3NeZU44mdJUf_xXJzngAXfFuJDA_62O6QMf_Sq8Bdwn5KOBJS3awj_iU5XfBpvEUyvWlwS-Ck6GXk",
-          "type": "blogger",
-          "label": "FullHD / HLS"
-        },
-        {
-          "url": "https://animes.strp2p.com/#panaql",
-          "type": "iframe",
-          "label": "FHD"
-        }
-      ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzBUk2jz601L9b5Ib1yExcuYGj2gEYvVtULIrAomCK34wpTwOf6x3hqTiS3NeZU44mdJUf_xXJzngAXfFuJDA_62O6QMf_Sq8Bdwn5KOBJS3awj_iU5XfBpvEUyvWlwS-Ck6GXk"
-    },
-    "order": 14,
-    "createdAt": "2026-04-14T18:54:09.000Z"
+    "createdAt": "2026-04-15T12:53:19.000Z"
   },
   {
     "animeSlug": "tongari-boushi-no-atelier",
-    "title": "Episódio 01 - A magia que deu início a tudo.",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/zCD919zWv6ekGpCDLneTvAdTZQ3-300x170.jpg",
-    "video": {
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzCWFCE_maAiL7O2qjMZP8XMyU6ejV9ufpW5WJP6aXd3yEuaL6vQTKQJp2pQzT-7IXD25O0cBZqVWtr_3IPeivfxFGiJSQp4IDV-2YnCjBfMvzRuMaK85D05hJJQqqqnWfGwXWE",
-          "type": "blogger",
-          "label": "FullHD / HLS"
-        },
-        {
-          "url": "https://animes.strp2p.com/#wikisk",
-          "type": "iframe",
-          "label": "FHD"
-        }
-      ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzCWFCE_maAiL7O2qjMZP8XMyU6ejV9ufpW5WJP6aXd3yEuaL6vQTKQJp2pQzT-7IXD25O0cBZqVWtr_3IPeivfxFGiJSQp4IDV-2YnCjBfMvzRuMaK85D05hJJQqqqnWfGwXWE"
-    },
-    "order": 15,
-    "createdAt": "2026-04-14T18:54:12.000Z"
-  },
-  {
-    "animeSlug": "tongari-boushi-no-atelier",
-    "title": "Episódio 02 - A Escola da Pastagem",
-    "number": 2,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/jelbromj7H8r42HAv4g1T09DBre-300x170.jpg",
+    "title": "Episódio 03 - O teste da cordilheira Dada",
+    "number": 3,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/hmGBLvJ5WkgGffdWDbMHAm41dhh-300x170.jpg",
     "video": {
       "players": [
         {
@@ -407,346 +351,182 @@
       ],
       "main": "https://www.blogger.com/video.g?token=AD6v5dw-phpboD4C5mJ1oVy7gHxS8RrwpRzXH-uMwg1jOB1pjHc2aRjCUuYGYkCdArK0q0WtBjRf_GhxOX3DOmYIpMHmgfRhNCDvUp5W_fZl_UuBUYaF4Ssmho6fK4jwBfaKxc5PlvY"
     },
-    "order": 16,
-    "createdAt": "2026-04-14T18:54:15.000Z"
+    "order": 14,
+    "createdAt": "2026-04-15T12:53:22.000Z"
   },
   {
-    "animeSlug": "ponkotsu-fuuki-iin-to-skirt-take-ga-futekisetsu-na-jk-no-hanashi",
-    "title": "Episódio 01 - A monitora de turma é uma desastrada / As amigas da aluna se envolvem com a desastrada / A monitora de turma desastrada e a representan",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/mlfSWnx8h50b921CpnF1vxAdq65-300x170.jpg",
+    "animeSlug": "isekai-nonbiri-nouka-2",
+    "title": "Episódio 02 - Os Imigrantes",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/7DvNUSBvSVJ2uZqbyJUwYXMFd8A-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwiothp-ZLyz8_mWSWEnX9LllfbR1vW_cZ977zQiEQRdLt-a4P8ot-LJqycR70P1WkIcaRPHiWLNGNEFmOWrGNlNSdaIUtx8cilT1K9FZnpUV-2pN8-8R46JKnKN-XyEZCELRhj",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dzUCLCNQxcCScuefn_ud7AvbgmbsNyfoTco28VLOAE2hBtgS53vRsj2VnWVupYmVplz5ouHj8OFXV-2rf1LIcJSBiTn9YVLnXrEBe8o6jtOr9nQio_H8_yAnF26scy1ln8cLS0",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animeshd.cloud/#czvvnx",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#turpyr",
+          "url": "https://animes.strp2p.com/#dmchpk",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwiothp-ZLyz8_mWSWEnX9LllfbR1vW_cZ977zQiEQRdLt-a4P8ot-LJqycR70P1WkIcaRPHiWLNGNEFmOWrGNlNSdaIUtx8cilT1K9FZnpUV-2pN8-8R46JKnKN-XyEZCELRhj"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dzUCLCNQxcCScuefn_ud7AvbgmbsNyfoTco28VLOAE2hBtgS53vRsj2VnWVupYmVplz5ouHj8OFXV-2rf1LIcJSBiTn9YVLnXrEBe8o6jtOr9nQio_H8_yAnF26scy1ln8cLS0"
+    },
+    "order": 15,
+    "createdAt": "2026-04-15T12:53:25.000Z"
+  },
+  {
+    "animeSlug": "kuroneko-to-majo-no-kyoushitsu",
+    "title": "Episódio 01 - Gato Preto e Spica",
+    "number": 1,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/ppduBkwXbR8DNNcQSRjGM7ve9Ac-300x170.jpg",
+    "video": {
+      "backup": [
+        "https://www.blogger.com/video.g?token=AD6v5dx0E7bfl-fVKYOz8kedWpiygQD7x-em5W-CDqercv-uEMY58uzz89tp8TnnXkjVh8D15IxcG_ydcwSfzKOYtM_t5YDVH_pm97Latgrx-1Zsi4fna-03ynnOqE1wV_ey0sjvVs4"
+      ],
+      "main": "javascript:false"
+    },
+    "order": 16,
+    "createdAt": "2026-04-15T12:53:28.000Z"
+  },
+  {
+    "animeSlug": "ghost-concert-missing-songs",
+    "title": "Episódio 02 - Separação entre a vida e a morte (Parte 2)",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/a5B82WRuchwKidWcE8NHvkdHT5Z-300x170.jpg",
+    "video": {
+      "players": [
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dx5mTTa1bf7T9ZrpY5q5pXLibu5hylnG2JrdVu03OoszE5qT-Yt1hAd3FoyPT5tjilsjBjydyyj2nVj8bZuRs4GL26aPi1ymXaMpsq5ZVLy9tS7d3BjUo6yS02vp1KkU9fS437_",
+          "type": "blogger",
+          "label": "FullHD / HLS"
+        },
+        {
+          "url": "https://animes.strp2p.com/#dmciht",
+          "type": "iframe",
+          "label": "FHD"
+        }
+      ],
+      "main": "https://www.blogger.com/video.g?token=AD6v5dx5mTTa1bf7T9ZrpY5q5pXLibu5hylnG2JrdVu03OoszE5qT-Yt1hAd3FoyPT5tjilsjBjydyyj2nVj8bZuRs4GL26aPi1ymXaMpsq5ZVLy9tS7d3BjUo6yS02vp1KkU9fS437_"
     },
     "order": 17,
-    "createdAt": "2026-04-14T18:54:18.000Z"
+    "createdAt": "2026-04-15T12:53:31.000Z"
   },
   {
-    "animeSlug": "liar-game",
-    "title": "Episódio 01 - O Picareta Lendário",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/4fNSixje6fHYwFFb8VVOkHxOeBo-300x170.jpg",
+    "animeSlug": "b-king",
+    "title": "Episódio 08 - Vamos beber isto!",
+    "number": 8,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/2ngKGc0D61e6wnFnW0u0iiySEXA-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dw56CZhcFAwm0n6wfaK7Vl1lWvl9ipI4IjNhNwacSuZ6NJLHCUk0crsyMM75H8QsbWiPAptjGkew2NVCPW-ZlXTgvyqa2rVvc-ajHPxKjP8JAbj_uugEsKM4zz1S_ICmOjD55w",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dww2XC0-WcZlcuOa0oMK1r1hPePTlnR8gN3EaBWH3hBwdQx9BWSwHvAT3FJcc3D9R3Bjr_1dR0wEaY7Vg1Loqkhlm6j2MSYJD-LRRqFx23HGfjnCOxeVGN9IrG1W5DuMheLE2Mr",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animeshd.cloud/#ho9kdz",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#asfwiy",
+          "url": "https://animes.strp2p.com/#wilojm",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dw56CZhcFAwm0n6wfaK7Vl1lWvl9ipI4IjNhNwacSuZ6NJLHCUk0crsyMM75H8QsbWiPAptjGkew2NVCPW-ZlXTgvyqa2rVvc-ajHPxKjP8JAbj_uugEsKM4zz1S_ICmOjD55w"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dww2XC0-WcZlcuOa0oMK1r1hPePTlnR8gN3EaBWH3hBwdQx9BWSwHvAT3FJcc3D9R3Bjr_1dR0wEaY7Vg1Loqkhlm6j2MSYJD-LRRqFx23HGfjnCOxeVGN9IrG1W5DuMheLE2Mr"
     },
     "order": 18,
-    "createdAt": "2026-04-14T18:54:21.000Z"
+    "createdAt": "2026-04-15T12:53:35.000Z"
   },
   {
-    "animeSlug": "fangkai-nage-nuwu",
-    "title": "Episódio 06",
-    "number": 6,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/rPbPo77jiaEHsTOwPKwH9RZahya-300x170.jpg",
+    "animeSlug": "niwatori-fighter-dublado",
+    "title": "Episódio 05 - O Bando Heterogêneo se Dispersa",
+    "number": 5,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/4hjh5GroInejRHNQ764X2CGgKKC-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzHtbDfjP_EYOxEmHWjxhvR2u_J2AYvlTgHnJczqnjUx2c9JFhHeCq6_Vd25zzPL6XOkYvl3JCHgdB5EimSNhXu7-sdRsV6zswqs48OXlODkyZ1JOpPdRkp4b8f3iiL4qW6noEx",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dwoMjope53lYf04oDTahzyII8snIY34OsrfZbFZR3-RQC1rsDtj2Hs7t1jt1fYcFkH3x-OaCIYCJrV4-6A1g5Bmx7u7EiU8y4xs803Mey8XsuFEA7Egzgh9VHlTPmwcrPvGDodK",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#jvwynx",
+          "url": "https://animes.strp2p.com/#pajqyr",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzHtbDfjP_EYOxEmHWjxhvR2u_J2AYvlTgHnJczqnjUx2c9JFhHeCq6_Vd25zzPL6XOkYvl3JCHgdB5EimSNhXu7-sdRsV6zswqs48OXlODkyZ1JOpPdRkp4b8f3iiL4qW6noEx"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dwoMjope53lYf04oDTahzyII8snIY34OsrfZbFZR3-RQC1rsDtj2Hs7t1jt1fYcFkH3x-OaCIYCJrV4-6A1g5Bmx7u7EiU8y4xs803Mey8XsuFEA7Egzgh9VHlTPmwcrPvGDodK"
     },
     "order": 19,
-    "createdAt": "2026-04-14T18:54:24.000Z"
+    "createdAt": "2026-04-15T12:53:38.000Z"
   },
   {
-    "animeSlug": "my-hero-academia-vigilantes-2-dublado",
-    "title": "Episódio 11 - Coração de Balão",
+    "animeSlug": "seihantai-na-kimi-to-boku-dublado",
+    "title": "Episódio 11 - Excursão Escolar (Parte 2)",
     "number": 11,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/7GxYvkeAbHNGesezzF5ypWEhcWS-300x170.jpg",
+    "image": "https://animeq.net/wp-content/uploads/2026/04/yOIMkIkyr9VV8ARufYz9zdwC8S3-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzzfMME9Y-Eq82E1e0qpaWbITDg2HSNz_MrGvVpITwuWFfaOTMHCjWzzT_rToJ4zWDaVfxDSZdqZMgWbIB63AY3vb_Z_lQwCySn2YxyxhkGAeMa75uYANHBWTcG-yX9gIslb1fE",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dxNIJKLp4ADG-8_O1lL2sJaccq5rAqs-9UB9KyCz-SA6uuW9NiwqszlJmjHiLNiUE8wfbnKkkvHFxACG-A3SbjDdACGC5aMFig74iZ0NcC_EJe0Ob6nE9TdjAxA05VRGpcH7wY",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#eb8mu5",
+          "url": "https://animes.strp2p.com/#5ofqqp",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzzfMME9Y-Eq82E1e0qpaWbITDg2HSNz_MrGvVpITwuWFfaOTMHCjWzzT_rToJ4zWDaVfxDSZdqZMgWbIB63AY3vb_Z_lQwCySn2YxyxhkGAeMa75uYANHBWTcG-yX9gIslb1fE"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dxNIJKLp4ADG-8_O1lL2sJaccq5rAqs-9UB9KyCz-SA6uuW9NiwqszlJmjHiLNiUE8wfbnKkkvHFxACG-A3SbjDdACGC5aMFig74iZ0NcC_EJe0Ob6nE9TdjAxA05VRGpcH7wY"
     },
     "order": 20,
-    "createdAt": "2026-04-14T18:54:27.000Z"
+    "createdAt": "2026-04-15T12:53:41.000Z"
   },
   {
-    "animeSlug": "tongari-boushi-no-atelier-dublado",
-    "title": "Episódio 01 - A magia que deu início a tudo.",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/lW0Vjm1HUa25amGW7WjMhWxXD7Z-300x170.jpg",
+    "animeSlug": "nippon-sangoku-dublado",
+    "title": "Episódio 02 - Toryumon",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/9Xyf0D51424WqNMCZRnoft6Ub0B-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dxJ-gNl-mb0lGtg9DHFEXijRamPgFEnTw8rhPLSdFVEoeMeTv8KjYLOOYfR-Kf26fAf5Cwk9dqkqODgosRZpcyo2kDPbqJTyos6JdW7q_mGTnUDm4aFbTsnItmn2ug9ZB64uVI",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dyM-xJL1mxBfd2Xo6r3imuTjz48x0q8jjmjF-5mFcFurTTx77GC0hy8xWJoFnhCSrp10njpAFLjxqdidWiMSnbnL7dgbTVpaBwRaswygsA7fPPt0sw0DRlN5laI-NVlJmwRK7J7",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animeshd.cloud/#mpehyb",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#eb8me6",
+          "url": "https://animes.strp2p.com/#asvpp5",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dxJ-gNl-mb0lGtg9DHFEXijRamPgFEnTw8rhPLSdFVEoeMeTv8KjYLOOYfR-Kf26fAf5Cwk9dqkqODgosRZpcyo2kDPbqJTyos6JdW7q_mGTnUDm4aFbTsnItmn2ug9ZB64uVI"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dyM-xJL1mxBfd2Xo6r3imuTjz48x0q8jjmjF-5mFcFurTTx77GC0hy8xWJoFnhCSrp10njpAFLjxqdidWiMSnbnL7dgbTVpaBwRaswygsA7fPPt0sw0DRlN5laI-NVlJmwRK7J7"
     },
     "order": 21,
-    "createdAt": "2026-04-14T18:54:30.000Z"
+    "createdAt": "2026-04-15T12:53:44.000Z"
   },
   {
-    "animeSlug": "tongari-boushi-no-atelier-dublado",
-    "title": "Episódio 02 - A Escola da Pastagem",
-    "number": 2,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/h5e1N25e3DyAkG5m7I174A4SkPa-300x170.jpg",
+    "animeSlug": "toujima-tanzaburou-wa-kamen-rider-ni-naritai-dublado",
+    "title": "Episódio 23 - Vamos lá, Shocker!",
+    "number": 23,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/4cJI6glBj3zumgry0gyEkHrHV0F-300x170.jpg",
     "video": {
       "players": [
         {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwhmkTdnefTnphks6s23FyHX2KGLHOnHHFZeShz-hhR5SD0YRuNcUS1cM0ueMAv6GVFqz_Uw1x-N_xY5srMG7-BPvZiPshipVmRe3fxcRkIeQ_QKRQO-qVH1i3rtzLhYtlENwqj",
+          "url": "https://www.blogger.com/video.g?token=AD6v5dxmvsMHcV3eEUOmtMavWBrdhnrd-koOofLqbigDxzQlcLGLX60JhqHbF7rGrYUkp1CIXNNtxCD-B6KCGbdYjTT0dxF9FrNoqTMLfvsO_4E3_g7-ErIW1Gprpm3-n2kSGw5Mae4",
           "type": "blogger",
           "label": "FullHD / HLS"
         },
         {
-          "url": "https://animes.strp2p.com/#l86b1z",
+          "url": "https://animes.strp2p.com/#6zghlz",
           "type": "iframe",
           "label": "FHD"
         }
       ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwhmkTdnefTnphks6s23FyHX2KGLHOnHHFZeShz-hhR5SD0YRuNcUS1cM0ueMAv6GVFqz_Uw1x-N_xY5srMG7-BPvZiPshipVmRe3fxcRkIeQ_QKRQO-qVH1i3rtzLhYtlENwqj"
+      "main": "https://www.blogger.com/video.g?token=AD6v5dxmvsMHcV3eEUOmtMavWBrdhnrd-koOofLqbigDxzQlcLGLX60JhqHbF7rGrYUkp1CIXNNtxCD-B6KCGbdYjTT0dxF9FrNoqTMLfvsO_4E3_g7-ErIW1Gprpm3-n2kSGw5Mae4"
     },
     "order": 22,
-    "createdAt": "2026-04-14T18:54:33.000Z"
-  },
-  {
-    "animeSlug": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-2",
-    "title": "Episódio 01 - A Princesa Tirana e Seu Noivo",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/r9EvUmDpNTFJzRoeCHsqzOQy6l3-300x170.jpg",
-    "video": {
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dyCLg0sxV_px75p4PMTQ8p_1zE44t2bpDPRFpt4HH_ARQi-TcHgOZv06G1J5TEqG2QF6KfCC6h0We2u9a6egOQoU60bEUu_NI3yltU72xQgf_2OCo3X2vcI1JAW_eGHvk2vK7c",
-          "type": "blogger",
-          "label": "FullHD / HLS"
-        },
-        {
-          "url": "https://animes.strp2p.com/#paobf1",
-          "type": "iframe",
-          "label": "FHD"
-        }
-      ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dyCLg0sxV_px75p4PMTQ8p_1zE44t2bpDPRFpt4HH_ARQi-TcHgOZv06G1J5TEqG2QF6KfCC6h0We2u9a6egOQoU60bEUu_NI3yltU72xQgf_2OCo3X2vcI1JAW_eGHvk2vK7c"
-    },
-    "order": 23,
-    "createdAt": "2026-04-14T18:54:36.000Z"
-  },
-  {
-    "animeSlug": "daikenja-riddle-no-jikan-gyakkou",
-    "title": "Episódio 01 - O Dia em que o Mundo se Despedaça",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/84xkrmnEvNHsy1PM5pCpNgIiSeF-300x170.jpg",
-    "video": {
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwCIMzUAg5ICxrEnGhkpQd45WG3vLaun9ZrvjO4e7hbzYFDfc8boKrGKAd0_X4dtlMZb3u9W5wdXErXRrHotEeMf6SxcgyWBewV-21-o5bwFXBbTvmGpI5eaG6YLRHmb4BET9C1&origin=lalalablablablaeuseila.blogspot.com",
-          "type": "blogger",
-          "label": "FullHD / HLS"
-        },
-        {
-          "url": "https://animes.strp2p.com/#3p56ed",
-          "type": "iframe",
-          "label": "FHD"
-        }
-      ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwCIMzUAg5ICxrEnGhkpQd45WG3vLaun9ZrvjO4e7hbzYFDfc8boKrGKAd0_X4dtlMZb3u9W5wdXErXRrHotEeMf6SxcgyWBewV-21-o5bwFXBbTvmGpI5eaG6YLRHmb4BET9C1&origin=lalalablablablaeuseila.blogspot.com"
-    },
-    "order": 24,
-    "createdAt": "2026-04-14T18:54:50.000Z"
-  },
-  {
-    "animeSlug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
-    "title": "Episódio 01 - Uma garota chamada Asanagi Umi",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/lt68jhb4go1JORHl36SuquryyNV-300x170.jpg",
-    "video": {
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dyAuBTh2s-Kdb6W9jJ0f2jSV4bd--efGrn_B9XD9enYQB50tCKy-rJ10Lzz7ZURr9xi_HJmOzWKYI7P7XwLHwym9LykyzKRbdyCXS9Lhx5HOKS6ZSo4gEAVjTassH0SRmg9IXOt",
-          "type": "blogger",
-          "label": "FullHD / HLS"
-        },
-        {
-          "url": "https://animeshd.cloud/#prutfu",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#3p5buj",
-          "type": "iframe",
-          "label": "FHD"
-        }
-      ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dyAuBTh2s-Kdb6W9jJ0f2jSV4bd--efGrn_B9XD9enYQB50tCKy-rJ10Lzz7ZURr9xi_HJmOzWKYI7P7XwLHwym9LykyzKRbdyCXS9Lhx5HOKS6ZSo4gEAVjTassH0SRmg9IXOt"
-    },
-    "order": 25,
-    "createdAt": "2026-04-14T18:54:53.000Z"
-  },
-  {
-    "animeSlug": "marriagetoxin",
-    "title": "Episódio 01 - A Busca do Mestre dos Venenos por uma Noiva",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/uRI8te1uWnpJdT6ySjQUydB7Ifo-300x170.jpg",
-    "video": {
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzpMJPh5dO9vATFVKgQHKoXwbL4tqtELqTvUu43OFk03fRb8ZzMI1bYLyfaAw18Fng0eCFFQKdif4F7KV0oiAJbx3JkWoueQqyX93gS1gxw8PM-auG14WsxsHsBdtn5xWwsQ1Dp",
-          "type": "blogger",
-          "label": "FullHD / HLS"
-        },
-        {
-          "url": "https://animeshd.cloud/#xsir6r",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#aswu9i",
-          "type": "iframe",
-          "label": "FHD"
-        }
-      ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzpMJPh5dO9vATFVKgQHKoXwbL4tqtELqTvUu43OFk03fRb8ZzMI1bYLyfaAw18Fng0eCFFQKdif4F7KV0oiAJbx3JkWoueQqyX93gS1gxw8PM-auG14WsxsHsBdtn5xWwsQ1Dp"
-    },
-    "order": 26,
-    "createdAt": "2026-04-14T18:54:56.000Z"
-  },
-  {
-    "animeSlug": "replica-datte-koi-wo-suru",
-    "title": "Episódio 01 - Uma Réplica Nunca Sonha",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/xAa1BkONYfbXkw5HyL9zEB2AEyt-300x170.jpg",
-    "video": {
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzI-fxmm145fAFbanS1RkOdUj3gY4w69PJwzHuIdnPYvKHlmznvFwKRqCAiA9BJtAIFv3mkPyFMS5LZYkYtSD5SIza22e2QWyT2qg55gL1bnhoqyt-cGin1Wh-FXsQ3_xdHrQ",
-          "type": "blogger",
-          "label": "FullHD / HLS"
-        },
-        {
-          "url": "https://animeshd.cloud/#8w5gws",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#ryn9zv",
-          "type": "iframe",
-          "label": "FHD"
-        }
-      ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzI-fxmm145fAFbanS1RkOdUj3gY4w69PJwzHuIdnPYvKHlmznvFwKRqCAiA9BJtAIFv3mkPyFMS5LZYkYtSD5SIza22e2QWyT2qg55gL1bnhoqyt-cGin1Wh-FXsQ3_xdHrQ"
-    },
-    "order": 27,
-    "createdAt": "2026-04-14T18:54:59.000Z"
-  },
-  {
-    "animeSlug": "tadaima-ojamasaremasu",
-    "title": "Episódio 01 - Com licença pela intromissão, você está na minha casa!?",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/acEjL3zCJTWKNC9714MSPpMTZO3-300x170.jpg",
-    "video": {
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwTvWi11cHL0xN7ndfW_oIxHFXsO5Vxy6xOn_hxIvqOZ4cQ_fS0zKDnzA7tqR1GebtPtAfCSqzHC1kUoAdSniZhfsEB1zF2VXh7cZfrgUqUIry4GTWFGl_ZfRbk9jYDR-4x-Qrk",
-          "type": "blogger",
-          "label": "FullHD / HLS"
-        },
-        {
-          "url": "https://animeshd.cloud/#ikpcdk",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#skhl5u",
-          "type": "iframe",
-          "label": "FHD"
-        }
-      ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwTvWi11cHL0xN7ndfW_oIxHFXsO5Vxy6xOn_hxIvqOZ4cQ_fS0zKDnzA7tqR1GebtPtAfCSqzHC1kUoAdSniZhfsEB1zF2VXh7cZfrgUqUIry4GTWFGl_ZfRbk9jYDR-4x-Qrk"
-    },
-    "order": 28,
-    "createdAt": "2026-04-14T18:55:02.000Z"
-  },
-  {
-    "animeSlug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
-    "title": "Episódio 01",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/uuSYLe7CMnjLDCx3QjM7P13701W-300x170.jpg",
-    "video": {
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwM4Tj05szucoa6oJ3HvhjB2bnyfnQGCE4S-851Cf3_jMsH44-u4pUYJ2rAZevBAeP_L20OorPBBDcSGuFlJosVA82R5RFEkGcAEOzDWNb9LwvGNXiZNRYSxB_A_bIS4AwdH-4",
-          "type": "blogger",
-          "label": "FullHD / HLS"
-        },
-        {
-          "url": "https://animeshd.cloud/#ho91x1",
-          "type": "iframe",
-          "label": "FHD"
-        },
-        {
-          "url": "https://animes.strp2p.com/#wil8x9",
-          "type": "iframe",
-          "label": "FHD"
-        }
-      ],
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwM4Tj05szucoa6oJ3HvhjB2bnyfnQGCE4S-851Cf3_jMsH44-u4pUYJ2rAZevBAeP_L20OorPBBDcSGuFlJosVA82R5RFEkGcAEOzDWNb9LwvGNXiZNRYSxB_A_bIS4AwdH-4"
-    },
-    "order": 29,
-    "createdAt": "2026-04-14T18:55:04.000Z"
+    "createdAt": "2026-04-15T12:53:47.000Z"
   }
 ]
