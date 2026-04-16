@@ -5,7 +5,6 @@
     "number": 2,
     "image": "https://animeq.net/wp-content/uploads/2026/04/rj057Jutdw6I8ON9Xo85Sz1hMhD-300x170.jpg",
     "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwwRtHhF_87pL4XAVHKpr0x2VE6Z0WuItz-UvDiJoVHb3Zo4dSsSuWhnGWhN3YhNg0cPEkS1jbdYNNuAmFaUpQblMw22j_3xFtfuGco3jLifyQ55U9rG_ZYEa9UKtyentGU6UWI",
       "players": [
         {
           "url": "https://www.blogger.com/video.g?token=AD6v5dwwRtHhF_87pL4XAVHKpr0x2VE6Z0WuItz-UvDiJoVHb3Zo4dSsSuWhnGWhN3YhNg0cPEkS1jbdYNNuAmFaUpQblMw22j_3xFtfuGco3jLifyQ55U9rG_ZYEa9UKtyentGU6UWI",
@@ -17,10 +16,11 @@
           "type": "iframe",
           "label": "FHD"
         }
-      ]
+      ],
+      "main": "https://www.blogger.com/video.g?token=AD6v5dwwRtHhF_87pL4XAVHKpr0x2VE6Z0WuItz-UvDiJoVHb3Zo4dSsSuWhnGWhN3YhNg0cPEkS1jbdYNNuAmFaUpQblMw22j_3xFtfuGco3jLifyQ55U9rG_ZYEa9UKtyentGU6UWI"
     },
     "order": 0,
-    "createdAt": "2026-04-16T13:11:53.000Z"
+    "createdAt": "2026-04-16T13:21:30.000Z"
   },
   {
     "animeSlug": "invencivel-4",
@@ -28,7 +28,6 @@
     "number": 7,
     "image": "https://animeq.net/wp-content/uploads/2026/04/vsJaThAkihwvFNX2zPojO2nJ9fl-300x170.jpg",
     "video": {
-      "main": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/07.mp4",
       "players": [
         {
           "url": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/07.mp4",
@@ -45,10 +44,11 @@
           "type": "iframe",
           "label": "FHD"
         }
-      ]
+      ],
+      "main": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/07.mp4"
     },
     "order": 1,
-    "createdAt": "2026-04-16T13:12:14.000Z"
+    "createdAt": "2026-04-16T13:21:34.000Z"
   },
   {
     "animeSlug": "invencivel-4-dublado",
@@ -76,7 +76,7 @@
       "main": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/007.mp4"
     },
     "order": 2,
-    "createdAt": "2026-04-16T13:12:18.000Z"
+    "createdAt": "2026-04-16T13:21:37.000Z"
   },
   {
     "animeSlug": "star-wars-maul-lorde-das-sombras-dublado",
@@ -99,7 +99,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dxsZERjiG6lSKI0rEvxjDdBGleKiXCqR_kYMnCf9RihyPbSNDBmkuMeKgxT2EwoEo9x59dTHc7Wx6CUKpSgfldIlHxxaneBdDfPDTljARP3MzGPVS8N6Qz8ZoLvV7F_B-6dfuj2"
     },
     "order": 3,
-    "createdAt": "2026-04-16T13:12:21.000Z"
+    "createdAt": "2026-04-16T13:21:40.000Z"
   },
   {
     "animeSlug": "star-wars-maul-lorde-das-sombras-dublado",
@@ -122,7 +122,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dwz3jjdYdECSQWRHYDuuEGDf_YwdOpntH_2KHAG-kxGgX86a_NtyUfjBh5WrWQLdTkEcmY56qfkIdB4wakZUuZ9HURX1nMXAHYV50YzVY1U4Mes8bMlDwjaD1joP_WKfilUNpe9"
     },
     "order": 4,
-    "createdAt": "2026-04-16T13:12:24.000Z"
+    "createdAt": "2026-04-16T13:21:43.000Z"
   },
   {
     "animeSlug": "dorohedoro-2-dublado",
@@ -145,7 +145,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dy7xcwZPyyD8CJVRrQAkJONvjKIj-47A-U3ZZavMpgufXYuY_t-lpPsAIRsZz8moXJKq1gqGUBfsEbWToXxSyZJFkb5zTwZguoES5uObFh37EKMRiDcJX8Xm9yerJRU0mZAcxA"
     },
     "order": 5,
-    "createdAt": "2026-04-16T13:12:26.000Z"
+    "createdAt": "2026-04-16T13:21:46.000Z"
   },
   {
     "animeSlug": "go-for-it-nakamura-kun",
@@ -168,7 +168,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dzyHmitwUs7beHnttYddtwwKauMd-B8J2uOoRaNRHZnOA4Y4hbZMKgjn6M8EyFRmnWUj5EMqMuXYyBtJsgArm5Sbx63gEGXmJKkbzfGcAyFf2JeLmBHdf4j39C3_ISTspZBIYdy"
     },
     "order": 6,
-    "createdAt": "2026-04-16T13:12:29.000Z"
+    "createdAt": "2026-04-16T13:21:49.000Z"
   },
   {
     "animeSlug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2",
@@ -191,7 +191,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dxaZBQyf6TFzxqPyIruUTIb7avYXF-U0nT_hRhgVd6kNnHm3tiJfCtIxVHjOpe4ByJ-ebMSm2EFRTgBS5Xtw1ywybIdZoy0bKR7cG9JtyGgQg_tO2qCpMqhH1IcgnBwGqL5KkJG"
     },
     "order": 7,
-    "createdAt": "2026-04-16T13:12:33.000Z"
+    "createdAt": "2026-04-16T13:21:52.000Z"
   },
   {
     "animeSlug": "nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken",
@@ -214,7 +214,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dz0UDgs1o9q7YJ3294a2ko9wpKDPy1oz0lIOl4rWug6RytfnUhcJe0bJh50-fHJG11f9IVu_fu8BqvPkWC5j8Q2c1fYClV80meZ_x2nJzADBkBaF-vezhadyZTyHNM1-6Ymo6A"
     },
     "order": 8,
-    "createdAt": "2026-04-16T13:12:37.000Z"
+    "createdAt": "2026-04-16T13:21:55.000Z"
   },
   {
     "animeSlug": "otaku-ni-yasashii-gal-wa-inai",
@@ -237,7 +237,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dzQrxTg5aCKoYz9VUZgy4M5UDo1P6cDkZ7vsnSxo1xkqhR2z9PdPPo5lpDKya5jH3hxDGzJvqkwXdQ8UQf7IY9Fbz_yRiJaQl0ibp2mQ3LzjvJgxNP4ipOy6Uy1Y0nrdOWd4w"
     },
     "order": 9,
-    "createdAt": "2026-04-16T13:12:41.000Z"
+    "createdAt": "2026-04-16T13:21:58.000Z"
   },
   {
     "animeSlug": "kanojo-okarishimasu-5th-season",
@@ -260,7 +260,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dyDpzNDPJ_bNKg9bxWvKRxlP52OisTqJ8TIfauk9J_d6-FKpDOclv3brb1E1z74itRAp2mR8KmfXi22G4C7C7thyQLSJ02MAKy8llfQ3fmBFnfOVQzocmGDy28kVDz-nCUxaR2p"
     },
     "order": 10,
-    "createdAt": "2026-04-16T13:12:43.000Z"
+    "createdAt": "2026-04-16T13:22:03.000Z"
   },
   {
     "animeSlug": "dorohedoro-2",
@@ -283,7 +283,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dzwRD4D9BW8K_7lQEWi7VoOEFAlb8pZz8g0BH2eJk0jIlxpSwF5m-gXfMjd8qFUpiZLLZR1UDsm-aDyyVgRkUer-k-V13HvwAD-HNF2YKuv4TORzcQh1_8QFWTGUWBl8zOTwLc"
     },
     "order": 11,
-    "createdAt": "2026-04-16T13:12:46.000Z"
+    "createdAt": "2026-04-16T13:22:06.000Z"
   },
   {
     "animeSlug": "rezero-kara-hajimeru-isekai-seikatsu-4th-season",
@@ -306,7 +306,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dxhttwdi49ucyGcwS46dY44d_bJk7M9BUOuLry6EULExf84d9A-0PNt7gS5qhBzem88ci8MRq-2f28kjf_jv-Ps7FWTCSIX9stiHjoL4l1HhkglUDy_MiEBtQ-ZhSDBeCWXMxrJ"
     },
     "order": 12,
-    "createdAt": "2026-04-16T13:12:49.000Z"
+    "createdAt": "2026-04-16T13:22:09.000Z"
   },
   {
     "animeSlug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
@@ -329,7 +329,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dwDzptUXY4J_lyWkyGRixSM2ZfJsJ6mNGsEfPgs2mj84tGfLDs3nyZMbxkEJ00qmNJxn5bOdMJhXC9O9stbBQAXIRFbQrI_0Lto6IOmA00i2uw4d6COpVAdUvRzEfScXyvElm0"
     },
     "order": 13,
-    "createdAt": "2026-04-16T13:12:52.000Z"
+    "createdAt": "2026-04-16T13:22:12.000Z"
   },
   {
     "animeSlug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
@@ -352,7 +352,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dxApwgbO9FarQytV6r1bIWx3wxzfNyFSarhGvJ8fJdMom00lia8JjWTYF-Hjqhb_Qo1dI-O5bfLP44kDZ0D383oQ97RYkmJcRKVDMzZW4JuTFj4pJXIwJc6vtS0v6GR4DwqQI_o"
     },
     "order": 14,
-    "createdAt": "2026-04-16T13:12:55.000Z"
+    "createdAt": "2026-04-16T13:22:16.000Z"
   },
   {
     "animeSlug": "class-de-2-banme-ni-kawaii-onnanoko-to-tomodachi-ni-natta",
@@ -375,7 +375,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dzcTVq6pLD5YuSfQna97mn10HPyYuEzyLEyEXRtmnZHv1a3UFYDVCPy5YSe-nZqvBKv3l78XMqxPbiYG6aGBZdVSHHPxo_r3jbq5H9aSfHYBC8J-eueiDFMcFMOcRhaNt_vN-I"
     },
     "order": 15,
-    "createdAt": "2026-04-16T13:12:59.000Z"
+    "createdAt": "2026-04-16T13:22:19.000Z"
   },
   {
     "animeSlug": "tadaima-ojamasaremasu",
@@ -398,7 +398,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dx-okSAUtAjRK1mbzV6y-pth3buyf_k4lwUfp2ImgBLUiG5uC63S2NMDqBrnBGNwsxuNhQSva2VXi0OYzVXevb35ICUxwXiXdX5B5JUgQTfMvkWSn_ITaCA5kWSUoTe_elmWJg"
     },
     "order": 16,
-    "createdAt": "2026-04-16T13:13:01.000Z"
+    "createdAt": "2026-04-16T13:22:22.000Z"
   },
   {
     "animeSlug": "hidarikiki-no-eren",
@@ -421,7 +421,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dwdyaI0wP1YRpDYJFvXUoXwC8SNnAU0mB0_KXGL1bwbPmEqMkwXO_nralDsIK2ciStQvd3oZtX5WSURxNFuFdbrwgQt_6AwhDUQdqiHy272LXHg5hfse-_T5fSI0mi-MVh_aEo"
     },
     "order": 17,
-    "createdAt": "2026-04-16T13:13:04.000Z"
+    "createdAt": "2026-04-16T13:22:25.000Z"
   },
   {
     "animeSlug": "marriagetoxin",
@@ -444,7 +444,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dw9qxg_XyoSPOC9KlyCvkWAXV8oT9Jdu0mcQtbzEzMG6n_iE6faydy42AN8gBqs-GFz-lubZzxR2k9uLnKItkacYnjJQVou5yE967yODu3x_hannLp-RRTHLZxGpp4c88t6jGq1"
     },
     "order": 18,
-    "createdAt": "2026-04-16T13:13:08.000Z"
+    "createdAt": "2026-04-16T13:22:28.000Z"
   },
   {
     "animeSlug": "replica-datte-koi-wo-suru",
@@ -467,7 +467,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dyprwc9lQAidxKI6AT5iICQgcgenb3MXSXjLpaBIBBHcChFGPXS6jUtBBlRZuIxVhonBwuiyVXYQ7oLa6PJwRHOcymleTi75sMb5pYqSAUc4AHeIvRylOitihPn8dcm6OcgL9M"
     },
     "order": 19,
-    "createdAt": "2026-04-16T13:13:14.000Z"
+    "createdAt": "2026-04-16T13:22:32.000Z"
   },
   {
     "animeSlug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
@@ -490,7 +490,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dxFS7oGRVLNsi7jd3bwv4BvAf-ikoBPRA_KV1gb8pMYXKdmQPDUwwQfoMLgivARpKeLlr5yg25nM7w7P13c9N-Sv0sqCi8UaW2ltCWNfOM8mDg-Otv96AyRnqhnKbL5klsEBFR5"
     },
     "order": 20,
-    "createdAt": "2026-04-16T13:13:17.000Z"
+    "createdAt": "2026-04-16T13:22:34.000Z"
   },
   {
     "animeSlug": "aishiteru-game-wo-owarasetai",
@@ -513,7 +513,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dzU-jYISvkI2jLhCvDXFknSImbyiKiQNUwqDZlNqYlKlxKx3OGK1osG9VJLwhEXmlCivoRU5cgB8JLT8jtud5ji6Nx6R2RsV2P5cPmVLXPxnUyU3LgpJsr_FRYXDDYZr7RyoS0"
     },
     "order": 21,
-    "createdAt": "2026-04-16T13:13:20.000Z"
+    "createdAt": "2026-04-16T13:22:39.000Z"
   },
   {
     "animeSlug": "higeki-no-genkyou-to-naru-saikyou-gedou-last-boss-joou-wa-tami-no-tame-ni-tsukushimasu-2",
@@ -536,7 +536,7 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dzvtTNJWmWrKDy0xo4BxSCD7BmfPuD-Gj28EbI07cp7wOlmR2A8NpGp2GcFw9kLCHS5MBHXetTpGPNxI5CCwj7X9JQKn4SBi0YgU-xAoUD4WFCDD5HE53RxmslwQPpGNuEfnF1x"
     },
     "order": 22,
-    "createdAt": "2026-04-16T13:13:22.000Z"
+    "createdAt": "2026-04-16T13:22:42.000Z"
   },
   {
     "animeSlug": "my-hero-academia-vigilantes-2-dublado",
@@ -559,6 +559,6 @@
       "main": "https://www.blogger.com/video.g?token=AD6v5dzwC2p7giCT0FBrWY1WrykxnyBVYBAsXTuY2OBcw611kODDZm0lAl1uoOg6ONm3R8Vsa7-w4S5Z8HQ_akDel_56uL_uPSCkbNl9ncfGuVDdtlN4GZHSiKVHAVeTcIRJhg0yyqU4"
     },
     "order": 23,
-    "createdAt": "2026-04-16T13:13:25.000Z"
+    "createdAt": "2026-04-16T13:22:45.000Z"
   }
 ]
