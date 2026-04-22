@@ -6011,6 +6011,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 6,
+        "title": "Episódio 06 - Adeus Caiman, Bolhas de Memória",
+        "url": "https://animeq.net/episodio/dorohedoro-2-episodio-06/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/u9MDotChKUawrqbeHRcyTZ01hFa-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/Dorohedoro-2/06.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/Dorohedoro-2/06.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dwnkMI_76NYUmt1lWicEcNtkJvMrkgOcPeKhruAGDnotQIamE6m7s0Pzk9ZaPT4KTQ0zO2fGLsQ4SQIgHUP1dQEMSNo9NqVg1bNR8AFxbL2nPXNH6XAKCLQpmf0G2dKjYHSkwo",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#8w1zbv",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#yjwp8s",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:31:43.769Z"
       }
     ]
   },
@@ -6180,6 +6216,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 6,
+        "title": "Episódio 06 - Adeus Caiman, Bolhas de Memória",
+        "url": "https://animeq.net/episodio/dorohedoro-2-dublado-episodio-06/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/i36Jk2H9GUIVpx8PPmVYrCuBBlO-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/Dorohedoro-2/Dub/06.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/Dorohedoro-2/Dub/06.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dzT5AHC2EvC0ybynJW0Scytef8ebxR39IDFa6lzVlbz9PecMAtUep3fHgPF2zsWWETDhijU3-VoyOOprxkN1JUZD6k9uWKKNrx7qLnNQv5RwaQBIh3idsZzAF40zNwIrUprPGAv",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#mp9lfx",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#yjwpgx",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:30:41.581Z"
       }
     ]
   },
@@ -6773,6 +6845,46 @@
           ]
         },
         "createdAt": "2026-04-20T13:33:17.121Z"
+      },
+      {
+        "number": 5,
+        "title": "Episódio 05 - Que coisa irritante! Será que eles estão juntos?!",
+        "url": "https://animeq.net/episodio/ganbare-nakamura-kun-episodio-05/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/1eMc3J8xCc07l9bHSZCdXfG2jI7-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-G/Ganbare-Nakamura-kun/05.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-G/Ganbare-Nakamura-kun/05.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://185.237.107.113/v4/OtJ9CVv8f1HdmRydCviJEg/1776892405/xq/dmgebu/master.m3u8?v=1776879447",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://185.237.107.113/v4/OtJ9CVv8f1HdmRydCviJEg/1776892405/xq/dmgebu/master.m3u8?v=1776879447",
+                "https://185.237.107.113/v4/OtJ9CVv8f1HdmRydCviJEg/1776892405/xq/dmgebu/index-f1-v1-a1.m3u8"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxTBKTlUEvpzioW9Y57qPvTp6QJsKXGkJC_1nWNLzufbT59MK3gkrejREoxcnwa35NbDI-Imz_0LltDmt6-wWq4FDYZKlEthagryWj9kRRWNvAWReg56KS3vzlZ2iyuoxZ99mU",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#kqccxe",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:25:56.474Z"
       }
     ]
   },
@@ -9013,6 +9125,39 @@
           ]
         },
         "createdAt": "2026-04-20T23:42:11.239Z"
+      },
+      {
+        "number": 8,
+        "title": "Episodio 08 - NÃO ME DEIXE NA MÃO AQUI",
+        "url": "https://animeq.net/episodio/invencivel-4-episodio-08/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/2h0LdtdEj09rchAlUDTHt93Z5J-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/08.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/08.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://185.237.107.149/v4/pVKWSWXglAdC_gCse_G1jw/1776892350/ho/ryo36j/master.m3u8?v=1776873155",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://185.237.107.149/v4/pVKWSWXglAdC_gCse_G1jw/1776892350/ho/ryo36j/master.m3u8?v=1776873155"
+              ]
+            },
+            {
+              "url": "https://animeshd.cloud/#tfbyud",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:25:19.782Z"
       }
     ]
   },
@@ -9273,6 +9418,36 @@
           ]
         },
         "createdAt": "2026-04-20T23:37:22.799Z"
+      },
+      {
+        "number": 8,
+        "title": "Episodio 08 - NÃO ME DEIXE NA MÃO AQUI",
+        "url": "https://animeq.net/episodio/invencivel-4-dublado-episodio-08/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/a103TuPbdItnmw4d4yDFQngJywu-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/08.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/08.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/#prjna8",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#h6mkpo",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:24:36.055Z"
       }
     ]
   },
@@ -10155,6 +10330,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 4,
+        "title": "Episódio 04 - As dificuldades continuarão para sempre.",
+        "url": "https://animeq.net/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-episodio-04/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/gUaV17ybaDme9x1mvFnWVR6aywU-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-J/Jidou-3/04.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-J/Jidou-3/04.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxWBcwQJOkihE0ls41aInTmRqIXmDdzvnl6HizxrgBq_TSfQeQHcmSAFVfutSECI5WNVDnesHtMEgMw45Z1o_HvPR6AbB0sCgh_-_o7UNiEXcnpcHf7b9ESY8F-MdDXeEgxJQ",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#tfbyyx",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#yjwpd6",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:32:45.946Z"
       }
     ]
   },
@@ -11757,6 +11968,47 @@
           ]
         },
         "createdAt": "2026-04-20T13:19:26.295Z"
+      },
+      {
+        "number": 3,
+        "title": "Episódio 03 - O Fim da Namorada",
+        "url": "https://animeq.net/episodio/kanojo-okarishimasu-5th-season-episodio-03/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/wXVKQYl4bgiKfiorgtIYjMxzeMK-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-K/Kanojo-Okarishimasu-5/03.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-K/Kanojo-Okarishimasu-5/03.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://203.188.166.124/v4/sn_wnzWD9xVGPewdMk3Msg/1776892975/ox/as1ydd/master.m3u8?v=1776867096",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://203.188.166.124/v4/sn_wnzWD9xVGPewdMk3Msg/1776892975/ox/as1ydd/master.m3u8?v=1776867096",
+                "https://203.188.166.124/v4/sn_wnzWD9xVGPewdMk3Msg/1776892975/ox/as1ydd/index-f1-v1-a1.m3u8",
+                "https://203.188.166.124/v4/sn_wnzWD9xVGPewdMk3Msg/1776892975/ox/as1ydd/init-f1-v1-a1.mp4"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxE-Jz_2ETPTUL8kz53KF5c2jx8pamMNB3uYD4D69n9B8AIO8hVJE0vP_elRVxCZpCD2WXYGftMwhv35P_hgJk7Bo43gd8d6zF3g1LjfOWzURkhCZF98bBQX5FIO-3OMLv4-zYM",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#bhphbz",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:35:25.513Z"
       }
     ]
   },
@@ -15056,6 +15308,45 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 4,
+        "title": "Episódio 04 - Como aquele que escapou se tornou problemático",
+        "url": "https://animeq.net/episodio/nigashita-sakana-wa-ookikatta-ga-tsuriageta-sakana-ga-ookisugita-ken-episodio-04/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/7w3dFZh4rmaIT0RkGSOiatp2y2l-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-N/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken/04.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-N/Nigashita-Sakana-wa-Ookikatta-ga-Tsuriageta-Sakana-ga-Ookisugita-Ken/04.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://185.237.107.234/v4/JIa-UIO953CfzqGxSp3pZA/1776892517/5c/owknpq/master.m3u8?v=1776875338",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://185.237.107.234/v4/JIa-UIO953CfzqGxSp3pZA/1776892517/5c/owknpq/master.m3u8?v=1776875338"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dz69QQus8E5ZyEfiOsUP4Jk-A413MQJhAhX5JqM5AxMyOuAcaS48MnLDr0qZQU2dJOoHlase11yvzO2HiMs5qmjyjcF_Czum0BSwTl8lsaXnt_9LyTcCN2ivjcv7Zy2xnkS0mGx",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#mp99hp",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:27:47.779Z"
       }
     ]
   },
@@ -41578,6 +41869,47 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 3,
+        "title": "Episódio 03 - Você vai subir...?",
+        "url": "https://animeq.net/episodio/otaku-ni-yasashii-gal-wa-inai-episodio-03/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/mDq6ftF1q2wctZLbgMEiA2Bf2j5-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-O/Otaku-ni-Yasashii-Gal-wa-Inai/03.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-O/Otaku-ni-Yasashii-Gal-wa-Inai/03.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/jU-zo6fYSKPEp19khDUL9Q/lf/lodt9qee/3gp89x/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/jU-zo6fYSKPEp19khDUL9Q/lf/lodt9qee/3gp89x/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/jU-zo6fYSKPEp19khDUL9Q/lf/lodt9qee/3gp89x/tt/index-f1-v1-a1.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/jU-zo6fYSKPEp19khDUL9Q/lf/lodt9qee/3gp89x/tt/index-f2-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxili3CLOdlijDeAE-RMXMYNHDDRZTwLfn2Hi28px0asFZLR2H6fFjKHSJNKcm7LCbFE5heSvhKgZdCnp5idvVd-TNjFNBvG0uTR6Vy5Rgv0my0VakjnpLj5OUB9R85sJnZRZ9x",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#h6mksi",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:28:43.195Z"
       }
     ]
   },
@@ -42694,6 +43026,51 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 3,
+        "title": "Episodio 03 - Guarda da Torre de Vigia",
+        "url": "https://animeq.net/episodio/rezero-kara-hajimeru-isekai-seikatsu-4th-season-episodio-03/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/285AEgbnmfzAHC9UgDNuhC0oQoB-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-R/Re-Zero-4/03.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-R/Re-Zero-4/03.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/9VVdP17LmRvQx4lNe5iSPw/hz/lodt9qee/qbeo6p/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/9VVdP17LmRvQx4lNe5iSPw/hz/lodt9qee/qbeo6p/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/9VVdP17LmRvQx4lNe5iSPw/hz/lodt9qee/qbeo6p/tt/index-f1-v1-a1.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/9VVdP17LmRvQx4lNe5iSPw/hz/lodt9qee/qbeo6p/tt/index-f2-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://animes.strp2p.com/hls/9VVdP17LmRvQx4lNe5iSPw/hz/lodt9qee/qbeo6p/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animes.strp2p.com/hls/9VVdP17LmRvQx4lNe5iSPw/hz/lodt9qee/qbeo6p/tt/master.m3u8?v=1766826492",
+                "https://animes.strp2p.com/hls/9VVdP17LmRvQx4lNe5iSPw/hz/lodt9qee/qbeo6p/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dwsOWj4XtUK9GplS3S3vXD5-u2PEqBTQCqF83UNgHaX4452fUVcgX1OzpthzDNTm64ayMMWWKpAj43-vXMj1iSw4DfzKKXcZM3iFexybferHu4D-i7hHlfFxb5ApnNNtruWVsk",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:33:48.185Z"
       }
     ]
   },
@@ -43165,6 +43542,46 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 4,
+        "title": "Episódio 04 - O Rei volta para casa",
+        "url": "https://animeq.net/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-episodio-04/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/c4QTsPOqRDDgyBw5HDF5wUjXatb-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-S/Saikyou-no-Ousama-Nidome-no-Jinsei-wa-Nani-o-Suru-2/04fhd.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-S/Saikyou-no-Ousama-Nidome-no-Jinsei-wa-Nani-o-Suru-2/04fhd.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/rgpaFayV4R1z19GBR9R5eA/np/lodt9qee/ij5iug/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/rgpaFayV4R1z19GBR9R5eA/np/lodt9qee/ij5iug/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/rgpaFayV4R1z19GBR9R5eA/np/lodt9qee/ij5iug/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dw13KfvrDL8JWQDc1D5uabhe2jfOuzyvKKHynoTF1rlozd1_TrOZPuP0CUfIZL1ON8pHmkEvRU5LV4qirisnnrevaP5xdD2iwHAlM7YWbw0JjSsAjiq-fUBjisiMX_iihzE88SR",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#l8zhdj",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:26:52.137Z"
       }
     ]
   },
@@ -43610,6 +44027,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 12,
+        "title": "Episódio 12 - Passo a passo",
+        "url": "https://animeq.net/episodio/seihantai-na-kimi-to-boku-dublado-episodio-12/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/91HZ2LyHCeYKBHHaLrm1buYtBGt-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-S/Seihantai-na-Kimi-to-Boku/DUB/12.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-S/Seihantai-na-Kimi-to-Boku/DUB/12.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxguIFg66h7ySBgyGG_KR_QZhSO43clt_XCAv0cVovdyMiJNLWcjJgwKGQh7v_bG5HLgbuMeYUAeRiT3DMgU78bHhPKDb0T5Gf4ryLfFiE9GxPEx4_Q77G5fyzlFN7ZtGfCKBc",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#sdnrik",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#5osucx",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:29:38.800Z"
       }
     ]
   },
@@ -44529,6 +44982,82 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 5,
+        "title": "Episódio 05 - Inquisição",
+        "url": "https://animeq.net/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-05/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/mnkEC5o6JFPctfhkTsF02cZ3qQc-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-S/Star-Wars-Maul/5.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-S/Star-Wars-Maul/5.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dzZaA8ctCl_aGlSZbIhjRvLRMHvRQSoq0psNyX3HZADwnzrQBMVe6ApYo8wOdcC_d_ZXLJBySQD9oT33EKX5ryzVaJ6dqLiYdZCyrH9Zy-P8mnfOFTh3d1vvhSCDOg1S9MSNdZM",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#horrbo",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#3pnt5n",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:23:33.592Z"
+      },
+      {
+        "number": 6,
+        "title": "Episódio 06 - Noite de Caça",
+        "url": "https://animeq.net/episodio/star-wars-maul-lorde-das-sombras-dublado-episodio-06/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/8oev322DsOJ18ofxl7gZIvfgEQi-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-S/Star-Wars-Maul/6.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-S/Star-Wars-Maul/6.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://185.237.107.26/v4/RSMczb2qIWCgm8gTU-XGDQ/1776892188/js/u833ea/master.m3u8?v=1776880318",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://185.237.107.26/v4/RSMczb2qIWCgm8gTU-XGDQ/1776892188/js/u833ea/master.m3u8?v=1776880318",
+                "https://185.237.107.26/v4/RSMczb2qIWCgm8gTU-XGDQ/1776892188/js/u833ea/index-f1-v1-a1.m3u8"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxNvwiOS3ADNPX2mGl7SBpZI2PDH4MZJTDx4PKnqn1KKCuQYbr1g8jEWZRqdWixntqemTVslJSxLAvM-VD4ExKEM0bDgq2ABg5mPOFVT9_g7-RNZGokvezXnN06sBUH8hp-Ygc",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#h6mi8c",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:22:38.231Z"
       }
     ]
   },
@@ -44698,7 +45227,7 @@
     "synopsis": "Rinko, uma funcionária de escritório de 24 anos, vive sozinha e esconde seu lado otaku. Um dia, um buraco aparece na parede do apartamento e conecta seu quarto aos vizinhos. No quarto da esquerda vive um rapaz gentil e misterioso que começa a cuidar dela. No quarto da direita mora um homem perigoso e violento que desperta uma sensação estranha em Rinko. A rotina tranquila da jovem muda completamente, e seus dias passam a ter tensão, romance e surpresas inesperadas.",
     "year": "2026",
     "altTitle": "Pardon the Intrusion, I’m Home!, Tadaima, Ojamasaremasu!, ただいま、おじゃまされます！",
-    "rating": "9",
+    "rating": "5",
     "language": "legendado",
     "wpTags": [
       "Pardon the Intrusion I'm Home!",
@@ -44708,8 +45237,8 @@
     "aliases": [
       "tadaima-ojamasaremasu"
     ],
-    "releaseDate": "",
-    "createdAt": "2026-04-21T02:14:54.719Z",
+    "releaseDate": "2026-04-08T03:00:00.000Z",
+    "createdAt": "2026-04-22T18:17:34.195Z",
     "episodes": [
       {
         "number": 1,
@@ -44717,23 +45246,44 @@
         "url": "https://animeq.net/episodio/tadaima-ojamasaremasu-episodio-01/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/acEjL3zCJTWKNC9714MSPpMTZO3-300x170.jpg",
         "video": {
-          "main": "https://www.blogger.com/video.g?token=AD6v5dwTvWi11cHL0xN7ndfW_oIxHFXsO5Vxy6xOn_hxIvqOZ4cQ_fS0zKDnzA7tqR1GebtPtAfCSqzHC1kUoAdSniZhfsEB1zF2VXh7cZfrgUqUIry4GTWFGl_ZfRbk9jYDR-4x-Qrk",
+          "main": "https://aniplay.online/Midias/Animes/Letra-T/Tadaima-Ojamasaremasu/01.mp4",
           "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-T/Tadaima-Ojamasaremasu/01.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/4IdxxR0jqHV_worHw49zgQ/vz/wybszpq5/uar5ms/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/4IdxxR0jqHV_worHw49zgQ/vz/wybszpq5/uar5ms/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/4IdxxR0jqHV_worHw49zgQ/vz/wybszpq5/uar5ms/tt/index-f1-v1-a1.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/4IdxxR0jqHV_worHw49zgQ/vz/wybszpq5/uar5ms/tt/index-f2-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://animes.strp2p.com/hls/4IdxxR0jqHV_worHw49zgQ/vz/wybszpq5/uar5ms/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animes.strp2p.com/hls/4IdxxR0jqHV_worHw49zgQ/vz/wybszpq5/uar5ms/tt/master.m3u8?v=1766826492",
+                "https://animes.strp2p.com/hls/4IdxxR0jqHV_worHw49zgQ/vz/wybszpq5/uar5ms/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
             {
               "url": "https://www.blogger.com/video.g?token=AD6v5dwTvWi11cHL0xN7ndfW_oIxHFXsO5Vxy6xOn_hxIvqOZ4cQ_fS0zKDnzA7tqR1GebtPtAfCSqzHC1kUoAdSniZhfsEB1zF2VXh7cZfrgUqUIry4GTWFGl_ZfRbk9jYDR-4x-Qrk",
               "type": "blogger",
-              "label": "FullHD / HLS",
-              "method": "embed"
-            },
-            {
-              "url": "https://animeshd.cloud/#ikpcdk",
-              "type": "animeshd",
-              "label": "FHD",
+              "label": "Mobile / Celular",
               "method": "embed"
             }
           ]
         },
-        "createdAt": ""
+        "createdAt": "2026-04-22T18:17:36.207Z"
       },
       {
         "number": 2,
@@ -44741,23 +45291,43 @@
         "url": "https://animeq.net/episodio/tadaima-ojamasaremasu-episodio-02/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/pZVpiguQL2TJGYTwFWTqzrVnI5k-300x170.jpg",
         "video": {
-          "main": "https://www.blogger.com/video.g?token=AD6v5dx-okSAUtAjRK1mbzV6y-pth3buyf_k4lwUfp2ImgBLUiG5uC63S2NMDqBrnBGNwsxuNhQSva2VXi0OYzVXevb35ICUxwXiXdX5B5JUgQTfMvkWSn_ITaCA5kWSUoTe_elmWJg",
+          "main": "https://aniplay.online/Midias/Animes/Letra-T/Tadaima-Ojamasaremasu/02.mp4",
           "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-T/Tadaima-Ojamasaremasu/02.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/NKYUMVu92Yw42xFNjcPlwA/q3o/skucp8et/jy1ak5/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/NKYUMVu92Yw42xFNjcPlwA/q3o/skucp8et/jy1ak5/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/NKYUMVu92Yw42xFNjcPlwA/q3o/skucp8et/jy1ak5/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://animes.strp2p.com/hls/NKYUMVu92Yw42xFNjcPlwA/q3o/skucp8et/jy1ak5/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animes.strp2p.com/hls/NKYUMVu92Yw42xFNjcPlwA/q3o/skucp8et/jy1ak5/tt/master.m3u8?v=1766826492",
+                "https://animes.strp2p.com/hls/NKYUMVu92Yw42xFNjcPlwA/q3o/skucp8et/jy1ak5/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
             {
               "url": "https://www.blogger.com/video.g?token=AD6v5dx-okSAUtAjRK1mbzV6y-pth3buyf_k4lwUfp2ImgBLUiG5uC63S2NMDqBrnBGNwsxuNhQSva2VXi0OYzVXevb35ICUxwXiXdX5B5JUgQTfMvkWSn_ITaCA5kWSUoTe_elmWJg",
               "type": "blogger",
-              "label": "FullHD / HLS",
-              "method": "embed"
-            },
-            {
-              "url": "https://animeshd.cloud/#prdxho",
-              "type": "animeshd",
-              "label": "FHD",
+              "label": "Mobile / Celular",
               "method": "embed"
             }
           ]
         },
-        "createdAt": ""
+        "createdAt": "2026-04-22T18:17:36.207Z"
       },
       {
         "number": 3,
@@ -44765,23 +45335,39 @@
         "url": "https://animeq.net/episodio/tadaima-ojamasaremasu-episodio-03/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/xOxjFRANyzkSLks2dVZyr9OF2uB-300x170.jpg",
         "video": {
-          "main": "https://www.blogger.com/video.g?token=AD6v5dyD1YYs6EjAb81t9X8xwp9_wZHLlF9XPKTiR34h90s-wGlBdx1Q03KSpJVpBSX-exhe9WOnF3G5rFa55TcWosBxfprulc-KfZME-1eVyJK0nOII6GKWP6a7Sv7biFIo1L1oJxEV",
+          "main": "https://aniplay.online/Midias/Animes/Letra-T/Tadaima-Ojamasaremasu/03.mp4",
           "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-T/Tadaima-Ojamasaremasu/03.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/awMno4ZW2v-CowFbYlN9uA/db/lodt9qee/xo8go6/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/awMno4ZW2v-CowFbYlN9uA/db/lodt9qee/xo8go6/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/awMno4ZW2v-CowFbYlN9uA/db/lodt9qee/xo8go6/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
             {
               "url": "https://www.blogger.com/video.g?token=AD6v5dyD1YYs6EjAb81t9X8xwp9_wZHLlF9XPKTiR34h90s-wGlBdx1Q03KSpJVpBSX-exhe9WOnF3G5rFa55TcWosBxfprulc-KfZME-1eVyJK0nOII6GKWP6a7Sv7biFIo1L1oJxEV",
               "type": "blogger",
-              "label": "FullHD / HLS",
+              "label": "Mobile / Celular",
               "method": "embed"
             },
             {
-              "url": "https://animeshd.cloud/#qawjs6",
-              "type": "animeshd",
+              "url": "https://animes.strp2p.com/#q5axu1",
+              "type": "strp2p",
               "label": "FHD",
               "method": "embed"
             }
           ]
         },
-        "createdAt": "2026-04-21T21:36:17.658Z"
+        "createdAt": "2026-04-22T18:17:36.207Z"
       }
     ]
   },
@@ -48408,6 +48994,50 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 7,
+        "title": "Episódio 07 - Planejando",
+        "url": "https://animeq.net/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-episodio-07/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/2eMWwzG6LfRecO8XKb6fcVbXRfk-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-Y/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-Season-2-nensei-hen-1-Gakki/07.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-Y/Youkoso-Jitsuryoku-Shijou-Shugi-no-Kyoushitsu-e-4th-Season-2-nensei-hen-1-Gakki/07.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/BUBPNBgdcY_gl413J_4qUw/is9/lodt9qee/jyik9u/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/BUBPNBgdcY_gl413J_4qUw/is9/lodt9qee/jyik9u/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/BUBPNBgdcY_gl413J_4qUw/is9/lodt9qee/jyik9u/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://animes.strp2p.com/hls/BUBPNBgdcY_gl413J_4qUw/is9/lodt9qee/jyik9u/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animes.strp2p.com/hls/BUBPNBgdcY_gl413J_4qUw/is9/lodt9qee/jyik9u/tt/master.m3u8?v=1766826492",
+                "https://animes.strp2p.com/hls/BUBPNBgdcY_gl413J_4qUw/is9/lodt9qee/jyik9u/tt/index-f2-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://animeq.net/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-episodio-07/",
+              "type": "embed",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-22T18:34:36.635Z"
       }
     ]
   },
