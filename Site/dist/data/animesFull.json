@@ -16371,19 +16371,44 @@
         "url": "https://animeq.net/episodio/one-piece-episodio-1100-1/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2024/04/One-Piece-Episodio-1100.1-animesonline.jpg",
         "video": {
-          "main": "https://cdn1.rpmplay.online/#96araz",
+          "main": "https://aniplay.online/Midias/Animes/Letra-O/One-Piece-Filme/One-Piece-3D2Y-Dub.mp4",
           "players": [
             {
-              "url": "https://cdn1.rpmplay.online/#96araz",
-              "type": "embed",
+              "url": "https://aniplay.online/Midias/Animes/Letra-O/One-Piece-Filme/One-Piece-3D2Y-Dub.mp4",
+              "type": "mp4",
               "label": "FHD",
-              "method": "embed"
+              "method": "iframe_src"
             },
             {
-              "url": "https://animes.strp2p.com/#pnczub",
-              "type": "strp2p",
+              "url": "https://cdn1.rpmplay.online/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/master.m3u8?v=1766826492",
+              "type": "hls",
               "label": "FHD",
-              "method": "embed"
+              "method": "intercept",
+              "all": [
+                "https://cdn1.rpmplay.online/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/master.m3u8?v=1766826492",
+                "https://cdn1.rpmplay.online/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://animes.strp2p.com/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animes.strp2p.com/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/master.m3u8?v=1766826492",
+                "https://animes.strp2p.com/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://203.188.166.87/v4/Eif8Q7Ck4cEt7HeDx6t9BA/1776901212/urp/ntwhhu/master.m3u8?v=1771345182",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://203.188.166.87/v4/Eif8Q7Ck4cEt7HeDx6t9BA/1776901212/urp/ntwhhu/master.m3u8?v=1771345182",
+                "https://203.188.166.87/v4/Eif8Q7Ck4cEt7HeDx6t9BA/1776901212/urp/ntwhhu/index-f1-v1-a1.m3u8",
+                "https://203.188.166.87/v4/Eif8Q7Ck4cEt7HeDx6t9BA/1776901212/urp/ntwhhu/init-f1-v1-a1.mp4"
+              ]
             }
           ]
         },

@@ -1,7 +1,7 @@
 [
   {
     "id": "a-lenda-de-aang-o-ultimo-mestre-do-ar",
-    "title": "Home\nAnimes\nA Lenda de Aang: O Último Mestre do Ar",
+    "title": "A Lenda de Aang: O Último Mestre do Ar",
     "slug": "a-lenda-de-aang-o-ultimo-mestre-do-ar",
     "cover": "https://animeq.net/wp-content/uploads/2026/04/AbUa37L0mRs4RtMLvSD6cWZcPJP-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/aK5VMr3wjQWck94bykSFTvGo0dG.jpg",
@@ -17,7 +17,7 @@
       "Família",
       "Fantasia"
     ],
-    "synopsis": "",
+    "synopsis": "O Avatar Aang, o último mestre do ar do mundo, toma conhecimento de um poder antigo que poderia salvar sua cultura da extinção. Com a ajuda de seus amigos, ele embarca em uma busca global para encontrá-lo antes que caia em mãos erradas e ameace destruir a paz que eles sacrificaram tudo para alcançar.",
     "year": "2026",
     "altTitle": "",
     "rating": "7",
@@ -26,29 +26,49 @@
       "The Legend of Aang: The Last Airbender"
     ],
     "video": {
-      "main": "https://animeshd.cloud/#u8qz6d",
+      "main": "https://animeshd.cloud/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://animeshd.cloud/#u8qz6d",
-          "type": "animeshd",
+          "url": "https://animeshd.cloud/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
         },
         {
-          "url": "https://cdn10.rpmhub.site/#fd6owx",
-          "type": "embed",
+          "url": "https://animes.strp2p.com/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://cdn10.rpmhub.site/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://cdn10.rpmhub.site/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/master.m3u8?v=1766826492",
+            "https://cdn10.rpmhub.site/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://cdn10.rpmhub.site/hls/V5C-eO-1wjeAcLW9KpVCCg/36/fmg9yach/3gba8w/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:32:16.582Z"
+    "createdAt": "2026-04-22T20:48:42.067Z"
   },
   {
     "id": "all-you-need-is-kill",
-    "title": "Home\nAnimes\nAll You Need Is Kill",
+    "title": "All You Need Is Kill",
     "slug": "all-you-need-is-kill",
     "cover": "https://animeq.net/wp-content/uploads/2025/12/y8mUXNllYasEJ37IsZaLrrR2yaW-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/yFDR62ZwlorTho3p9ZgAco5seI8.jpg",
@@ -67,7 +87,7 @@
     "synopsis": "Devido a uma invasão de formas de vida extraterrestres, Rita está presa em um loop temporal onde morre e retorna à manhã do mesmo dia. Armada com suas memórias e experiências acumuladas, ela continua lutando, mas ninguém a compreende, e a batalha aparentemente interminável consome seu coração. Nesse momento, um homem chamado Cage aparece diante dela. “Eu também… estou repetindo o dia de hoje indefinidamente.” Será que esse encontro fatídico entre os dois se tornará a esperança que mudará o campo de batalha sem fim?",
     "year": "2026",
     "altTitle": "ALL YOU NEED IS KILL, ALL YOU NEED IS KILL",
-    "rating": "6",
+    "rating": "9",
     "wpTags": [
       "ação anime",
       "All You Need Is Kill",
@@ -90,11 +110,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:42:12.980Z"
+    "createdAt": "2026-04-22T21:01:58.491Z"
   },
   {
     "id": "berserk-a-era-de-ouro-ato-1-o-ovo-do-rei-supremo",
-    "title": "Home\nAnimes\nBerserk – A Era de Ouro, Ato 1: O Ovo do Rei Supremo",
+    "title": "Berserk – A Era de Ouro, Ato 1: O Ovo do Rei Supremo",
     "slug": "berserk-a-era-de-ouro-ato-1-o-ovo-do-rei-supremo",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/93zLEQe4O1FDw7LDwyEP3X0puyi-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/v7GQxa9ZmdMZjt4JwZF54mvAiTv.jpg",
@@ -113,7 +133,7 @@
     "synopsis": "A adaptação para o cinema contará a história do arco Era de Ouro, do mangá Berserk, dividida em três filmes. Esse arco se passa em uma época de guerra entre duas nações poderosas: Midland e Tudor. Midland é o reino mais antigo do continente. Com mais de mil anos de história, já foi o centro de um grande império na antiguidade. Nesse cenário surge o Bando do Falcão, liderado por Griffith, um jovem ambicioso e carismático. Guts, um guerreiro solitário, se junta ao grupo. Em pouco tempo, ele conquista respeito e assume o comando da Tropa de Ataque. O Bando do Falcão realiza feitos notáveis, que mudam o curso da guerra e atraem a atenção da nobreza de Midland. Por trás das vitórias, no entanto, escondem-se ambições perigosas, conflitos internos e um destino sombrio que ameaça a todos.",
     "year": "2012",
     "altTitle": "Berserk – A Era de Ouro, Ato 1: O Ovo do Rei Supremo, ベルセルク 黄金時代篇I 覇王の卵",
-    "rating": "7",
+    "rating": "6",
     "wpTags": [
       "Berserk A Era de Ouro Ato 1",
       "Berserk A Era de Ouro Ato 1: O Ovo do Rei Supremo",
@@ -129,6 +149,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animeshd.cloud/#miocwa",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.strp2p.com/#uj3in",
           "type": "strp2p",
           "label": "FHD",
@@ -138,11 +164,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:03:06.137Z"
+    "createdAt": "2026-04-22T21:13:02.608Z"
   },
   {
     "id": "berserk-a-era-de-ouro-ato-2-a-batalha-de-doldrey",
-    "title": "Home\nAnimes\nBerserk – A Era de Ouro, Ato 2: A Batalha de Doldrey",
+    "title": "Berserk – A Era de Ouro, Ato 2: A Batalha de Doldrey",
     "slug": "berserk-a-era-de-ouro-ato-2-a-batalha-de-doldrey",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/6ytPHimWtZDVObGcSmazMo4noRc-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/A34inrFSAIQNatFGc8qP5kfwDmV.jpg",
@@ -172,8 +198,18 @@
       "ベルセルク 黄金時代篇II ドルドレイ攻略"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra%20B/Berserk/Movie%2002/Leg.php",
+      "main": "https://animeshd.cloud/hls/yG-p5abYXsJch8oqHG81fA/61/skucpbex/ep619c/tt/master.m3u8?v=1766826492",
       "players": [
+        {
+          "url": "https://animeshd.cloud/hls/yG-p5abYXsJch8oqHG81fA/61/skucpbex/ep619c/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/yG-p5abYXsJch8oqHG81fA/61/skucpbex/ep619c/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/yG-p5abYXsJch8oqHG81fA/61/skucpbex/ep619c/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra%20B/Berserk/Movie%2002/Leg.php",
           "type": "embed",
@@ -190,11 +226,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:02:25.126Z"
+    "createdAt": "2026-04-22T21:12:06.646Z"
   },
   {
     "id": "berserk-a-era-de-ouro-ato-3-a-queda",
-    "title": "Home\nAnimes\nBerserk – A Era de Ouro, Ato 3: A Queda",
+    "title": "Berserk – A Era de Ouro, Ato 3: A Queda",
     "slug": "berserk-a-era-de-ouro-ato-3-a-queda",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/6WzLVzg97FSStqZO0iGkyBVwUUZ-214x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/mrVUkTJHY8MeZRvBDxxmnAhRcxa.jpg",
@@ -220,8 +256,18 @@
       "ベルセルク 黄金時代篇III 降臨"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra%20B/Berserk/Movie%2003/Leg.php",
+      "main": "https://animeshd.cloud/hls/qMAk87vREUE9eE9LROUWyA/ox/puo3likr/9opm3p/tt/master.m3u8?v=1766826492",
       "players": [
+        {
+          "url": "https://animeshd.cloud/hls/qMAk87vREUE9eE9LROUWyA/ox/puo3likr/9opm3p/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/qMAk87vREUE9eE9LROUWyA/ox/puo3likr/9opm3p/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/qMAk87vREUE9eE9LROUWyA/ox/puo3likr/9opm3p/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra%20B/Berserk/Movie%2003/Leg.php",
           "type": "embed",
@@ -238,11 +284,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:01:44.262Z"
+    "createdAt": "2026-04-22T21:11:06.306Z"
   },
   {
     "id": "bloody-escape-jigoku-no-tousou-geki",
-    "title": "Home\nAnimes\nBloody Escape: Jigoku no Tousou Geki",
+    "title": "Bloody Escape: Jigoku no Tousou Geki",
     "slug": "bloody-escape-jigoku-no-tousou-geki",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/odFx5kIBgdcd1PKPiqwyeZ64KQK-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/rKTRky21Sk5jpfMBUeHYamqshkt.jpg",
@@ -259,7 +305,7 @@
     "synopsis": "Após experimentos humanos transformarem Kisaragi em um ciborgue, ele se vê pressionado por diversas organizações: um convento imortal de vampiros empenhados em conquistar Tóquio, uma ordem imortal de cavaleiros e um grupo da Yakuza, cuja espada vinga a morte de seu líder. “Posso não ter motivo para viver, mas isso não é motivo para deixá-los me matar.” Kisaragi terá que usar seu corpo ciborgue e seu “sangue” único, além de tudo o que puder para realizar sua grande fuga",
     "year": "2024",
     "altTitle": "Bloody Escape: Jigoku no Tousou Geki, Bloody Escape: Bats out of Hell, BLOODY ESCAPE -地獄の逃走劇-",
-    "rating": "5",
+    "rating": "6",
     "wpTags": [
       "BLOODY ESCAPE -地獄の逃走劇-",
       "Bloody Escape: Bats out of Hell",
@@ -275,6 +321,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animeshd.cloud/#8tbhpf",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.strp2p.com/#3nxjk",
           "type": "strp2p",
           "label": "FHD",
@@ -284,11 +336,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:47:45.680Z"
+    "createdAt": "2026-04-22T21:14:03.602Z"
   },
   {
     "id": "blue-lock-o-filme-episodio-nagi",
-    "title": "Home\nAnimes\nBlue Lock: Episode Nagi",
+    "title": "Blue Lock: Episode Nagi",
     "slug": "blue-lock-o-filme-episodio-nagi",
     "cover": "https://image.tmdb.org/t/p/original/jj6HZBU4kLow5LpVL3tfQpbIdtk.jpg",
     "banner": "https://image.tmdb.org/t/p/original/7ks7A3mAO7twDOvBVE4cR8LaIM8.jpg",
@@ -303,7 +355,7 @@
       "Drama",
       "Esportes"
     ],
-    "synopsis": "",
+    "synopsis": "Blue Lock: Episode Nagi,Blue Lock O Filme Episode Nagi, Blue Lock Nagi. “Que chatice.” Essa foi a frase favorita de Nagi Seishiro, um garoto do segundo ano do Ensino Médio, ao longo de toda a sua vida tediosa. Até que Mikage Reo, um colega que sonhava em vencer a Copa do Mundo, descobriu a habilidade escondida de Nagi, inspirando-o a jogar futebol e compartilhar seu talento fenomenal. Um dia, ele recebe um convite para o misterioso projeto BLUE LOCK. O que o espera é um encontro com os melhores atacantes, vindos de todo o país. O sonho de Nagi de se tornar o melhor, ao lado de Reo, vai levar este fenômeno para um mundo que ele jamais conheceu.",
     "year": "2024",
     "altTitle": "",
     "rating": "5.5",
@@ -313,13 +365,28 @@
       "Blue Lock: Episode Nagi"
     ],
     "video": {
-      "main": "https://animes.upns.online/#xhsbd",
+      "main": "https://animes.upns.online/hls/4eeJTplf2u0mfA-LIoJKlQ/ek/ojqwdds3/msplr/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://animes.upns.online/#xhsbd",
-          "type": "embed",
+          "url": "https://animes.upns.online/hls/4eeJTplf2u0mfA-LIoJKlQ/ek/ojqwdds3/msplr/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animes.upns.online/hls/4eeJTplf2u0mfA-LIoJKlQ/ek/ojqwdds3/msplr/tt/master.m3u8?v=1766826492",
+            "https://animes.upns.online/hls/4eeJTplf2u0mfA-LIoJKlQ/ek/ojqwdds3/msplr/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animes.upns.online/hls/4eeJTplf2u0mfA-LIoJKlQ/ek/ojqwdds3/msplr/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://callistanise.com/stream/9nP_2bK98BB2OnxZBMJ50w/hjkrhuihghfvu/1776937071/12075256/master.m3u8",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://callistanise.com/stream/9nP_2bK98BB2OnxZBMJ50w/hjkrhuihghfvu/1776937071/12075256/master.m3u8",
+            "https://callistanise.com/stream/9nP_2bK98BB2OnxZBMJ50w/hjkrhuihghfvu/1776937071/12075256/index-f1-v1-a1.m3u8"
+          ]
         },
         {
           "url": "https://gdplayer.to/embed/?MHFPVFpyY05KcDF5Z0duYmorYk1GMXBUQXdqa05SRnhiVGxnK2ZobGU3UnRBSEQyalFuLzZWZUhwd3laNWpZTHhSZUx2YXJ5ZkpsTk9HSjFKbVpUTm1sMlB3R2F4NXp6b1JhMHRlZnlxWnYwT2FkNEs0VzFKbUFHWHFVVkdDTzM1T1dkZXpKUUZ1aXE2VDlpUENUTHV3PT0,",
@@ -331,11 +398,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:21:32.767Z"
+    "createdAt": "2026-04-22T21:37:34.863Z"
   },
   {
     "id": "boku-no-hero-academia-the-movie-4-youre-next-dublado",
-    "title": "Home\nAnimes\nBoku no Hero Academia the Movie 4: You’re Next Dublado",
+    "title": "Boku no Hero Academia the Movie 4: You’re Next Dublado",
     "slug": "boku-no-hero-academia-the-movie-4-youre-next-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/imX3JcxjQpUYLjk8iqvMkH18z20-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/hd1TvTUGjkoYoqvXYfSBpI5Ri9B.jpg",
@@ -365,8 +432,19 @@
       "僕のヒーローアカデミア THE MOVIE ユアネクスト"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra%20B/Boku%20no%20Hero%20Academia/Movie%2004/Dub.php",
+      "main": "https://animeshd.cloud/hls/lR2MGcVuiary-g3qxkyZSw/db/v1feamnk/5zzs6n/tt/master.m3u8?v=1766826492",
       "players": [
+        {
+          "url": "https://animeshd.cloud/hls/lR2MGcVuiary-g3qxkyZSw/db/v1feamnk/5zzs6n/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/lR2MGcVuiary-g3qxkyZSw/db/v1feamnk/5zzs6n/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/lR2MGcVuiary-g3qxkyZSw/db/v1feamnk/5zzs6n/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/lR2MGcVuiary-g3qxkyZSw/db/v1feamnk/5zzs6n/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra%20B/Boku%20no%20Hero%20Academia/Movie%2004/Dub.php",
           "type": "embed",
@@ -383,11 +461,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:56:25.311Z"
+    "createdAt": "2026-04-22T21:50:10.838Z"
   },
   {
     "id": "boku-no-hero-academia-the-movie-4-youre-next",
-    "title": "Home\nAnimes\nBoku no Hero Academia the Movie 4: You’re Next",
+    "title": "Boku no Hero Academia the Movie 4: You’re Next",
     "slug": "boku-no-hero-academia-the-movie-4-youre-next",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/8TWVFNIZD52SQWa97HJUzvCh5Jx-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/hd1TvTUGjkoYoqvXYfSBpI5Ri9B.jpg",
@@ -426,6 +504,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animeshd.cloud/#hlpu5e",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.strp2p.com/#6zanb",
           "type": "strp2p",
           "label": "FHD",
@@ -435,11 +519,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:08:31.125Z"
+    "createdAt": "2026-04-22T21:22:16.237Z"
   },
   {
     "id": "boku-no-kokoro-no-yabai-yatsu-movie",
-    "title": "Home\nAnimes\nBoku no Kokoro no Yabai Yatsu Movie",
+    "title": "Boku no Kokoro no Yabai Yatsu Movie",
     "slug": "boku-no-kokoro-no-yabai-yatsu-movie",
     "cover": "https://animeq.net/wp-content/uploads/2025/12/m0SmTFThfKTMZMKxUsxc7vFUla-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/20fNTS3aug4LAVRVEyzdRg54v6K.jpg",
@@ -454,7 +538,7 @@
     "synopsis": "Ichikawa Kyotaro é um garoto com complexo de adolescente que adora ler “Enciclopédia de Assassinatos” e “Atlas de Anatomia”. De repente, Yamada Anna, uma garota popular da sua classe, invade o mundo tranquilo de Ichikawa! Ela come bolinhos de arroz e cantarola na biblioteca. Então, de repente, ela se aproxima dele… Embora esteja confuso com o comportamento imprevisível de Yamada, Ichikawa se pega pensando nela. Enquanto isso, conforme Yamada conversa com Ichikawa, ele gradualmente começa a ficar curioso sobre ela. Pela primeira vez, ele descobre o sentimento de “amor”. Superando mal-entendidos e sentimentos estranhos, os dois, lenta mas seguramente, começam a diminuir a distância entre eles.",
     "year": "2026",
     "altTitle": "劇場版 僕の心のヤバイやつ, 劇場版 僕の心のヤバイやつ",
-    "rating": "5",
+    "rating": "6",
     "wpTags": [
       "anime movie",
       "Boku no Kokoro no Yabai Yatsu Movie",
@@ -474,11 +558,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:42:36.264Z"
+    "createdAt": "2026-04-22T21:02:23.052Z"
   },
   {
     "id": "brave-story",
-    "title": "Home\nAnimes\nBrave Story",
+    "title": "Brave Story",
     "slug": "brave-story",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/2qsC2fPLTVkbrysBlbejfMgYkdT-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/ysGlU8I7wkO7GSYtqVYDDfHGGeZ.jpg",
@@ -517,16 +601,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#fhfy3",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:00:01.337Z"
+    "createdAt": "2026-04-22T21:55:01.620Z"
   },
   {
     "id": "byousoku-5-centimeter",
-    "title": "Home\nAnimes\nByousoku 5 Centimeter",
+    "title": "Byousoku 5 Centimeter",
     "slug": "byousoku-5-centimeter",
     "cover": "https://animeq.net/wp-content/uploads/2026/01/nW3xo4CjqAo67cOoJlJ5zB0cH27-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/n7dz2NHNuEvoreUM4qXFR0Yh0pw.jpg",
@@ -550,7 +640,7 @@
     "synopsis": "Contada em três segmentos interligados, a história se passa entre o início dos anos 1990 e 2007. Takaki Tono é um jovem que vive em Tóquio ao lado de sua melhor amiga, Akari Shinohara. Por causa de mudanças no trabalho de seu pai, Akari se muda para outra cidade com a família. Mesmo distantes, os dois tentam manter contato por meio de cartas. Com o tempo, os desencontros se tornam frequentes e o vínculo entre eles enfraquece. Restam apenas as lembranças dos momentos que compartilharam. Novas pessoas entram em suas vidas, mas Takaki não consegue esquecer Akari. Mesmo após tantos anos, ele ainda guarda a esperança de reencontrá-la.",
     "year": "2007",
     "altTitle": "Cinco Centímetros por Segundo, 秒速5センチメートル",
-    "rating": "8",
+    "rating": "5",
     "wpTags": [
       "5 Centimeters per Second",
       "anime movie",
@@ -573,16 +663,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#osxtda",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:38:52.115Z"
+    "createdAt": "2026-04-22T20:56:47.371Z"
   },
   {
     "id": "chainsaw-man-o-filme-arco-da-reze-dublado",
-    "title": "Home\nAnimes\nChainsaw Man – O Filme: Arco da Reze Dublado",
+    "title": "Chainsaw Man – O Filme: Arco da Reze Dublado",
     "slug": "chainsaw-man-o-filme-arco-da-reze-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/2CBMtiqU90SrcGN0aopRIHmTb5E-202x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
@@ -627,20 +723,35 @@
           "method": "iframe_src"
         },
         {
-          "url": "https://animeshd.cloud/#suzl9i",
-          "type": "animeshd",
+          "url": "https://animeshd.cloud/hls/wTB4UEVhMYgFHCVIhJqEAw/6hf/fmg9y9ce/6uq5zh/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/wTB4UEVhMYgFHCVIhJqEAw/6hf/fmg9y9ce/6uq5zh/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/wTB4UEVhMYgFHCVIhJqEAw/6hf/fmg9y9ce/6uq5zh/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/wTB4UEVhMYgFHCVIhJqEAw/6hf/fmg9y9ce/6uq5zh/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/wTB4UEVhMYgFHCVIhJqEAw/6hf/fmg9y9ce/6uq5zh/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/wTB4UEVhMYgFHCVIhJqEAw/6hf/fmg9y9ce/6uq5zh/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/wTB4UEVhMYgFHCVIhJqEAw/6hf/fmg9y9ce/6uq5zh/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:43:49.175Z"
+    "createdAt": "2026-04-22T21:03:36.779Z"
   },
   {
     "id": "chainsaw-man-o-filme-arco-da-reze",
-    "title": "Home\nAnimes\nChainsaw Man – O Filme: Arco da Reze",
+    "title": "Chainsaw Man – O Filme: Arco da Reze",
     "slug": "chainsaw-man-o-filme-arco-da-reze",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/2CBMtiqU90SrcGN0aopRIHmTb5E-202x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
@@ -664,7 +775,7 @@
     "synopsis": "Denji se tornou o “Homem-Motosserra”, um garoto com um coração de demônio, e agora faz parte dos Caçadores de Demônios da Divisão Especial 4. Após um encontro com Makima, a mulher dos seus sonhos, Denji se abriga da chuva. Lá ele conhece Reze, uma garota que trabalha em um café.",
     "year": "2025",
     "altTitle": "08Chainsaw Man – O Filme: Arco da Reze, チェンソーマン レゼ篇",
-    "rating": "9",
+    "rating": "8",
     "wpTags": [
       "Chainsaw Man – O Filme: Arco da Reze",
       "Chainsaw Man – O Filme: Arco da Reze Dublado"
@@ -685,20 +796,35 @@
           "method": "iframe_src"
         },
         {
-          "url": "https://animeshd.cloud/#knbooh",
-          "type": "animeshd",
+          "url": "https://animeshd.cloud/hls/vGawrSkGw5E5hDFRHPSOMg/5w3/xieomesg/ot1mgs/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/vGawrSkGw5E5hDFRHPSOMg/5w3/xieomesg/ot1mgs/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/vGawrSkGw5E5hDFRHPSOMg/5w3/xieomesg/ot1mgs/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/vGawrSkGw5E5hDFRHPSOMg/5w3/xieomesg/ot1mgs/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/vGawrSkGw5E5hDFRHPSOMg/5w3/xieomesg/ot1mgs/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/vGawrSkGw5E5hDFRHPSOMg/5w3/xieomesg/ot1mgs/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/vGawrSkGw5E5hDFRHPSOMg/5w3/xieomesg/ot1mgs/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:44:16.201Z"
+    "createdAt": "2026-04-22T21:04:07.872Z"
   },
   {
     "id": "chou-kaguya-hime-dublado",
-    "title": "Home\nAnimes\nChou Kaguya-hime! Dublado",
+    "title": "Chou Kaguya-hime! Dublado",
     "slug": "chou-kaguya-hime-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2026/01/9lHbzF8h1do99LlIis8iemMOZSj-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/hTMJYUPvnbwpvfVbvetdZKvjz40.jpg",
@@ -731,19 +857,28 @@
       "超かぐや姫！"
     ],
     "video": {
-      "main": "https://animeshd.cloud/#6lhoga",
+      "main": "https://animes.strp2p.com/hls/Mm-jjtdj3jBlIp5zpmHWHQ/jcp/r8c1nmnf/pqfubn/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://animeshd.cloud/#6lhoga",
-          "type": "animeshd",
+          "url": "https://animes.strp2p.com/hls/Mm-jjtdj3jBlIp5zpmHWHQ/jcp/r8c1nmnf/pqfubn/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/Mm-jjtdj3jBlIp5zpmHWHQ/jcp/r8c1nmnf/pqfubn/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/Mm-jjtdj3jBlIp5zpmHWHQ/jcp/r8c1nmnf/pqfubn/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
         },
         {
-          "url": "https://cdn1.rpmplay.online/#li8n3b",
-          "type": "embed",
+          "url": "https://cdn1.rpmplay.online/hls/Mm-jjtdj3jBlIp5zpmHWHQ/jcp/r8c1nmnf/pqfubn/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://cdn1.rpmplay.online/hls/Mm-jjtdj3jBlIp5zpmHWHQ/jcp/r8c1nmnf/pqfubn/tt/master.m3u8?v=1766826492",
+            "https://cdn1.rpmplay.online/hls/Mm-jjtdj3jBlIp5zpmHWHQ/jcp/r8c1nmnf/pqfubn/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://cdn1.rpmplay.online/hls/Mm-jjtdj3jBlIp5zpmHWHQ/jcp/r8c1nmnf/pqfubn/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
         },
         {
           "url": "https://www.youtube.com/embed/YPW9c8PTPbE?autoplay=&autohide=1",
@@ -755,11 +890,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:35:54.363Z"
+    "createdAt": "2026-04-22T20:53:40.034Z"
   },
   {
     "id": "chou-kaguya-hime",
-    "title": "Home\nAnimes\nChou Kaguya-hime!",
+    "title": "Chou Kaguya-hime!",
     "slug": "chou-kaguya-hime",
     "cover": "https://animeq.net/wp-content/uploads/2026/01/glpJ2R00qo0TTD7TdOm2cYMNQah-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/hTMJYUPvnbwpvfVbvetdZKvjz40.jpg",
@@ -792,12 +927,22 @@
       "超かぐや姫！"
     ],
     "video": {
-      "main": "https://animeshd.cloud/#gpixyy",
+      "main": "https://animes.strp2p.com/hls/-GBcWA14yMJxJciaFm66wg/hz/1xmlfn69/x9clau/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://animeshd.cloud/#gpixyy",
-          "type": "animeshd",
+          "url": "https://animes.strp2p.com/hls/-GBcWA14yMJxJciaFm66wg/hz/1xmlfn69/x9clau/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/-GBcWA14yMJxJciaFm66wg/hz/1xmlfn69/x9clau/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/-GBcWA14yMJxJciaFm66wg/hz/1xmlfn69/x9clau/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/YPW9c8PTPbE?autoplay=&autohide=1",
+          "type": "embed",
+          "label": "Watch trailer",
           "method": "embed"
         },
         {
@@ -805,22 +950,16 @@
           "type": "embed",
           "label": "FHD",
           "method": "embed"
-        },
-        {
-          "url": "https://www.youtube.com/embed/YPW9c8PTPbE?autoplay=&autohide=1",
-          "type": "embed",
-          "label": "Watch trailer",
-          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:36:52.143Z"
+    "createdAt": "2026-04-22T20:54:28.654Z"
   },
   {
     "id": "clannad-movie",
-    "title": "Home\nAnimes\nClannad Movie",
+    "title": "Clannad Movie",
     "slug": "clannad-movie",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/crJYdKEriRiyimMr5TUHxNW0XP5-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/oZhi38mwvF1rzmIHRt9mEduT0pV.jpg",
@@ -857,16 +996,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#slsn1",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:00:27.275Z"
+    "createdAt": "2026-04-22T21:55:46.410Z"
   },
   {
     "id": "corpse-party-missing-footage",
-    "title": "Home\nAnimes\nCorpse Party: Missing Footage",
+    "title": "Corpse Party: Missing Footage",
     "slug": "corpse-party-missing-footage",
     "cover": "https://animeq.net/wp-content/uploads/2025/03/7dy0IhRliWWtXJXLBBdjG1y26uk-200x300.jpg",
     "banner": "",
@@ -900,16 +1045,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#qnxuj",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:05:09.558Z"
+    "createdAt": "2026-04-22T21:16:39.408Z"
   },
   {
     "id": "detetive-fuuto-retrato-de-kamen-rider-skull",
-    "title": "Home\nAnimes\nDetetive Fuuto: Retrato de Kamen Rider Skull",
+    "title": "Detetive Fuuto: Retrato de Kamen Rider Skull",
     "slug": "detetive-fuuto-retrato-de-kamen-rider-skull",
     "cover": "https://animeq.net/wp-content/uploads/2025/11/fZ5Rl7b8ZeFuVjXpsybswT8kbBg-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/AwgmO9qXGTp9q1jyzWhgOTBDgrN.jpg",
@@ -964,16 +1115,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#fv6ezv",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:44:42.534Z"
+    "createdAt": "2026-04-22T21:04:44.561Z"
   },
   {
     "id": "dragon-ball-super-super-hero",
-    "title": "Home\nAnimes\nDragon Ball Super: Super Hero",
+    "title": "Dragon Ball Super: Super Hero",
     "slug": "dragon-ball-super-super-hero",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/FiqBRypTDyHzqcxdbpPb3ddFep-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/uR0FopHrAjDlG5q6PZB07a1JOva.jpg",
@@ -1024,11 +1181,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:16:37.628Z"
+    "createdAt": "2026-04-22T21:32:25.674Z"
   },
   {
     "id": "fruits-basket-prelude",
-    "title": "Home\nAnimes\nFruits Basket: Prelude",
+    "title": "Fruits Basket: Prelude",
     "slug": "fruits-basket-prelude",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/9EpOhoSZApJEojx3L3hwr3V3CWd-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/dUgCPD69mBKpg41DVc9gEBHs3wY.jpg",
@@ -1082,11 +1239,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:48:40.833Z"
+    "createdAt": "2026-04-22T21:08:29.478Z"
   },
   {
     "id": "fullmetal-alchemist-the-conqueror-of-shamballa",
-    "title": "Home\nAnimes\nFullmetal Alchemist: The Conqueror of Shamballa",
+    "title": "Fullmetal Alchemist: The Conqueror of Shamballa",
     "slug": "fullmetal-alchemist-the-conqueror-of-shamballa",
     "cover": "https://image.tmdb.org/t/p/original/vaDnT0LghzzHogdzjJiyiWC1xMD.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/5gXlLqyPyKyoy2pKlK7evwTM0E8.jpg",
@@ -1104,7 +1261,7 @@
     "synopsis": "Em desespero, Edward Elric sacrificou seu corpo e alma para resgatar seu irmão Alphonse, e agora está deslocado no coração de Munique, Alemanha. Ele luta para se adaptar a um mundo completamente estranho a ele após a crise econômica que se seguiu ao fim da Primeira Guerra Mundial. Isolado e incapaz de retornar para casa com suas habilidades de alquimia, Edward continua a pesquisar outros métodos de escapar da prisão ao lado de colegas que têm semelhanças impressionantes com muitas das pessoas que ele deixou para trás. À medida que a dissidência cresce entre os cidadãos alemães, seus vizinhos também sentem a inquietação da nação humilhada. Enquanto isso, Alphonse continua a investigar o desaparecimento de Edward, mergulhando na ciência da alquimia na esperança de finalmente se reunir com seu irmão mais velho.",
     "year": "2005",
     "altTitle": "Fullmetal Alchemist: The Conqueror of Shamballa, Fullmetal Alchemist: The Movie – Conqueror of Shamballa, Fullmetal Alchemist: O Conquistador de Shamballa",
-    "rating": "8",
+    "rating": "5",
     "wpTags": [
       "Fullmetal Alchemist: The Conqueror of Shamballa",
       "Fullmetal Alchemist: The Movie - Conqueror of Shamballa"
@@ -1128,11 +1285,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:16:14.456Z"
+    "createdAt": "2026-04-22T21:32:01.156Z"
   },
   {
     "id": "fullmetal-alchemist-the-sacred-star-of-milos",
-    "title": "Home\nAnimes\nFullmetal Alchemist: The Sacred Star of Milos",
+    "title": "Fullmetal Alchemist: The Sacred Star of Milos",
     "slug": "fullmetal-alchemist-the-sacred-star-of-milos",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/iodglQKQGLSwPZjz8bWCWcukF2p-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/rFkiZNiub7Q7eGPYdM4JGRVLcCn.jpg",
@@ -1178,11 +1335,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:17:01.669Z"
+    "createdAt": "2026-04-22T21:32:50.203Z"
   },
   {
     "id": "fureru",
-    "title": "Home\nAnimes\nFureru",
+    "title": "Fureru",
     "slug": "fureru",
     "cover": "https://animeq.net/wp-content/uploads/2026/01/aGEpQkhj1rY5dHfaapnx7qUqh2d-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/jYcvdfOce89Vzisi0pOK9bLfIgT.jpg",
@@ -1222,16 +1379,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#3uekgc",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:39:17.855Z"
+    "createdAt": "2026-04-22T20:57:32.138Z"
   },
   {
     "id": "guerreiras-do-k-pop-dublado",
-    "title": "Home\nAnimes\nGuerreiras do K-Pop Dublado",
+    "title": "Guerreiras do K-Pop Dublado",
     "slug": "guerreiras-do-k-pop-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/07/iJSqkmLwgqj9MwARySBXMkYO7mG-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/l3ycQYwWmbz7p8otwbomFDXIEhn.jpg",
@@ -1269,14 +1432,8 @@
       "trio"
     ],
     "video": {
-      "main": "https://eos.feralhosting.com/inazu/Letra-G/Guerreiras do K-Pop/Dub/01.mp4",
+      "main": "https://animeflix.blog/Animes/Letra-G/Guerreiras do K-Pop/Dub/01.mp4",
       "players": [
-        {
-          "url": "https://eos.feralhosting.com/inazu/Letra-G/Guerreiras do K-Pop/Dub/01.mp4",
-          "type": "mp4",
-          "label": "HD",
-          "method": "iframe_src"
-        },
         {
           "url": "https://animeflix.blog/Animes/Letra-G/Guerreiras do K-Pop/Dub/01.mp4",
           "type": "mp4",
@@ -1284,26 +1441,36 @@
           "method": "iframe_src"
         },
         {
-          "url": "https://animeshd.cloud/#cvgohd",
-          "type": "animeshd",
+          "url": "https://animeshd.cloud/hls/OmVgNnCl74L82tpELY-xAw/pp/skucpuec/tz81cd/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "HD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/OmVgNnCl74L82tpELY-xAw/pp/skucpuec/tz81cd/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/OmVgNnCl74L82tpELY-xAw/pp/skucpuec/tz81cd/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
         },
         {
           "url": "https://www.youtube.com/embed/pIb3zixhP3A?autoplay=&autohide=1",
           "type": "embed",
           "label": "Watch trailer",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#hyf3m",
+          "type": "strp2p",
+          "label": "HD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:52:13.698Z"
+    "createdAt": "2026-04-22T21:44:36.318Z"
   },
   {
     "id": "haikyu-o-talento-e-o-instinto",
-    "title": "Home\nAnimes\nHAIKYU!! O Talento e o Instinto",
+    "title": "HAIKYU!! O Talento e o Instinto",
     "slug": "haikyu-o-talento-e-o-instinto",
     "cover": "https://animeq.net/wp-content/uploads/2025/03/jo6tVrf2el3Sp8Q9hcb6wQbgJon-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/zdxaHMnyGdNl9xoksAsCl8HGeuE.jpg",
@@ -1321,7 +1488,7 @@
     "synopsis": "Neste filme temos a partida entre Karasuno e Aoba Jousai com alguns detalhes a mais, mostrando melhor sobre um dos melhores times atuais de Miyagi.",
     "year": "2017",
     "altTitle": "HAIKYU!! O Talento e o Instinto, ハイキュー!! 才能とセンス, Haikyuu!! Movie 3 Sainou to Sense",
-    "rating": "7",
+    "rating": "9",
     "wpTags": [
       "HAIKYU!! O Talento e o Instinto",
       "Haikyuu!! Movie 3 Online",
@@ -1342,16 +1509,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#t5hac",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:07:16.318Z"
+    "createdAt": "2026-04-22T21:20:24.565Z"
   },
   {
     "id": "haikyuu-movie-2-shousha-to-haisha",
-    "title": "Home\nAnimes\nHaikyuu!! Movie 2: Shousha to Haisha",
+    "title": "Haikyuu!! Movie 2: Shousha to Haisha",
     "slug": "haikyuu-movie-2-shousha-to-haisha",
     "cover": "https://animeq.net/wp-content/uploads/2025/03/eRArVje5hHPfDhG9zXVmRBAxFxD-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/naU69rMDXM4T3PkgsDyCDYNxjIf.jpg",
@@ -1366,7 +1539,7 @@
     "synopsis": "Recapitulação da segunda temporada de Haikyuu!!",
     "year": "2015",
     "altTitle": "Haikyuu!! Movie 2: Shousha to Haisha, ハイキュー!! 勝者と敗者",
-    "rating": "8",
+    "rating": "6",
     "wpTags": [
       "Haikyuu!! Movie 2",
       "Haikyuu!! Movie 2 Online",
@@ -1387,16 +1560,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#lmyxt",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:06:26.571Z"
+    "createdAt": "2026-04-22T21:18:51.566Z"
   },
   {
     "id": "haikyuu-movie-owari-to-hajimari",
-    "title": "Home\nAnimes\nHaikyuu!! Movie: Owari to Hajimari",
+    "title": "Haikyuu!! Movie: Owari to Hajimari",
     "slug": "haikyuu-movie-owari-to-hajimari",
     "cover": "https://animeq.net/wp-content/uploads/2025/03/kWopdC6UbjcDGxCYwS2uIsoYl3b-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/A1LNfBInlBq2kJRhGyyjRMYD956.jpg",
@@ -1436,16 +1615,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#k6uz6",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:06:52.057Z"
+    "createdAt": "2026-04-22T21:19:34.441Z"
   },
   {
     "id": "hyakuemu",
-    "title": "Home\nAnimes\nHyakuemu",
+    "title": "Hyakuemu",
     "slug": "hyakuemu",
     "cover": "https://animeq.net/wp-content/uploads/2025/12/dkBRX077Px0l766Ydbf25VVB9GG-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/hKy4J8jbiOBmSKs0NlcHP1hLWYl.jpg",
@@ -1478,17 +1663,33 @@
       "ひゃくえむ。"
     ],
     "video": {
-      "main": "https://animeshd.cloud/#xewxyj",
+      "main": "https://animeshd.cloud/hls/qxbBz7RY6wJi4pWFgQF3Tw/c5u/wybszbqb/nw8x5v/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://animeshd.cloud/#xewxyj",
-          "type": "animeshd",
+          "url": "https://animeshd.cloud/hls/qxbBz7RY6wJi4pWFgQF3Tw/c5u/wybszbqb/nw8x5v/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/qxbBz7RY6wJi4pWFgQF3Tw/c5u/wybszbqb/nw8x5v/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/qxbBz7RY6wJi4pWFgQF3Tw/c5u/wybszbqb/nw8x5v/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/qxbBz7RY6wJi4pWFgQF3Tw/c5u/wybszbqb/nw8x5v/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
         },
         {
-          "url": "https://cdn1.rpmplay.online/#xub9vx",
-          "type": "embed",
+          "url": "https://cdn1.rpmplay.online/hls/qxbBz7RY6wJi4pWFgQF3Tw/c5u/wybszbqb/nw8x5v/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://cdn1.rpmplay.online/hls/qxbBz7RY6wJi4pWFgQF3Tw/c5u/wybszbqb/nw8x5v/tt/master.m3u8?v=1766826492",
+            "https://cdn1.rpmplay.online/hls/qxbBz7RY6wJi4pWFgQF3Tw/c5u/wybszbqb/nw8x5v/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://cdn1.rpmplay.online/hls/qxbBz7RY6wJi4pWFgQF3Tw/c5u/wybszbqb/nw8x5v/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/#qplqs3",
+          "type": "strp2p",
           "label": "FHD",
           "method": "embed"
         }
@@ -1496,11 +1697,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:41:09.372Z"
+    "createdAt": "2026-04-22T21:00:38.550Z"
   },
   {
     "id": "inuyasha-1-sentimentos-que-transcendem-o-tempo-dublado",
-    "title": "Home\nAnimes\nInuYasha 1: Sentimentos que Transcendem o Tempo Dublado",
+    "title": "InuYasha 1: Sentimentos que Transcendem o Tempo Dublado",
     "slug": "inuyasha-1-sentimentos-que-transcendem-o-tempo-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/ismu96Aky9DrHHIVH3TrpX7uRBc-208x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/aWg40fkUvghFwrCya2fHvAEvjud.jpg",
@@ -1517,7 +1718,7 @@
     "synopsis": "Durante sua busca na era feudal pelos fragmentos da joia Shikon, Inuyasha, Kagome Higurashi e seus amigos se tornam alvo de Menoumaru Hyouga. Esse demônio desperta com um dos fragmentos de Shikon e agora deseja a espada de herança de Inuyasha, a Tessaiga. Após um confronto entre os pais de Inuyasha e Menoumaru, a espada se mostra o único meio de restaurar a legítima herança familiar de Menoumaru. Ao emboscar Inuyasha, ele descobre que apenas o dono da Tessaiga pode empunhá-la. Determinado a atingir seu objetivo, Menoumaru sequestra Kagome para forçar Inuyasha a usar a lâmina e liberar os poderes selados do clã Hyouga. Com a ajuda de seus companheiros confiáveis, Inuyasha e Kagome enfrentam Menoumaru. Eles ainda não sabem que suas intenções sinistras ameaçam não apenas seu mundo, mas também seu futuro distante.",
     "year": "2001",
     "altTitle": "InuYasha Movie 1: Toki wo Koeru Omoi, InuYasha the Movie: Affections Touching Across Time, Inu Yasha: Toki wo Koeru Omoi, InuYasha: Love That Transcends Time, 犬夜叉 時代を越える想い",
-    "rating": "7",
+    "rating": "6",
     "wpTags": [
       "assistir inuyasha 1",
       "inuyasha 1",
@@ -1544,11 +1745,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:47:40.719Z"
+    "createdAt": "2026-04-22T21:07:53.873Z"
   },
   {
     "id": "inuyasha-1-sentimentos-que-transcendem-o-tempo",
-    "title": "Home\nAnimes\nInuYasha 1: Sentimentos que Transcendem o Tempo",
+    "title": "InuYasha 1: Sentimentos que Transcendem o Tempo",
     "slug": "inuyasha-1-sentimentos-que-transcendem-o-tempo",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/krSgIB3AD35sKh9iXT5x7Io1xHF-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/aWg40fkUvghFwrCya2fHvAEvjud.jpg",
@@ -1565,7 +1766,7 @@
     "synopsis": "Durante sua busca na era feudal pelos fragmentos da joia Shikon, Inuyasha, Kagome Higurashi e seus amigos se tornam alvo de Menoumaru Hyouga. Esse demônio desperta com um dos fragmentos de Shikon e agora deseja a espada de herança de Inuyasha, a Tessaiga. Após um confronto entre os pais de Inuyasha e Menoumaru, a espada se mostra o único meio de restaurar a legítima herança familiar de Menoumaru. Ao emboscar Inuyasha, ele descobre que apenas o dono da Tessaiga pode empunhá-la. Determinado a atingir seu objetivo, Menoumaru sequestra Kagome para forçar Inuyasha a usar a lâmina e liberar os poderes selados do clã Hyouga. Com a ajuda de seus companheiros confiáveis, Inuyasha e Kagome enfrentam Menoumaru. Eles ainda não sabem que suas intenções sinistras ameaçam não apenas seu mundo, mas também seu futuro distante.",
     "year": "2001",
     "altTitle": "InuYasha Movie 1: Toki wo Koeru Omoi, InuYasha the Movie: Affections Touching Across Time, Inu Yasha: Toki wo Koeru Omoi, InuYasha: Love That Transcends Time, 犬夜叉 時代を越える想い",
-    "rating": "5",
+    "rating": "8",
     "wpTags": [
       "assistir inuyasha 1",
       "inuyasha 1",
@@ -1591,11 +1792,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:46:50.117Z"
+    "createdAt": "2026-04-22T21:08:15.267Z"
   },
   {
     "id": "inuyasha-2-o-castelo-das-ilusoes-dentro-do-espelho-dublado",
-    "title": "Home\nAnimes\nInuYasha 2: O Castelo das Ilusões Dentro do Espelho Dublado",
+    "title": "InuYasha 2: O Castelo das Ilusões Dentro do Espelho Dublado",
     "slug": "inuyasha-2-o-castelo-das-ilusoes-dentro-do-espelho-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/m6FDY5uHqfZydv4lZDPaE6h4wQ2-208x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/40XTRnRRDZ4TzbjcrfW3WvtSsKW.jpg",
@@ -1639,11 +1840,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:47:33.632Z"
+    "createdAt": "2026-04-22T21:07:47.071Z"
   },
   {
     "id": "inuyasha-2-o-castelo-das-ilusoes-dentro-do-espelho",
-    "title": "Home\nAnimes\nInuYasha 2: O Castelo das Ilusões Dentro do Espelho",
+    "title": "InuYasha 2: O Castelo das Ilusões Dentro do Espelho",
     "slug": "inuyasha-2-o-castelo-das-ilusoes-dentro-do-espelho",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/u8zFbyQnIKRRPxRRweQ6ODtAUhc-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/40XTRnRRDZ4TzbjcrfW3WvtSsKW.jpg",
@@ -1660,7 +1861,7 @@
     "synopsis": "Com seu maior inimigo supostamente derrotado, InuYasha e seus amigos retornam à rotina do dia-a-dia. Mas a paz é logo abalada pela chegada de um novo adversário.",
     "year": "2002",
     "altTitle": "InuYasha Movie 2: Kagami no Naka no Mugenjou, InuYasha the Movie 2: The Castle Beyond the Looking Glass, 犬夜叉 鏡の中の夢幻城",
-    "rating": "8",
+    "rating": "7",
     "wpTags": [
       "assistir inuyasha 2",
       "inuyasha 2",
@@ -1687,11 +1888,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:47:56.269Z"
+    "createdAt": "2026-04-22T21:08:08.099Z"
   },
   {
     "id": "inuyasha-3-a-espada-dominadora-do-mundo-dublado",
-    "title": "Home\nAnimes\nInuYasha 3: A Espada Dominadora do Mundo Dublado",
+    "title": "InuYasha 3: A Espada Dominadora do Mundo Dublado",
     "slug": "inuyasha-3-a-espada-dominadora-do-mundo-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/rl3H0DJ3ouiuG6KOrMzMqsZQncA-208x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/xPdUja2zYYDr148tpmxs56dpvWw.jpg",
@@ -1707,7 +1908,7 @@
     "synopsis": "Após a morte de Inu no Taishou, ele passou suas espadas Tenseiga e Tessaiga para seus filhos, Sesshoumaru e Inuyasha. No entanto, existe uma terceira lâmina. Durante uma visita a sua amiga Kagome Higurashi nos tempos modernos, Inuyasha encontra Sounga, a terceira espada de seu pai. Sounga foi descoberta por um dos ancestrais de Kagome dentro do antigo poço que conecta o passado ao futuro. Por anos, a família Higurashi guardou a espada como um artefato precioso no santuário. Logo, ela revela abrigar um espírito maligno com um terrível desejo de matar.",
     "year": "2003",
     "altTitle": "InuYasha Movie 3: Tenka Hadou no Ken, InuYasha the Movie 3: Swords of an Honorable Ruler, Inu Yasha: Tenka Hadou no Ken, InuYasha: The Sword of the World Conquest, The Sword That Rules Over the Empires, 映画犬夜叉 天下覇道の剣",
-    "rating": "7",
+    "rating": "9",
     "wpTags": [
       "assistir inuyasha 3",
       "inuyasha 3",
@@ -1734,11 +1935,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:47:25.569Z"
+    "createdAt": "2026-04-22T21:07:40.448Z"
   },
   {
     "id": "inuyasha-4-fogo-na-ilha-mistica-dublado",
-    "title": "Home\nAnimes\nInuYasha 4: Fogo na Ilha Mística Dublado",
+    "title": "InuYasha 4: Fogo na Ilha Mística Dublado",
     "slug": "inuyasha-4-fogo-na-ilha-mistica-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/hlQZzi9M9Ocf3alXiLyt9fcOtVV-208x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/dEeclgUEcAOhBRwLjW58Qk6lRvi.jpg",
@@ -1781,11 +1982,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:47:18.557Z"
+    "createdAt": "2026-04-22T21:07:33.292Z"
   },
   {
     "id": "inuyasha-4-fogo-na-ilha-mistica",
-    "title": "Home\nAnimes\nInuYasha 4: Fogo na Ilha Mística",
+    "title": "InuYasha 4: Fogo na Ilha Mística",
     "slug": "inuyasha-4-fogo-na-ilha-mistica",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/jJIFvTkkbUcwQaTaEUTPo106Qwx-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/dEeclgUEcAOhBRwLjW58Qk6lRvi.jpg",
@@ -1801,7 +2002,7 @@
     "synopsis": "Hourai é uma ilha misteriosa que surge a cada 50 anos por um período limitado. Alguns acreditam que ela guarda o segredo da eterna juventude. Outros dizem que traz desastre às terras próximas. O grupo de Inuyasha salva uma criança meio-demônio de uma criatura monstruosa. Eles descobrem que ela se chama Ai e fugiu de Hourai. Surpreendentemente, Ai conhece Inuyasha. Ela implora que ele resgate seus amigos, mantidos prisioneiros por demônios cruéis. Esses inimigos se autodenominam os Quatro Deuses da Guerra — um adversário que Inuyasha lembra bem.",
     "year": "2004",
     "altTitle": "InuYasha Movie 4: Guren no Houraijima, InuYasha the Movie 4: Fire on the Mystic Island, InuYasha the Movie 4: Fire on the Mystic Island, 犬夜叉 紅蓮の蓬莱島",
-    "rating": "5",
+    "rating": "9",
     "wpTags": [
       "assistir inuyasha 4",
       "inuyasha 4",
@@ -1828,11 +2029,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:47:49.238Z"
+    "createdAt": "2026-04-22T21:08:00.955Z"
   },
   {
     "id": "inuyasha-kuroi-tessaiga",
-    "title": "Home\nAnimes\nInuYasha: Kuroi Tessaiga",
+    "title": "InuYasha: Kuroi Tessaiga",
     "slug": "inuyasha-kuroi-tessaiga",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/brymspLbLiuK5ubc6HrgGzVzabu-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/dEeclgUEcAOhBRwLjW58Qk6lRvi.jpg",
@@ -1848,7 +2049,7 @@
     "synopsis": "Sesshoumaru nunca aprovou que seu irmão mais novo, meio-demônio Inuyasha, recebesse a preciosa espada de seu pai, a Tessaiga. Ele próprio herdou a lâmina restauradora Tenseiga. Quando descobre que até a única técnica destrutiva de Tenseiga — que ele aperfeiçoou — transfere seu poder para a Tessaiga, Sesshoumaru fica ainda mais ressentido. Ele sente que o irmão indigno recebe a atenção que deveria ser sua.",
     "year": "2004",
     "altTitle": "Inu Yasha Special, Black Tessaiga, Black Tetsusaiga, Kuroi Tetsusaiga, It’s a Rumic World: InuYasha, 犬夜叉 黒い鉄砕牙",
-    "rating": "5",
+    "rating": "7",
     "wpTags": [
       "assistir inuyasha kuroi tessaiga",
       "inuyasha filme kuroi tessaiga",
@@ -1875,11 +2076,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:47:10.617Z"
+    "createdAt": "2026-04-22T21:07:26.799Z"
   },
   {
     "id": "jojos-bizarre-adventure-phantom-blood",
-    "title": "Home\nAnimes\nJoJo’s Bizarre Adventure: Phantom Blood",
+    "title": "JoJo’s Bizarre Adventure: Phantom Blood",
     "slug": "jojos-bizarre-adventure-phantom-blood",
     "cover": "https://animeq.net/wp-content/uploads/2025/07/k9568nNUbo7z81j2eYuHp0vkEy6-215x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/jw2FmU7RKMMkgDCshUBE9OaXuaJ.jpg",
@@ -1902,7 +2103,7 @@
     "synopsis": "O filme adapta o arco original de cinco volumes do mangá JoJo’s Bizarre Adventure, cobrindo os capítulos de Phantom Blood. Jonathan Joestar é um jovem aristocrata que tem sua vida transformada por Dio Brando, um garoto plebeu que seu pai acolheu após a morte dos pais. Incomodado com sua origem humilde, Dio mergulha em uma busca por poder e passa a estudar uma misteriosa máscara de pedra asteca mantida na mansão dos Joestar. O filme teve exibição limitada nos cinemas japoneses, mas nunca chegou ao público geral. Hoje, muitos o consideram uma obra praticamente perdida.",
     "year": "2007",
     "altTitle": "ジョジョの奇妙な冒険 ファントム ブラッド, ジョジョの奇妙な冒険 ファントム ブラッド",
-    "rating": "5",
+    "rating": "7",
     "wpTags": [
       "anime clássico",
       "assistir phantom blood",
@@ -1934,11 +2135,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:52:56.952Z"
+    "createdAt": "2026-04-22T21:45:39.916Z"
   },
   {
     "id": "jujutsu-kaisen-0-o-filme-dublado",
-    "title": "Home\nAnimes\nJujutsu Kaisen 0: O Filme Dublado",
+    "title": "Jujutsu Kaisen 0: O Filme Dublado",
     "slug": "jujutsu-kaisen-0-o-filme-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2026/01/yzkgx79vj1KsZBzxFBIsQBwBkPE-211x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
@@ -1962,21 +2163,15 @@
     "synopsis": "Quando Yuta Okkotsu era pequeno, sua amiga Rika Orimoto morreu num acidente de trânsito, bem na sua frente. Ela se tornou uma aparição, assombrando o jovem e atormentando a sua vida, até o dia em que Satoru Gojo, um feiticeiro Jujutsu, o convida para se matricular no Colégio Jujutsu. Junto com seus novos colegas de sala: Maki Zen’in, Toge Inumaki e Panda, Yuta encontra a coragem para perseverar. Enquanto isso, Suguru Geto, um vil manipulador de maldições que foi expulso do colégio por massacrar inocentes, põe em prática seu plano: lançar mil maldições em Shinjuku e em Kyoto e exterminar todos os não-feiticeiros, criando um paraíso para feiticeiros Jujutsu. Será que Yuta será capaz de impedir Geto? E o que acontecerá quando ele se livrar da maldição da Rika?",
     "year": "2021",
     "altTitle": "Jujutsu Kaisen 0: O Filme Dublado, 劇場版 呪術廻戦 0",
-    "rating": "7",
+    "rating": "5",
     "wpTags": [
       "Jujutsu Kaisen",
       "Jujutsu Kaisen 0: O Filme",
       "Jujutsu Kaisen 0: o filme Dublado"
     ],
     "video": {
-      "main": "https://aniplay.online/Midias/Animes/Letra-J/Jujutsu-Kaisen-0-O-Filme/DUB/01fhd.mp4",
+      "main": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/playlist/v5/24px.svg",
       "players": [
-        {
-          "url": "https://aniplay.online/Midias/Animes/Letra-J/Jujutsu-Kaisen-0-O-Filme/DUB/01fhd.mp4",
-          "type": "mp4",
-          "label": "FullHD / HLS",
-          "method": "iframe_src"
-        },
         {
           "url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/playlist/v5/24px.svg",
           "type": "mp4",
@@ -1987,20 +2182,35 @@
           ]
         },
         {
-          "url": "https://animeshd.cloud/#hup8nc",
-          "type": "animeshd",
+          "url": "https://animeshd.cloud/hls/vn3usTfRxSHyFZkju3aJAQ/urp/xieomesg/9c199m/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/vn3usTfRxSHyFZkju3aJAQ/urp/xieomesg/9c199m/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/vn3usTfRxSHyFZkju3aJAQ/urp/xieomesg/9c199m/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/vn3usTfRxSHyFZkju3aJAQ/urp/xieomesg/9c199m/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/vn3usTfRxSHyFZkju3aJAQ/urp/xieomesg/9c199m/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/vn3usTfRxSHyFZkju3aJAQ/urp/xieomesg/9c199m/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/vn3usTfRxSHyFZkju3aJAQ/urp/xieomesg/9c199m/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:46:17.944Z"
+    "createdAt": "2026-04-22T20:55:23.420Z"
   },
   {
     "id": "jujutsu-kaisen-0-o-filme",
-    "title": "Home\nAnimes\nJujutsu Kaisen 0: O Filme",
+    "title": "Jujutsu Kaisen 0: O Filme",
     "slug": "jujutsu-kaisen-0-o-filme",
     "cover": "https://animeq.net/wp-content/uploads/2026/01/2ndvx03fmREMxEgaZ1vWt756TOQ-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/rcEDPOOOUTLFxLLQJggfLffbofe.jpg",
@@ -2024,45 +2234,51 @@
     "synopsis": "Quando Yuta Okkotsu era pequeno, sua amiga Rika Orimoto morreu num acidente de trânsito, bem na sua frente. Ela se tornou uma aparição, assombrando o jovem e atormentando a sua vida, até o dia em que Satoru Gojo, um feiticeiro Jujutsu, o convida para se matricular no Colégio Jujutsu. Junto com seus novos colegas de sala: Maki Zen’in, Toge Inumaki e Panda, Yuta encontra a coragem para perseverar. Enquanto isso, Suguru Geto, um vil manipulador de maldições que foi expulso do colégio por massacrar inocentes, põe em prática seu plano: lançar mil maldições em Shinjuku e em Kyoto e exterminar todos os não-feiticeiros, criando um paraíso para feiticeiros Jujutsu. Será que Yuta será capaz de impedir Geto? E o que acontecerá quando ele se livrar da maldição da Rika?",
     "year": "2021",
     "altTitle": "Jujutsu Kaisen 0: O Filme, 劇場版 呪術廻戦 0",
-    "rating": "6",
+    "rating": "7",
     "wpTags": [
       "Jujutsu Kaisen",
       "Jujutsu Kaisen 0: O Filme",
       "Jujutsu Kaisen 0: o filme Dublado"
     ],
     "video": {
-      "main": "https://aniplay.online/Midias/Animes/Letra-J/Jujutsu-Kaisen-0-O-Filme/01.mp4",
+      "main": "https://animeshd.cloud/hls/L1CLduURO77p1dotW23n3g/c5u/ojqwdds3/sjwl9y/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://aniplay.online/Midias/Animes/Letra-J/Jujutsu-Kaisen-0-O-Filme/01.mp4",
-          "type": "mp4",
-          "label": "FullHD / HLS",
-          "method": "iframe_src"
-        },
-        {
-          "url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/playlist/v5/24px.svg",
-          "type": "mp4",
-          "label": "Watch trailer",
+          "url": "https://animeshd.cloud/hls/L1CLduURO77p1dotW23n3g/c5u/ojqwdds3/sjwl9y/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
           "method": "intercept",
           "all": [
-            "https://fonts.gstatic.com/s/i/youtube_outline_experimental/playlist/v5/24px.svg"
+            "https://animeshd.cloud/hls/L1CLduURO77p1dotW23n3g/c5u/ojqwdds3/sjwl9y/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/L1CLduURO77p1dotW23n3g/c5u/ojqwdds3/sjwl9y/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/L1CLduURO77p1dotW23n3g/c5u/ojqwdds3/sjwl9y/tt/index-f2-v1-a1.m3u8?v=1766826492"
           ]
         },
         {
-          "url": "https://animeshd.cloud/#kjovtj",
-          "type": "animeshd",
+          "url": "https://animes.strp2p.com/hls/L1CLduURO77p1dotW23n3g/c5u/ojqwdds3/sjwl9y/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/L1CLduURO77p1dotW23n3g/c5u/ojqwdds3/sjwl9y/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/L1CLduURO77p1dotW23n3g/c5u/ojqwdds3/sjwl9y/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.youtube.com/embed/hebqhXBM5p0?autoplay=&autohide=1",
+          "type": "embed",
+          "label": "Watch trailer",
           "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:38:20.620Z"
+    "createdAt": "2026-04-22T20:55:59.588Z"
   },
   {
     "id": "jujutsu-kaisen-hidden-inventory-premature-death-the-movie",
-    "title": "Home\nAnimes\nJUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
+    "title": "JUJUTSU KAISEN: Hidden Inventory / Premature Death – The Movie",
     "slug": "jujutsu-kaisen-hidden-inventory-premature-death-the-movie",
     "cover": "https://animeq.net/wp-content/uploads/2026/01/tEYdXbQa7v7hchC2ZYkBbyKeCfL-213x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/w8j0HVX7xasNVGAva2T3W4ncoN4.jpg",
@@ -2094,35 +2310,46 @@
       "劇場版総集編 呪術廻戦 懐玉・玉折"
     ],
     "video": {
-      "main": "https://aniplay.online/Midias/Animes/Letra-J/JUJUTSU-KAISEN-Hidden-Inventory-The-Movie/01.mp4",
+      "main": "https://animeshd.cloud/hls/neUQr-UJpMBx-LpHts2YrA/js/xieomesg/ido5sv/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://aniplay.online/Midias/Animes/Letra-J/JUJUTSU-KAISEN-Hidden-Inventory-The-Movie/01.mp4",
-          "type": "mp4",
-          "label": "FullHD / HLS",
-          "method": "iframe_src"
-        },
-        {
-          "url": "https://animeshd.cloud/#bi1ndt",
-          "type": "animeshd",
+          "url": "https://animeshd.cloud/hls/neUQr-UJpMBx-LpHts2YrA/js/xieomesg/ido5sv/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/neUQr-UJpMBx-LpHts2YrA/js/xieomesg/ido5sv/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/neUQr-UJpMBx-LpHts2YrA/js/xieomesg/ido5sv/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/neUQr-UJpMBx-LpHts2YrA/js/xieomesg/ido5sv/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
         },
         {
           "url": "https://www.youtube.com/embed/PosuNLDgfL0?autoplay=&autohide=1",
           "type": "embed",
           "label": "Watch trailer",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#qped53",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
+          "url": "https://animeq.net/filme/jujutsu-kaisen-hidden-inventory-premature-death-the-movie/",
+          "type": "embed",
+          "label": "Mobile / Celular",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:39:43.532Z"
+    "createdAt": "2026-04-22T20:58:14.977Z"
   },
   {
     "id": "junk-boy",
-    "title": "Home\nAnimes\nJunk Boy",
+    "title": "Junk Boy",
     "slug": "junk-boy",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/jxF3fw11G2u3BWyhtst4f3mTJgq-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/zBM1bBdRvmJJ60mx38NOFFk7uyI.jpg",
@@ -2160,18 +2387,90 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#vdzrn",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:04:18.052Z"
+    "createdAt": "2026-04-22T21:15:12.914Z"
   },
   {
     "id": "kaiju-no-8-missao-de-reconhecimento-dublado",
-    "title": "Home\nAnimes\nKaiju No. 8: Missão de Reconhecimento Dublado",
+    "title": "Kaiju No. 8: Missão de Reconhecimento Dublado",
     "slug": "kaiju-no-8-missao-de-reconhecimento-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/07/5xFbaAZIprcOD1iBP7vlQ08OM7c-212x300.jpg",
+    "banner": "https://image.tmdb.org/t/p/w300/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
+    "banners": [
+      "https://image.tmdb.org/t/p/w300/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
+      "https://image.tmdb.org/t/p/w300/yn16m5rlqE0ZAP5WSk6gvsM0zBM.jpg",
+      "https://image.tmdb.org/t/p/w300/przVQufVKPMUDKr0OHiSnDq6Pz5.jpg",
+      "https://image.tmdb.org/t/p/w300/knq36LLGeLhGXhJtuR2Bn9UWL9S.jpg",
+      "https://image.tmdb.org/t/p/w300/uS7vR5ZLM8JX9hOYYjoeTnHR9DL.jpg"
+    ],
+    "genres": [
+      "Ação",
+      "Animação",
+      "Ficção científica"
+    ],
+    "synopsis": "O filme Kaiju No. 8: Missão de Reconhecimento apresenta uma recapitulação da primeira temporada, seguido por um episódio especial original intitulado A Folga de Hoshina.",
+    "year": "2025",
+    "altTitle": "Kaiju No. 8: Missão de Reconhecimento, Kaiju No.8 Compilation Movie, Kaijuu 8-gou Movie, アニメ『怪獣８号』第１期総集編／同時上映「保科の休日」",
+    "rating": "5",
+    "wpTags": [
+      "Kaiju No. 8: Mission Recon",
+      "Kaiju No. Eight Season 1 Compilation / Hoshina's Day Off",
+      "Kaiju No.8 Compilation Movie",
+      "Kaijuu 8-gou Movie"
+    ],
+    "video": {
+      "main": "https://eos.feralhosting.com/inazu/Letra-K/Kaijuu 8-gou 2nd Season/movie/Dub.mp4",
+      "players": [
+        {
+          "url": "https://eos.feralhosting.com/inazu/Letra-K/Kaijuu 8-gou 2nd Season/movie/Dub.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/LWaO5mftKu0I-ZYVtTc4rw/k5/v1feadnj/ldfvni/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/LWaO5mftKu0I-ZYVtTc4rw/k5/v1feadnj/ldfvni/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/LWaO5mftKu0I-ZYVtTc4rw/k5/v1feadnj/ldfvni/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/LWaO5mftKu0I-ZYVtTc4rw/k5/v1feadnj/ldfvni/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/#eyvi1",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
+          "url": "https://animes.rpmplay.me/#3e1dw",
+          "type": "embed",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "type": "movie",
+    "releaseDate": "",
+    "createdAt": "2026-04-22T21:45:47.003Z"
+  },
+  {
+    "id": "kaiju-no-8-missao-de-reconhecimento",
+    "title": "Kaiju No. 8: Missão de Reconhecimento",
+    "slug": "kaiju-no-8-missao-de-reconhecimento",
+    "cover": "https://animeq.net/wp-content/uploads/2025/07/7rqntwn4D6TIrw8TOcxAG6IMKsI-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
     "banners": [
       "https://image.tmdb.org/t/p/w300/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
@@ -2196,61 +2495,6 @@
       "Kaijuu 8-gou Movie"
     ],
     "video": {
-      "main": "https://eos.feralhosting.com/inazu/Letra-K/Kaijuu 8-gou 2nd Season/movie/Dub.mp4",
-      "players": [
-        {
-          "url": "https://eos.feralhosting.com/inazu/Letra-K/Kaijuu 8-gou 2nd Season/movie/Dub.mp4",
-          "type": "mp4",
-          "label": "FullHD / HLS",
-          "method": "iframe_src"
-        },
-        {
-          "url": "https://animeshd.cloud/#twgzen",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        },
-        {
-          "url": "https://animes.rpmplay.me/#3e1dw",
-          "type": "embed",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "type": "movie",
-    "releaseDate": "",
-    "createdAt": "2026-04-20T17:46:59.967Z"
-  },
-  {
-    "id": "kaiju-no-8-missao-de-reconhecimento",
-    "title": "Home\nAnimes\nKaiju No. 8: Missão de Reconhecimento",
-    "slug": "kaiju-no-8-missao-de-reconhecimento",
-    "cover": "https://animeq.net/wp-content/uploads/2025/07/7rqntwn4D6TIrw8TOcxAG6IMKsI-200x300.jpg",
-    "banner": "https://image.tmdb.org/t/p/w300/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
-    "banners": [
-      "https://image.tmdb.org/t/p/w300/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
-      "https://image.tmdb.org/t/p/w300/yn16m5rlqE0ZAP5WSk6gvsM0zBM.jpg",
-      "https://image.tmdb.org/t/p/w300/przVQufVKPMUDKr0OHiSnDq6Pz5.jpg",
-      "https://image.tmdb.org/t/p/w300/knq36LLGeLhGXhJtuR2Bn9UWL9S.jpg",
-      "https://image.tmdb.org/t/p/w300/uS7vR5ZLM8JX9hOYYjoeTnHR9DL.jpg"
-    ],
-    "genres": [
-      "Ação",
-      "Animação",
-      "Ficção científica"
-    ],
-    "synopsis": "O filme Kaiju No. 8: Missão de Reconhecimento apresenta uma recapitulação da primeira temporada, seguido por um episódio especial original intitulado A Folga de Hoshina.",
-    "year": "2025",
-    "altTitle": "Kaiju No. 8: Missão de Reconhecimento, Kaiju No.8 Compilation Movie, Kaijuu 8-gou Movie, アニメ『怪獣８号』第１期総集編／同時上映「保科の休日」",
-    "rating": "6",
-    "wpTags": [
-      "Kaiju No. 8: Mission Recon",
-      "Kaiju No. Eight Season 1 Compilation / Hoshina's Day Off",
-      "Kaiju No.8 Compilation Movie",
-      "Kaijuu 8-gou Movie"
-    ],
-    "video": {
       "main": "https://eos.feralhosting.com/inazu/Letra-K/Kaijuu 8-gou 2nd Season/movie/Leg.mp4",
       "players": [
         {
@@ -2266,6 +2510,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animes.strp2p.com/#8oiif",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.rpmplay.me/#q9et5",
           "type": "embed",
           "label": "FHD",
@@ -2275,11 +2525,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:53:35.923Z"
+    "createdAt": "2026-04-22T21:46:41.671Z"
   },
   {
     "id": "kono-sekai-no-katasumi-ni",
-    "title": "Home\nAnimes\nKono Sekai no Katasumi ni",
+    "title": "Kono Sekai no Katasumi ni",
     "slug": "kono-sekai-no-katasumi-ni",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/kDzDqsZqwko3uSr0xU9yBhl1BW5-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/bh5jnK2SeUw7iTbg9QHIi24S01Q.jpg",
@@ -2305,7 +2555,7 @@
     "synopsis": "O filme apresenta a história de Suzu, uma garota de 18 anos que se muda para Kure, uma cidade militar próxima de Hiroshima. No dia 6 de agosto de 1945, os Estados Unidos aniquilam Hiroshima. Como sede de uma importante base da marinha, Kure enfrenta seus próprios demônios: bombardeios incendiários e voleios de artilharia. Em meio a tantas situações conflitantes, Suzu precisa reunir forças para viver longe de sua família e aprender a conviver com a família de seu noivo.",
     "year": "2016",
     "altTitle": "Neste Canto do Mundo, この世界の片隅に",
-    "rating": "7",
+    "rating": "8",
     "wpTags": [
       "anime drama",
       "anime guerra",
@@ -2337,11 +2587,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:48:48.742Z"
+    "createdAt": "2026-04-22T21:08:37.076Z"
   },
   {
     "id": "look-back-dublado",
-    "title": "Home\nAnimes\nLook Back Dublado",
+    "title": "Look Back Dublado",
     "slug": "look-back-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2024/12/uawgC9JOtbBGXwWygb3lon8SaEL-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/2okfik8YwzSfdETpT5cUClSiGFO.jpg",
@@ -2362,7 +2612,7 @@
       "Drama",
       "Filme Dublado"
     ],
-    "synopsis": "",
+    "synopsis": "Um dia, sua professora pede para ela entregar um de seus espaços de mangá no jornal da escola para uma aluna vadia chamada Kyomoto. Quando o mangá de Kyomoto aparece ao lado do de Fujino, ele recebe muitos elogios por sua arte detalhada, deixando Fujino furiosamente com ciúmes. Com o passar do tempo, porém, seu objetivo de ofuscar Kyomoto parece ficar cada vez mais distante, e Fujino, agora na sexta série, eventualmente desiste e para de fazer mangás. Por acaso, os dois acabam ficando cara a cara, e seu encontro inesperado acabará tendo consequências muito além do que qualquer um deles poderia prever.",
     "year": "2024",
     "altTitle": "",
     "rating": "10",
@@ -2390,11 +2640,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:20:21.777Z"
+    "createdAt": "2026-04-22T21:35:57.630Z"
   },
   {
     "id": "look-back",
-    "title": "Home\nAnimes\nLook Back",
+    "title": "Look Back",
     "slug": "look-back",
     "cover": "https://image.tmdb.org/t/p/w185/uawgC9JOtbBGXwWygb3lon8SaEL.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/2okfik8YwzSfdETpT5cUClSiGFO.jpg",
@@ -2415,7 +2665,7 @@
       "Drama",
       "Filme Legendado"
     ],
-    "synopsis": "",
+    "synopsis": "Esta é a história de Fujino e Kyomoto. Enquanto uma tem confiança absoluta em seu talento, a outra é uma reclusa que nunca sai de casa. Mas o amor e a dedicação que ambas possuem por desenhar mangá acaba unindo essas duas jovens de uma pequena cidade do interior. Um fantástico conto sobre a juventude feito a partir de um olhar único e especial.",
     "year": "2024",
     "altTitle": "",
     "rating": "10",
@@ -2438,6 +2688,12 @@
           "method": "iframe_src"
         },
         {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dxencAs7U1v6d-ZFv4KKENXGkWHfGgyFO9sPT2dbkB3GRmWzOxf0bNikRpKr5Fi17Vg0DrZmd6tyHARO0-HgEABCMJMyBpE0TCg4Vqvg-3y_qBHV1p4QpqxPDUkltTMtawYZKg",
+          "type": "blogger",
+          "label": "SD / HD",
+          "method": "embed"
+        },
+        {
           "url": "https://animeshd.cloud/#6uvyl",
           "type": "animeshd",
           "label": "FHD",
@@ -2447,11 +2703,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:20:55.664Z"
+    "createdAt": "2026-04-22T21:36:39.471Z"
   },
   {
     "id": "lupin-iii-vs-cats-eye",
-    "title": "Home\nAnimes\nLupin III vs. Cat’s Eye",
+    "title": "Lupin III vs. Cat’s Eye",
     "slug": "lupin-iii-vs-cats-eye",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/orxglUUdagY4HNUrS4Zvrcdk7u5-210x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/tCfkGWgvCNLbazhduNqkd0ZnoIt.jpg",
@@ -2472,7 +2728,7 @@
     "synopsis": "Hitomi, Rui e Ai são irmãs e ladras. Elas roubam um quadro de um museu ao mesmo tempo em que Lupin III aparece para roubar outro quadro. Os dois quadros fazem parte da série de Michael Heinz chamada “A Garota e as Flores”. Para as irmãs, os quadros são pistas para o paradeiro do pai desaparecido. Quando elas descobrem que o ladrão lendário está atrás do mesmo alvo, um fogo se acende dentro delas.",
     "year": "2023",
     "altTitle": "LUPIN III vs. CAT’S EYE, ルパン三世VSキャッツ・アイ",
-    "rating": "7",
+    "rating": "5",
     "wpTags": [
       "Lupin III vs. Cat's Eye",
       "Lupin III vs. Cat's Eye Completo",
@@ -2499,11 +2755,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:46:22.245Z"
+    "createdAt": "2026-04-22T21:06:34.218Z"
   },
   {
     "id": "mai-mai-shinko-to-sennen-no-mahou",
-    "title": "Home\nAnimes\nMai Mai Shinko to Sennen no Mahou",
+    "title": "Mai Mai Shinko to Sennen no Mahou",
     "slug": "mai-mai-shinko-to-sennen-no-mahou",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/gs8B8PJtyLDqBWwEKnAUzK6xPzj-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/v1v5I41QF00EKzGE5GElegIdadj.jpg",
@@ -2545,16 +2801,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#ujuzw",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:01:19.157Z"
+    "createdAt": "2026-04-22T21:10:22.131Z"
   },
   {
     "id": "milky-passion-dougenzaka-ai-no-shiro",
-    "title": "Home\nAnimes\nMilky Passion: Dougenzaka – Ai no Shiro",
+    "title": "Milky Passion: Dougenzaka – Ai no Shiro",
     "slug": "milky-passion-dougenzaka-ai-no-shiro",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/sNekPtVmzJmKOfYeUxirbEopjXe-200x300.jpg",
     "banner": "",
@@ -2566,7 +2828,7 @@
     "synopsis": "Uma atraente dona de um motel se apaixona por seu belo gerente.",
     "year": "1990",
     "altTitle": "ミルキィ パッション 道玄坂・愛の城, ミルキィ パッション 道玄坂・愛の城",
-    "rating": "5",
+    "rating": "8",
     "wpTags": [
       "ai no shiro",
       "anime adulto",
@@ -2598,11 +2860,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:48:56.992Z"
+    "createdAt": "2026-04-22T21:08:44.644Z"
   },
   {
     "id": "mirai-no-mirai-dublado",
-    "title": "Home\nAnimes\nMirai no Mirai Dublado",
+    "title": "Mirai no Mirai Dublado",
     "slug": "mirai-no-mirai-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2026/03/dQCLCxFpRVEYlwdD1kVhoy5zgZ1-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/53H7JtbElETTstolwTnTDxcG5So.jpg",
@@ -2628,7 +2890,7 @@
     "synopsis": "Kun é um menino com uma infância feliz até a chegada de Mirai, sua irmãzinha. Com ciúmes desse bebê que monopoliza a atenção dos pais, ele vai se retraindo pouco a pouco. No fundo do seu jardim, o menino embarca em um mundo fantástico, onde o passado e o futuro se misturam. Lá, ele conhece seus parentes em diferentes idades da vida: sua mãe ainda criança, seu bisavô na juventude e sua pequena irmã na adolescência. Através dessas aventuras, Kun vai descobrir sua própria história.",
     "year": "2018",
     "altTitle": "Mirai, 未来のミライ",
-    "rating": "8",
+    "rating": "7",
     "wpTags": [
       "assistir mirai no mirai",
       "mirai 2018",
@@ -2655,16 +2917,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#afud3y",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:32:57.788Z"
+    "createdAt": "2026-04-22T20:49:36.821Z"
   },
   {
     "id": "mirai-no-mirai",
-    "title": "Home\nAnimes\nMirai no Mirai",
+    "title": "Mirai no Mirai",
     "slug": "mirai-no-mirai",
     "cover": "https://animeq.net/wp-content/uploads/2026/03/koz5dqWUfXnapmwgko6o8caZn4b-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/53H7JtbElETTstolwTnTDxcG5So.jpg",
@@ -2690,7 +2958,7 @@
     "synopsis": "Kun é um menino com uma infância feliz até a chegada de Mirai, sua irmãzinha. Com ciúmes desse bebê que monopoliza a atenção dos pais, ele vai se retraindo pouco a pouco. No fundo do seu jardim, o menino embarca em um mundo fantástico, onde o passado e o futuro se misturam. Lá, ele conhece seus parentes em diferentes idades da vida: sua mãe ainda criança, seu bisavô na juventude e sua pequena irmã na adolescência. Através dessas aventuras, Kun vai descobrir sua própria história.",
     "year": "2018",
     "altTitle": "Mirai, 未来のミライ",
-    "rating": "8",
+    "rating": "7",
     "wpTags": [
       "assistir mirai no mirai",
       "mirai 2018",
@@ -2717,16 +2985,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#qpgvzp",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:33:23.202Z"
+    "createdAt": "2026-04-22T20:50:21.979Z"
   },
   {
     "id": "nana-to-kaoru",
-    "title": "Home\nAnimes\nNana to Kaoru",
+    "title": "Nana to Kaoru",
     "slug": "nana-to-kaoru",
     "cover": "https://image.tmdb.org/t/p/w185/s0a4ORz8Si3YVO0ULygLLJKcaM2.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/u7rRtrJqngEFmptLsXQayC2cP4r.jpg",
@@ -2740,7 +3014,7 @@
       "Filme Legendado",
       "Legendado"
     ],
-    "synopsis": "",
+    "synopsis": "Nana and Kaoru. Kaoru, um jovem de 17 anos, tem um fetiche. Ele sempre sonhou em se relacionar com sua amiga de infância, Nana, considerada perfeita e alvo constante dos olhares dos garotos. Com o tempo, o relacionamento deles se deteriorou. Ambos começaram a sair com outras pessoas, e Kaoru não tem levado os estudos a sério.",
     "year": "2011",
     "altTitle": "",
     "rating": "10",
@@ -2766,11 +3040,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:21:20.938Z"
+    "createdAt": "2026-04-22T21:37:22.354Z"
   },
   {
     "id": "natsu-e-no-tunnel-sayonara-no-deguchi",
-    "title": "Home\nAnimes\nNatsu e no Tunnel, Sayonara no Deguchi",
+    "title": "Natsu e no Tunnel, Sayonara no Deguchi",
     "slug": "natsu-e-no-tunnel-sayonara-no-deguchi",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/psu1NvHQ4Ggwmy0arCiQc394Vqe-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/8I9nnpZNjjP9J2ZPpg3DP94mX2U.jpg",
@@ -2817,16 +3091,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#a1a33",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:00:52.886Z"
+    "createdAt": "2026-04-22T21:56:31.019Z"
   },
   {
     "id": "ne-zha-2-o-renascer-da-alma",
-    "title": "Home\nAnimes\nNe Zha 2: O Renascer da Alma",
+    "title": "Ne Zha 2: O Renascer da Alma",
     "slug": "ne-zha-2-o-renascer-da-alma",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/bTMf8M7rZ21fChGdtsZtJj4Dfqh-214x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/c9xmB53umjnrCMS4pZz11clF3yJ.jpg",
@@ -2851,7 +3131,7 @@
     "synopsis": "Após uma grande catástrofe, as almas de Ne Zha e Ao Bing são salvas, mas seus corpos enfrentam a ruína. Para lhes dar uma nova vida, Taiyi Zhenren recorre à mística lótus de sete cores em uma ousada tentativa de reconstruí-los e mudar seus destinos.",
     "year": "2025",
     "altTitle": "Ne Zha 2: O Renascer da Alma, Nezha 2, Nezha: The demon child churns the sea, 哪吒之魔童闹海",
-    "rating": "5",
+    "rating": "9",
     "wpTags": [
       "Ne Zha 2: O Renascer da Alma",
       "Nezha 2",
@@ -2871,11 +3151,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:51:20.904Z"
+    "createdAt": "2026-04-22T21:43:39.312Z"
   },
   {
     "id": "ne-zha",
-    "title": "Home\nAnimes\nNe Zha",
+    "title": "Ne Zha",
     "slug": "ne-zha",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/ztWc4QvzEatqhGnQT98FsICc8rD-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/wYbOd1YdpDonQUHwRCTCY2grSq4.jpg",
@@ -2918,11 +3198,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:51:42.972Z"
+    "createdAt": "2026-04-22T21:44:04.362Z"
   },
   {
     "id": "nichijou-nichijou-no-0-wa",
-    "title": "Home\nAnimes\nNichijou: Nichijou no 0-wa",
+    "title": "Nichijou: Nichijou no 0-wa",
     "slug": "nichijou-nichijou-no-0-wa",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/roHRDbnwvKTwJ2cyToM3moWg9mQ-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/7gzFoYs1N97cD53E7jPAer9UNlg.jpg",
@@ -2940,7 +3220,7 @@
     "synopsis": "Embora o título sugira uma história simples e cotidiana da vida escolar, o conteúdo é mais o oposto. O cenário é uma escola estranha, onde você pode ver o diretor lutando contra um veado ou o braço de um robô escondendo um bolo. No entanto, ainda há histórias comuns, como construir um castelo de cartas ou fazer uma prova para a qual você não estudou.",
     "year": "2011",
     "altTitle": "Nichijou – My Ordinary Life Episode 0, Nichijou Episode 0, Nichijou OVA, Everyday, 日常の０話",
-    "rating": "6",
+    "rating": "5",
     "wpTags": [
       "comédia anime",
       "nichijou 0-wa",
@@ -2968,11 +3248,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:49:05.267Z"
+    "createdAt": "2026-04-22T21:08:51.107Z"
   },
   {
     "id": "non-non-biyori-movie-vacation",
-    "title": "Home\nAnimes\nNon Non Biyori Movie: Vacation",
+    "title": "Non Non Biyori Movie: Vacation",
     "slug": "non-non-biyori-movie-vacation",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/4FYByiEtOy1NGzJPTrzWFUO6Q7a-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/xv9mCcrT3GAvk4IhbdaXxv4ylqt.jpg",
@@ -2993,7 +3273,7 @@
     "synopsis": "As férias de verão estão chegando ao fim. Suguru ganha uma viagem gratuita para Okinawa, e todos os cinco alunos da escola secundária Asahigaoka estão animados para terminar suas férias se divertindo. Junto com Hikage, Konomi sua professora e a dona da loja de doces, todos vão para Okinawa ter uma divertida viagem de três dias. Chegando lá, Natsumi faz amizade com Aoi, a garota que ajuda no hotel que elas ficam.",
     "year": "2018",
     "altTitle": "Non Non Biyori: Férias, 劇場版 のんのんびより ばけーしょん",
-    "rating": "7",
+    "rating": "6",
     "wpTags": [
       "amizade",
       "anime relaxante",
@@ -3025,11 +3305,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:48:33.710Z"
+    "createdAt": "2026-04-22T21:08:21.736Z"
   },
   {
     "id": "nozoki-ana",
-    "title": "Home\nAnimes\nNozoki Ana",
+    "title": "Nozoki Ana",
     "slug": "nozoki-ana",
     "cover": "https://image.tmdb.org/t/p/original/v9WL2RuB1ddkUd8EV01MLryO4nL.jpg",
     "banner": "https://image.tmdb.org/t/p/original/v9WL2RuB1ddkUd8EV01MLryO4nL.jpg",
@@ -3041,7 +3321,7 @@
       "Filme Legendado",
       "Romance"
     ],
-    "synopsis": "",
+    "synopsis": "Kido Tatsuhiko se muda para Tóquio para estudar em uma escola de arte e começar uma nova vida. Em seu novo quarto, há um pequeno buraco na parede. No começo, ele não podia ver nada através do pequeno buraco, mas em uma noite, vendo luzes pelo buraco, ele viu uma menina. e assim começa sua vida nova.",
     "year": "2013",
     "altTitle": "",
     "rating": "8.6",
@@ -3049,7 +3329,8 @@
       "Assistir Nozoki Ana",
       "Nozoki Ana",
       "Nozoki Ana Completo",
-      "Nozoki Ana Online"
+      "Nozoki Ana Online",
+      "No Zo Ki A Na"
     ],
     "video": {
       "main": "https://animeflix.blog/Animes/Letra-N/Nozoki Ana/01.mp4",
@@ -3064,11 +3345,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:21:27.077Z"
+    "createdAt": "2026-04-22T21:37:28.875Z"
   },
   {
     "id": "o-reino-dos-gatos-dublado",
-    "title": "Home\nAnimes\nO Reino dos Gatos Dublado",
+    "title": "O Reino dos Gatos Dublado",
     "slug": "o-reino-dos-gatos-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/03/zCmU60poVbBhPdzIipgHNEDJuly-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/zUCpWrWU2kLZd0f8gPG2vma0AiM.jpg",
@@ -3095,7 +3376,7 @@
     "synopsis": "Essa é a história de Haru, uma garota muito preguiçosa que sempre chega atrasada na escola. Em um belo dia, enquanto volta para casa, ela salva um misterioso gato de um atropelamento. Na mesma noite, o Rei dos Gatos a visita e a convida para conhecer seu reino. Nesse lugar mágico e encantador, os bichos falam e agem como gente.",
     "year": "2002",
     "altTitle": "Neko no Ongaeshi, O Reino dos Gatos, 猫の恩返し",
-    "rating": "8",
+    "rating": "6",
     "wpTags": [
       "Assistir O Reino dos Gatos Dublado",
       "Filme O Reino dos Gatos Dublado",
@@ -3116,16 +3397,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#5fb6p",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:05:35.305Z"
+    "createdAt": "2026-04-22T21:17:23.075Z"
   },
   {
     "id": "o-tumulo-dos-vagalumes-dublado",
-    "title": "Home\nAnimes\nO Túmulo dos Vagalumes Dublado",
+    "title": "O Túmulo dos Vagalumes Dublado",
     "slug": "o-tumulo-dos-vagalumes-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/03/kHFUyxNJfhMkKk1FwrNHd62KTEs-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/tDFvXn4tane9lUvFAFAUkMylwSr.jpg",
@@ -3171,16 +3458,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#1drzx",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:06:00.918Z"
+    "createdAt": "2026-04-22T21:18:07.063Z"
   },
   {
     "id": "one-piece-3d2y",
-    "title": "Home\nAnimes\nOne Piece 3D2Y",
+    "title": "One Piece 3D2Y",
     "slug": "one-piece-3d2y",
     "cover": "https://animeq.net/wp-content/uploads/2026/02/8nYx5d5svGibvuPQfV4GVy8IhmS-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/77r5EvZ78Z7CHOHqaaKG1SPqocf.jpg",
@@ -3205,7 +3498,7 @@
     "synopsis": "Depois de sua grande perda durante a Guerra dos Maiorais de Marineford, Luffy tem feridas que, muito além do físico, doem em seu coração. Mas ele terá que deixar esse sofrimento de lado quando um novo inimigo aparecer e colocar suas aliadas de Amazon Lily em risco!",
     "year": "2014",
     "altTitle": "One Piece 3D2Y, ONE PIECE “3D2Y” エースの死を越えて! ルフィ仲間との誓い",
-    "rating": "8",
+    "rating": "6",
     "wpTags": [
       "assistir One Piece",
       "One Piece",
@@ -3213,29 +3506,54 @@
       "One Piece 3D2Y"
     ],
     "video": {
-      "main": "https://cdn1.rpmplay.online/#96araz",
+      "main": "https://aniplay.online/Midias/Animes/Letra-O/One-Piece-Filme/One-Piece-3D2Y-Dub.mp4",
       "players": [
         {
-          "url": "https://cdn1.rpmplay.online/#96araz",
-          "type": "embed",
+          "url": "https://aniplay.online/Midias/Animes/Letra-O/One-Piece-Filme/One-Piece-3D2Y-Dub.mp4",
+          "type": "mp4",
           "label": "FHD",
-          "method": "embed"
+          "method": "iframe_src"
         },
         {
-          "url": "https://animes.strp2p.com/#pnczub",
-          "type": "strp2p",
+          "url": "https://cdn1.rpmplay.online/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://cdn1.rpmplay.online/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/master.m3u8?v=1766826492",
+            "https://cdn1.rpmplay.online/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/plJgItavwM_gsEE2d2W71Q/urp/ipljeu8g/ovvaho/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://203.188.166.87/v4/Eif8Q7Ck4cEt7HeDx6t9BA/1776901212/urp/ntwhhu/master.m3u8?v=1771345182",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://203.188.166.87/v4/Eif8Q7Ck4cEt7HeDx6t9BA/1776901212/urp/ntwhhu/master.m3u8?v=1771345182",
+            "https://203.188.166.87/v4/Eif8Q7Ck4cEt7HeDx6t9BA/1776901212/urp/ntwhhu/index-f1-v1-a1.m3u8",
+            "https://203.188.166.87/v4/Eif8Q7Ck4cEt7HeDx6t9BA/1776901212/urp/ntwhhu/init-f1-v1-a1.mp4"
+          ]
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:35:11.818Z"
+    "createdAt": "2026-04-22T20:52:56.909Z"
   },
   {
     "id": "os-cavaleiros-do-zodiaco-a-grande-batalha-dos-deuses",
-    "title": "Home\nAnimes\nOs Cavaleiros do Zodíaco: A Grande Batalha dos Deuses",
+    "title": "Os Cavaleiros do Zodíaco: A Grande Batalha dos Deuses",
     "slug": "os-cavaleiros-do-zodiaco-a-grande-batalha-dos-deuses",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/sspzm0g4CAPntl0B0kiAJJwQ1O4-211x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/o1G9i9BzY598fE5RNmSWXCz24d4.jpg",
@@ -3254,7 +3572,7 @@
     "synopsis": "O filme começa com Hyoga salvando um soldado de Odin, mas o soldado morre e diz que a batalha dos deuses está prestes a começar. O Cavaleiro de Cisne desaparece, e, então, os outros Cavaleiros de Bronze partem para Asgard para tentar descobrir o seu paradeiro. No entanto, Durval, representante de Odin, sequestra Saori Kido. Assim, a batalha contra os Guerreiros de Asgard tem início.",
     "year": "1988",
     "altTitle": "Os Cavaleiros do Zodíaco: A Grande Batalha dos Deuses, 聖闘士星矢 神々の熱き戦い",
-    "rating": "5",
+    "rating": "8",
     "wpTags": [
       "Os Cavaleiros do Zodíaco: A Grande Batalha dos Deuses",
       "Saint Seiya: Kamigami no Atsuki Tatakai",
@@ -3262,8 +3580,18 @@
       "Saint Seiya: The Heated Battle of the Gods"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra%20S/Saint%20Seiya/Movie%2002/Dub.php",
+      "main": "https://animeshd.cloud/hls/-w_VE1i4P-quW4jWEjwLcA/sc/6spni569/n85lx6/tt/master.m3u8?v=1766826492",
       "players": [
+        {
+          "url": "https://animeshd.cloud/hls/-w_VE1i4P-quW4jWEjwLcA/sc/6spni569/n85lx6/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/-w_VE1i4P-quW4jWEjwLcA/sc/6spni569/n85lx6/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/-w_VE1i4P-quW4jWEjwLcA/sc/6spni569/n85lx6/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra%20S/Saint%20Seiya/Movie%2002/Dub.php",
           "type": "embed",
@@ -3280,11 +3608,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:14:53.129Z"
+    "createdAt": "2026-04-22T21:30:36.481Z"
   },
   {
     "id": "os-cavaleiros-do-zodiaco-a-lenda-dos-defensores-de-atena",
-    "title": "Home\nAnimes\nOs Cavaleiros do Zodíaco: A Lenda dos Defensores de Atena",
+    "title": "Os Cavaleiros do Zodíaco: A Lenda dos Defensores de Atena",
     "slug": "os-cavaleiros-do-zodiaco-a-lenda-dos-defensores-de-atena",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/724kXHDFaSJw1WdYX2qi5XkYMLb-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/l4oOfCiMqIaaL0Vyx8dnu4FENra.jpg",
@@ -3317,17 +3645,31 @@
       "Saint Seiya: Shinku no Shonen Densetsu"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra%20S/Saint%20Seiya/Movie%2003/Dub.php",
+      "main": "https://animeshd.cloud/hls/Vy933GfED_A4tlz7M0puJg/sc/puo3likr/vzxirk/tt/master.m3u8?v=1766826492",
       "players": [
+        {
+          "url": "https://animeshd.cloud/hls/Vy933GfED_A4tlz7M0puJg/sc/puo3likr/vzxirk/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/Vy933GfED_A4tlz7M0puJg/sc/puo3likr/vzxirk/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/Vy933GfED_A4tlz7M0puJg/sc/puo3likr/vzxirk/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/Vy933GfED_A4tlz7M0puJg/sc/puo3likr/vzxirk/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/Vy933GfED_A4tlz7M0puJg/sc/puo3likr/vzxirk/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/Vy933GfED_A4tlz7M0puJg/sc/puo3likr/vzxirk/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra%20S/Saint%20Seiya/Movie%2003/Dub.php",
           "type": "embed",
-          "label": "FHD",
-          "method": "embed"
-        },
-        {
-          "url": "https://animes.strp2p.com/#jvdc5",
-          "type": "strp2p",
           "label": "FHD",
           "method": "embed"
         }
@@ -3335,11 +3677,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:13:05.030Z"
+    "createdAt": "2026-04-22T21:28:44.725Z"
   },
   {
     "id": "os-cavaleiros-do-zodiaco-o-santo-guerreiro",
-    "title": "Home\nAnimes\nOs Cavaleiros do Zodíaco: O Santo Guerreiro",
+    "title": "Os Cavaleiros do Zodíaco: O Santo Guerreiro",
     "slug": "os-cavaleiros-do-zodiaco-o-santo-guerreiro",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/nziTxFxx0l2hO7ZddZo903kVVU0-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/q4k9UDHE5foTcs48zpqJbpLUDNU.jpg",
@@ -3362,7 +3704,7 @@
     "synopsis": "A deusa Éris encarna na jovem Eiri e sequestra Saori, com o objetivo de roubar seus poderes usando o pomo dourado. Os Cavaleiros de Bronze vão até o santuário de Éris para resgatar a Saori, precisando enfrentar um grupo de cavaleiros traidores que agora são fantasmas a mando de Éris.",
     "year": "1987",
     "altTitle": "Os Cavaleiros do Zodíaco: O Santo Guerreiro, 聖闘士星矢",
-    "rating": "6",
+    "rating": "7",
     "wpTags": [
       "Os Cavaleiros do Zodíaco: O Santo Guerreiro",
       "Saint Seiya: Movie 1",
@@ -3379,6 +3721,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animeshd.cloud/#t3j3b",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.strp2p.com/#bg36p",
           "type": "strp2p",
           "label": "FHD",
@@ -3388,11 +3736,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:15:33.264Z"
+    "createdAt": "2026-04-22T22:21:20.367Z"
   },
   {
     "id": "os-cavaleiros-do-zodiaco-os-guerreiros-do-armageddon",
-    "title": "Home\nAnimes\nOs Cavaleiros do Zodíaco: Os Guerreiros do Armageddon",
+    "title": "Os Cavaleiros do Zodíaco: Os Guerreiros do Armageddon",
     "slug": "os-cavaleiros-do-zodiaco-os-guerreiros-do-armageddon",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/cXCWqtb7oRtkQfpxjdPS4G2c3RR-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/1FdYcvnpyk8vxBbw583ZzwVQ5Ev.jpg",
@@ -3409,7 +3757,7 @@
     "synopsis": "Os cosmos de Poseidon, Abel e Éris, que os Cavaleiros de Bronze enviaram ao inferno, são usados para reviver Lúcifer, o demônio mais cruel. Decidido a se vingar de Atena, Lúcifer resolve destruir a Terra e enfrenta os Cavaleiros de Bronze.",
     "year": "1989",
     "altTitle": "Os Cavaleiros do Zodíaco: Os Guerreiros do Armageddon, 聖闘士星矢 最終聖戦の戦士たち",
-    "rating": "5",
+    "rating": "8",
     "wpTags": [
       "Os Cavaleiros do Zodíaco: Os Guerreiros do Armageddon",
       "Saint Seiya: Saishuu Seisen no Senshi-tachi",
@@ -3425,6 +3773,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animeshd.cloud/#33ypk",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.strp2p.com/#asekl",
           "type": "strp2p",
           "label": "FHD",
@@ -3434,11 +3788,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:11:03.113Z"
+    "createdAt": "2026-04-22T21:57:16.804Z"
   },
   {
     "id": "os-cavaleiros-do-zodiaco-prologo-do-ceu",
-    "title": "Home\nAnimes\nOs Cavaleiros do Zodíaco: Prólogo do Céu",
+    "title": "Os Cavaleiros do Zodíaco: Prólogo do Céu",
     "slug": "os-cavaleiros-do-zodiaco-prologo-do-ceu",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/kslCOlg1trlqry0XF3kCqdwh3ZP-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/3tbyb1ZZAoFl7TiufWX15hQBYTs.jpg",
@@ -3459,24 +3813,38 @@
     "synopsis": "Os defensores da deusa Atena ainda se recuperam de uma batalha contra Hades. Eles precisam enfrentar um novo inimigo: Apolo, que lidera os cavaleiros celestiais e quer tomar o controle do Santuário. Sem a ajuda dos cavaleiros de ouro, cujas almas os deuses selaram para sempre, Seiya e os outros cavaleiros de bronze devem enfrentar esse desafio sozinhos. Agora, o texto usa mais voz ativa e as frases estão mais curtas. Isso facilita a leitura e segue as recomendações de estilo.",
     "year": "2004",
     "altTitle": "Os Cavaleiros do Zodíaco: Prólogo do Céu, 聖闘士星矢 天界編 序奏 ~overture~",
-    "rating": "6",
+    "rating": "5",
     "wpTags": [
       "Os Cavaleiros do Zodíaco: Prólogo do Céu",
       "Saint Seiya: Tenkai-hen Josou - Overture",
       "Saint Seiya: The Heaven Chapter - Overture"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra%20S/Saint%20Seiya/Movie%2005/Dub.php",
+      "main": "https://animeshd.cloud/hls/hx6FWD4T5n6WyD5n-mzoIw/ic/ojqwdrsh/s9rh6t/tt/master.m3u8?v=1766826492",
       "players": [
+        {
+          "url": "https://animeshd.cloud/hls/hx6FWD4T5n6WyD5n-mzoIw/ic/ojqwdrsh/s9rh6t/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/hx6FWD4T5n6WyD5n-mzoIw/ic/ojqwdrsh/s9rh6t/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/hx6FWD4T5n6WyD5n-mzoIw/ic/ojqwdrsh/s9rh6t/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/hx6FWD4T5n6WyD5n-mzoIw/ic/ojqwdrsh/s9rh6t/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/hx6FWD4T5n6WyD5n-mzoIw/ic/ojqwdrsh/s9rh6t/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/hx6FWD4T5n6WyD5n-mzoIw/ic/ojqwdrsh/s9rh6t/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra%20S/Saint%20Seiya/Movie%2005/Dub.php",
           "type": "embed",
-          "label": "FHD",
-          "method": "embed"
-        },
-        {
-          "url": "https://animes.strp2p.com/#as6ki",
-          "type": "strp2p",
           "label": "FHD",
           "method": "embed"
         }
@@ -3484,11 +3852,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:09:42.020Z"
+    "createdAt": "2026-04-22T21:24:19.920Z"
   },
   {
     "id": "oseam",
-    "title": "Home\nAnimes\nOseam",
+    "title": "Oseam",
     "slug": "oseam",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/A7CoJyxdsne1ZQqm55MbyRgWmS3-209x300.jpg",
     "banner": "",
@@ -3501,7 +3869,7 @@
     "synopsis": "Gami e Guilson são dois irmãos solitários. Eles vagam pelo mundo à procura da mãe desaparecida, tentando encontrar um sentido para a vida. Também buscam forças para suportar um mundo que não compreende suas dores. Desde pequenos, enfrentaram uma tragédia que marcou profundamente suas infâncias. Gami tem cerca de 12 anos. É cega, mas não deixa que isso a impeça de lutar. É perseverante e gentil, especialmente com seu irmão. Guilson, o mais novo, vive cheio de energia. É um pestinha divertido, sempre metido em brincadeiras e situações embaraçosas. Certo dia, dois monges encontram os irmãos e decidem levá-los a um monastério. Lá, eles passam a viver entre meditações e ensinamentos budistas. A partir desse momento, o público acompanha não apenas a rotina dos dois, mas também reflexões profundas sobre dor, perda, saudade, mentira e separação — temas centrais na filosofia budista.",
     "year": "2003",
     "altTitle": "Oseam, 오세암",
-    "rating": "9",
+    "rating": "8",
     "wpTags": [
       "Assistir Oseam",
       "Filme Oseam",
@@ -3523,16 +3891,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#v6dkc",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:59:10.072Z"
+    "createdAt": "2026-04-22T21:53:35.906Z"
   },
   {
     "id": "overlord-movie-3-sei-oukoku-hen-dublado",
-    "title": "Home\nAnimes\nOverlord Movie 3: Sei Oukoku-hen – Dublado",
+    "title": "Overlord Movie 3: Sei Oukoku-hen – Dublado",
     "slug": "overlord-movie-3-sei-oukoku-hen-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/4bXQdhH2Cba4NSDwdTw9KYjkp7y-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
@@ -3558,8 +3932,29 @@
       "劇場版「オーバーロード」聖王国編"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra-O/Overlord/Dub.php",
+      "main": "https://www.burstcloud.co/embed/df418231dba77a1e7b5316f47db891bc2421390eed666a53dd32f08aeda70962/Overlord%20Movie%203%20Dub.mp4",
       "players": [
+        {
+          "url": "https://www.burstcloud.co/embed/df418231dba77a1e7b5316f47db891bc2421390eed666a53dd32f08aeda70962/Overlord%20Movie%203%20Dub.mp4",
+          "type": "mp4",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://www.burstcloud.co/embed/df418231dba77a1e7b5316f47db891bc2421390eed666a53dd32f08aeda70962/Overlord%20Movie%203%20Dub.mp4",
+            "https://cdn.burstcloud.co/a202604220QX08mX6js6/Overlord%20Movie%203%20Dub.mp4"
+          ]
+        },
+        {
+          "url": "https://animeshd.cloud/hls/4KCmpAQteaFrTWTPLQ7NHg/db/ghsr6mxj/j35jsb/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/4KCmpAQteaFrTWTPLQ7NHg/db/ghsr6mxj/j35jsb/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/4KCmpAQteaFrTWTPLQ7NHg/db/ghsr6mxj/j35jsb/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/4KCmpAQteaFrTWTPLQ7NHg/db/ghsr6mxj/j35jsb/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra-O/Overlord/Dub.php",
           "type": "embed",
@@ -3567,8 +3962,8 @@
           "method": "embed"
         },
         {
-          "url": "https://animeshd.cloud/#jcxmyn",
-          "type": "animeshd",
+          "url": "https://animes.strp2p.com/#jlknc",
+          "type": "strp2p",
           "label": "FHD",
           "method": "embed"
         }
@@ -3576,11 +3971,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:55:42.856Z"
+    "createdAt": "2026-04-22T21:49:09.785Z"
   },
   {
     "id": "overlord-movie-3-sei-oukoku-hen",
-    "title": "Home\nAnimes\nOverlord Movie 3: Sei Oukoku-hen",
+    "title": "Overlord Movie 3: Sei Oukoku-hen",
     "slug": "overlord-movie-3-sei-oukoku-hen",
     "cover": "https://animeq.net/wp-content/uploads/2025/01/gHtatjkKqVOfoyomrTJzqF77uK3-215x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/hkJhGayONXn96CqIRM9GhWKnlCf.jpg",
@@ -3606,29 +4001,53 @@
       "劇場版「オーバーロード」聖王国編"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra-O/Overlord/Leg.php",
+      "main": "https://www.burstcloud.co/embed/7f81db3f078fe9c19778e71ea3261ab1530d3bce547c42aeed03bb36f228e3d7/Overlord%20Movie%203%20-%20Leg.mp4",
       "players": [
+        {
+          "url": "https://www.burstcloud.co/embed/7f81db3f078fe9c19778e71ea3261ab1530d3bce547c42aeed03bb36f228e3d7/Overlord%20Movie%203%20-%20Leg.mp4",
+          "type": "mp4",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://www.burstcloud.co/embed/7f81db3f078fe9c19778e71ea3261ab1530d3bce547c42aeed03bb36f228e3d7/Overlord%20Movie%203%20-%20Leg.mp4",
+            "https://cdn.burstcloud.co/a20260422gxWMPD3ELh5/Overlord%20Movie%203%20-%20Leg.mp4"
+          ]
+        },
+        {
+          "url": "https://animeshd.cloud/hls/9ohFlSnHa7sq4TU-gHA49Q/m9/xieomus6/kde18e/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/9ohFlSnHa7sq4TU-gHA49Q/m9/xieomus6/kde18e/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/9ohFlSnHa7sq4TU-gHA49Q/m9/xieomus6/kde18e/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/9ohFlSnHa7sq4TU-gHA49Q/m9/xieomus6/kde18e/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/9ohFlSnHa7sq4TU-gHA49Q/m9/xieomus6/kde18e/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/9ohFlSnHa7sq4TU-gHA49Q/m9/xieomus6/kde18e/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra-O/Overlord/Leg.php",
           "type": "embed",
           "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#x695j8",
-          "type": "animeshd",
-          "label": "FHD",
           "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:54:59.779Z"
+    "createdAt": "2026-04-22T21:48:14.886Z"
   },
   {
     "id": "perfect-blue",
-    "title": "Home\nAnimes\nPerfect Blue",
+    "title": "Perfect Blue",
     "slug": "perfect-blue",
     "cover": "https://animeq.net/wp-content/uploads/2025/12/79vujbsWEbX4dzffBV541QXN6sf-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/1YRtgjLb5xxUb2rsNRnr54Oc0B2.jpg",
@@ -3679,14 +4098,28 @@
           "method": "iframe_src"
         },
         {
-          "url": "https://cdn10.rpmhub.site/#eaojpq",
-          "type": "embed",
+          "url": "https://animeshd.cloud/hls/NNLYEnqyHQp-_l6-oEowgg/pq/b6iuxz9q/3yrg1d/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/NNLYEnqyHQp-_l6-oEowgg/pq/b6iuxz9q/3yrg1d/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/NNLYEnqyHQp-_l6-oEowgg/pq/b6iuxz9q/3yrg1d/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
         },
         {
-          "url": "https://animes.strp2p.com/#qpii9z",
-          "type": "strp2p",
+          "url": "https://animes.strp2p.com/hls/NNLYEnqyHQp-_l6-oEowgg/pq/b6iuxz9q/3yrg1d/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/NNLYEnqyHQp-_l6-oEowgg/pq/b6iuxz9q/3yrg1d/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/NNLYEnqyHQp-_l6-oEowgg/pq/b6iuxz9q/3yrg1d/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://cdn10.rpmhub.site/#eaojpq",
+          "type": "embed",
           "label": "FHD",
           "method": "embed"
         }
@@ -3694,11 +4127,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:43:05.861Z"
+    "createdAt": "2026-04-22T21:02:48.321Z"
   },
   {
     "id": "persona-3-the-movie-1-spring-of-birth",
-    "title": "Home\nAnimes\nPersona 3 the Movie 1: Spring of Birth",
+    "title": "Persona 3 the Movie 1: Spring of Birth",
     "slug": "persona-3-the-movie-1-spring-of-birth",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/u8zo0MmjdGd431gD9WUnEhPBbL2-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/3Ub8oNJ4aBcoE6PE9tc4SvzKjLd.jpg",
@@ -3724,7 +4157,7 @@
     "synopsis": "A história de Persona 3 se passa em uma cidade japonesa moderna, construída e financiada pela Kirijo Corporation. Devido a eventos do passado, existe um fenômeno chamado “Dark Hour”. Esse período ocorre entre a meia-noite e o início do novo dia e só pode ser percebido por poucas pessoas. Durante a Dark Hour, quem não está consciente fica congelado dentro de caixões. A realidade também se distorce nesse tempo. A Gekkoukan High School, onde os personagens estudam durante o dia, transforma-se em uma enorme torre chamada “Tartarus”.",
     "year": "2013",
     "altTitle": "Persona 3 the Movie: #1 Spring of Birth, PERSONA3 THE MOVIE #1 Spring of Birth",
-    "rating": "6",
+    "rating": "7",
     "wpTags": [
       "persona 3 anime",
       "persona 3 dublado",
@@ -3755,11 +4188,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:45:48.886Z"
+    "createdAt": "2026-04-22T21:06:05.722Z"
   },
   {
     "id": "persona-3-the-movie-2-midsummer-knights-dream",
-    "title": "Home\nAnimes\nPersona 3 the Movie 2: Midsummer Knight’s Dream",
+    "title": "Persona 3 the Movie 2: Midsummer Knight’s Dream",
     "slug": "persona-3-the-movie-2-midsummer-knights-dream",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/9biKEq60rbPz30tI2p2he1xGdIh-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/9aWh6kgDcveGnPCQ3BomxadMwOL.jpg",
@@ -3786,7 +4219,7 @@
     "synopsis": "Segundo filme baseado no game Persona 3.",
     "year": "2014",
     "altTitle": "P3M, Persona 3 the Movie: #2 Midsummer Knight’s Dream, PERSONA3 THE MOVIE #2 Midsummer Knight’s Dream",
-    "rating": "6",
+    "rating": "8",
     "wpTags": [
       "P3M",
       "Persona 3 the Movie: #2 Midsummer Knight’s Dream",
@@ -3811,11 +4244,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:45:40.536Z"
+    "createdAt": "2026-04-22T21:05:59.740Z"
   },
   {
     "id": "persona-3-the-movie-3-falling-down",
-    "title": "Home\nAnimes\nPersona 3 the Movie 3: Falling Down",
+    "title": "Persona 3 the Movie 3: Falling Down",
     "slug": "persona-3-the-movie-3-falling-down",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/gpG8zkOIVhLWup6QQxUEUX8X0fQ-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/3aey78zC1xFgWPa0b1vGepqfPW3.jpg",
@@ -3840,7 +4273,7 @@
     "synopsis": "À medida que o outono chega ao fim, Chidori Yoshino, integrante da Strega, sequestra Junpei Iori. Nesse mesmo período, Makoto Yuuki e o Esquadrão Especializado de Execução Extracurricular (SEES) derrotam o Enforcado Arcana. Pouco depois, um misterioso playboy chamado Ryouji Mochizuki se transfere para a Turma 2-F da Escola Gekkoukan.",
     "year": "2015",
     "altTitle": "Persona 3 the Movie: #3 Falling Down, PERSONA 3 THE MOVIE #3 Falling Down",
-    "rating": "8",
+    "rating": "9",
     "wpTags": [
       "Persona 3 the Movie: #3 Falling Down"
     ],
@@ -3863,11 +4296,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:45:32.544Z"
+    "createdAt": "2026-04-22T21:05:52.451Z"
   },
   {
     "id": "persona-3-the-movie-4-winter-of-rebirth",
-    "title": "Home\nAnimes\nPersona 3 the Movie 4: Winter of Rebirth",
+    "title": "Persona 3 the Movie 4: Winter of Rebirth",
     "slug": "persona-3-the-movie-4-winter-of-rebirth",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/hC5KVjvJIkUzuEXTls8cI3TyrgV-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/eOMsAdWF2HS9Vxb4mlpDi2vGh9t.jpg",
@@ -3894,7 +4327,7 @@
     "synopsis": "Cientes de que possuem apenas mais alguns meses de vida, os protagonistas têm de encarar a realidade e a iminência da morte, algo no qual a maioria das pessoas evita pensar. Com o fim tão próximo, eles lutam para tentar dar sentido à vida que tiveram.",
     "year": "2016",
     "altTitle": "Persona 3 the Movie: #4 Winter of Rebirth, PERSONA3 THE MOVIE #4 Winter of Rebirth",
-    "rating": "8",
+    "rating": "7",
     "wpTags": [
       "Persona 3 the Movie: #4 Winter of Rebirth",
       "PERSONA3 THE MOVIE #4 Winter of Rebirth"
@@ -3918,11 +4351,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:45:25.454Z"
+    "createdAt": "2026-04-22T21:05:45.013Z"
   },
   {
     "id": "persona-4-the-animation-no-one-is-alone",
-    "title": "Home\nAnimes\nPersona 4 the Animation: No One is Alone",
+    "title": "Persona 4 the Animation: No One is Alone",
     "slug": "persona-4-the-animation-no-one-is-alone",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/pRm15EmyUgyP2g5d1rpCaEQrbY9-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/5Rkl2NPjzSTRJhvOiNvEbPJKs57.jpg",
@@ -3939,7 +4372,7 @@
     "synopsis": "Novo episódio incluído no 10º volume do Blu-ray. O episódio adaptará o final real do jogo original para PS2.",
     "year": "2012",
     "altTitle": "ペルソナ4アニメーション True End – No One Is Alone –, P4A, ペルソナ4アニメーション",
-    "rating": "7",
+    "rating": "6",
     "wpTags": [
       "P4A",
       "Persona 4 the Animation: No One is Alone",
@@ -3965,11 +4398,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:45:16.948Z"
+    "createdAt": "2026-04-22T21:05:36.411Z"
   },
   {
     "id": "persona-4-the-animation-the-factor-of-hope-movie",
-    "title": "Home\nAnimes\nPersona 4 the Animation: The Factor of Hope Movie",
+    "title": "Persona 4 the Animation: The Factor of Hope Movie",
     "slug": "persona-4-the-animation-the-factor-of-hope-movie",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/7kRhgXU1Rr9BIMnRzoPyUlDLhJ7-226x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/yaE2zpqPR2YbobDh9LuDOjxU5BT.jpg",
@@ -3989,7 +4422,7 @@
     "synopsis": "Esta edição especial reúne os 25 episódios do anime para TV em uma versão reeditada, com novos cortes e o episódio inédito “True End Episode: No One is Alone”. A história tem cerca de 90 minutos de duração. O lançamento ocorreu como um evento de exibição em dez cinemas japoneses. Apesar disso, o estúdio tratou a exibição apenas como um evento especial, e não como um lançamento oficial nos cinemas.",
     "year": "2012",
     "altTitle": "PERSONA4 the Animation -The Factor of Hope-, PERSONA4 the Animation -The Factor of Hope-",
-    "rating": "6",
+    "rating": "8",
     "wpTags": [
       "Persona 4 the Animation: The Factor of Hope Movie",
       "PERSONA4 the Animation -The Factor of Hope-"
@@ -4013,11 +4446,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:45:09.480Z"
+    "createdAt": "2026-04-22T21:05:29.868Z"
   },
   {
     "id": "persona-5-the-animation-the-day-breakers",
-    "title": "Home\nAnimes\nPersona 5 the Animation: The Day Breakers",
+    "title": "Persona 5 the Animation: The Day Breakers",
     "slug": "persona-5-the-animation-the-day-breakers",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/zzr5scWOqXvIqwDi2fP5t4cNrgL-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/wr4VXPa1ivBt3l3oayc0Aztd3VL.jpg",
@@ -4064,11 +4497,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:45:56.882Z"
+    "createdAt": "2026-04-22T21:06:13.069Z"
   },
   {
     "id": "pokemon-o-filme-mewtwo-contra-ataca-evolucao-dublado",
-    "title": "Home\nAnimes\nPokémon, o Filme: Mewtwo Contra-Ataca – Evolução Dublado",
+    "title": "Pokémon, o Filme: Mewtwo Contra-Ataca – Evolução Dublado",
     "slug": "pokemon-o-filme-mewtwo-contra-ataca-evolucao-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2026/02/54TouWa5dWkxPtuzoqVEbgUWBVT-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/xHyX5zQIdu13w708J4lYhmwEqNp.jpg",
@@ -4093,7 +4526,7 @@
     "synopsis": "Depois de aceitar o convite de um misterioso treinador, Ash, Misty e Brock conhecem Mewtwo, um Pokémon criado artificialmente e que está louco por uma batalha.",
     "year": "2019",
     "altTitle": "Pokémon, o Filme: Mewtwo Contra-Ataca – Evolução, ミュウツーの逆襲 EVOLUTION",
-    "rating": "9",
+    "rating": "6",
     "wpTags": [
       "o Filme: Mewtwo Contra-Ataca - Evolução",
       "Pokémon",
@@ -4101,11 +4534,21 @@
       "Pokémon o Filme: Mewtwo Contra-Ataca - Evolução Dublado"
     ],
     "video": {
-      "main": "https://cdn1.rpmplay.online/#he1nfd",
+      "main": "https://cdn1.rpmplay.online/hls/7f0REOJntKhgqF_o0ULkCg/ty/ipljeu8g/kttvmx/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://cdn1.rpmplay.online/#he1nfd",
-          "type": "embed",
+          "url": "https://cdn1.rpmplay.online/hls/7f0REOJntKhgqF_o0ULkCg/ty/ipljeu8g/kttvmx/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://cdn1.rpmplay.online/hls/7f0REOJntKhgqF_o0ULkCg/ty/ipljeu8g/kttvmx/tt/master.m3u8?v=1766826492",
+            "https://cdn1.rpmplay.online/hls/7f0REOJntKhgqF_o0ULkCg/ty/ipljeu8g/kttvmx/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animeshd.cloud/#cwyk1x",
+          "type": "animeshd",
           "label": "FHD",
           "method": "embed"
         },
@@ -4119,11 +4562,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:33:49.021Z"
+    "createdAt": "2026-04-22T20:51:06.062Z"
   },
   {
     "id": "pokemon-o-filme-mewtwo-contra-ataca-evolucao",
-    "title": "Home\nAnimes\nPokémon, o Filme: Mewtwo Contra-Ataca – Evolução",
+    "title": "Pokémon, o Filme: Mewtwo Contra-Ataca – Evolução",
     "slug": "pokemon-o-filme-mewtwo-contra-ataca-evolucao",
     "cover": "https://animeq.net/wp-content/uploads/2026/02/tWLEEKg9iATFlzQG9EIDBODl5q6-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/xHyX5zQIdu13w708J4lYhmwEqNp.jpg",
@@ -4148,7 +4591,7 @@
     "synopsis": "Depois de aceitar o convite de um misterioso treinador, Ash, Misty e Brock conhecem Mewtwo, um Pokémon criado artificialmente e que está louco por uma batalha.",
     "year": "2019",
     "altTitle": "Pokémon, o Filme: Mewtwo Contra-Ataca – Evolução, ミュウツーの逆襲 EVOLUTION",
-    "rating": "9",
+    "rating": "7",
     "wpTags": [
       "o Filme: Mewtwo Contra-Ataca - Evolução",
       "Pokémon",
@@ -4156,11 +4599,21 @@
       "Pokémon o Filme: Mewtwo Contra-Ataca - Evolução Dublado"
     ],
     "video": {
-      "main": "https://cdn1.rpmplay.online/#3gl5l6",
+      "main": "https://cdn1.rpmplay.online/hls/uE1nppHiymflUlYN_0fiCQ/db/xieomisz/j11y98/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://cdn1.rpmplay.online/#3gl5l6",
-          "type": "embed",
+          "url": "https://cdn1.rpmplay.online/hls/uE1nppHiymflUlYN_0fiCQ/db/xieomisz/j11y98/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://cdn1.rpmplay.online/hls/uE1nppHiymflUlYN_0fiCQ/db/xieomisz/j11y98/tt/master.m3u8?v=1766826492",
+            "https://cdn1.rpmplay.online/hls/uE1nppHiymflUlYN_0fiCQ/db/xieomisz/j11y98/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animeshd.cloud/#mskvlb",
+          "type": "animeshd",
           "label": "FHD",
           "method": "embed"
         },
@@ -4174,11 +4627,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:34:30.036Z"
+    "createdAt": "2026-04-22T20:52:00.018Z"
   },
   {
     "id": "pompo-a-cinefila",
-    "title": "Home\nAnimes\nEiga Daisuki Pompo-san",
+    "title": "Eiga Daisuki Pompo-san",
     "slug": "pompo-a-cinefila",
     "cover": "https://animeq.net/wp-content/uploads/2026/01/A9dVRTXAOeswAz0gSjQm6Pzu6fi-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/lr1SsQ31b4Rh7cB8ONNATuSyjmA.jpg",
@@ -4211,13 +4664,13 @@
       "slice of life anime"
     ],
     "video": {
-      "main": "https://aniplay.online/Midias/Animes/Letra-E/Eiga-Daisuki-Pompo-san/01.mp4",
+      "main": "https://www.youtube.com/embed/cresRVFmoEQ?autoplay=&autohide=1",
       "players": [
         {
-          "url": "https://aniplay.online/Midias/Animes/Letra-E/Eiga-Daisuki-Pompo-san/01.mp4",
-          "type": "mp4",
-          "label": "FullHD / HLS",
-          "method": "iframe_src"
+          "url": "https://www.youtube.com/embed/cresRVFmoEQ?autoplay=&autohide=1",
+          "type": "embed",
+          "label": "Watch trailer",
+          "method": "embed"
         },
         {
           "url": "https://animeshd.cloud/#ilm3vr",
@@ -4226,20 +4679,20 @@
           "method": "embed"
         },
         {
-          "url": "https://www.youtube.com/embed/cresRVFmoEQ?autoplay=&autohide=1",
-          "type": "embed",
-          "label": "Watch trailer",
+          "url": "https://animes.strp2p.com/#uy68of",
+          "type": "strp2p",
+          "label": "FHD",
           "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:40:26.870Z"
+    "createdAt": "2026-04-22T20:59:36.885Z"
   },
   {
     "id": "promare-dublado",
-    "title": "Home\nAnimes\nPromare Dublado",
+    "title": "Promare Dublado",
     "slug": "promare-dublado",
     "cover": "https://image.tmdb.org/t/p/original/5bR53CT0sURpK4sy2svlb3M22B0.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/eAWuDbZAYQY0PM0hL7zoO3aoF3T.jpg",
@@ -4263,17 +4716,19 @@
       "Filme Dublado",
       "Legendado"
     ],
-    "synopsis": "",
+    "synopsis": "Trinta anos se passaram desde o surgimento dos Burnish, mutantes que controlam o fogo e destruíram metade do mundo. Surge então um novo grupo agressivo, chamado “Mad Burnish”. Uma batalha épica começa entre Galo Thymos, novo membro da equipe “Burning Rescue”, e Lio Fotia, líder dos “Mad Burnish”.",
     "year": "2019",
     "altTitle": "",
-    "rating": "7",
+    "rating": "8",
     "wpTags": [
       "Filme Promare",
       "Filme Promare Online",
       "Promare",
       "Promare Dublado",
       "Promare Legendado",
-      "PROMARE（プロメア)"
+      "PROMARE（プロメア)",
+      "PROMARE（プロメア) Dublado,  Promare Dublado",
+      "Ficha Técnica Anime Promare"
     ],
     "video": {
       "main": "https://s5.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/js/manifest.6cbd7da0.js",
@@ -4291,11 +4746,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:20:44.855Z"
+    "createdAt": "2026-04-22T21:36:21.504Z"
   },
   {
     "id": "promare",
-    "title": "Home\nAnimes\nPromare",
+    "title": "Promare",
     "slug": "promare",
     "cover": "https://animeq.net/wp-content/uploads/2024/08/7rUoDfQIHfHYsSSsk5DUj7e5eur-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/eAWuDbZAYQY0PM0hL7zoO3aoF3T.jpg",
@@ -4316,7 +4771,7 @@
       "Animação",
       "Ficção científica"
     ],
-    "synopsis": "",
+    "synopsis": "Trinta anos se passaram desde o aparecimento dos Burnish, uma raça de seres mutantes que é capaz de controlar o fogo e que destruiu metade do mundo. Quando aparece um novo grupo de mutantes agressivos chamado “Mad Burnish”, começa uma batalha épica entre a Galo Thymos, um novo membro da equipe “Burning Rescue”, e Lio Fotia, o líder de “Mad Burnish”.",
     "year": "2019",
     "altTitle": "",
     "rating": "10",
@@ -4326,12 +4781,27 @@
       "Promare Legendado"
     ],
     "video": {
-      "main": "https://s5.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/js/manifest.6cbd7da0.js",
+      "main": "https://aniplay.online/Midias/Movies/Letra-P/Promare/Promare.mp4",
       "players": [
+        {
+          "url": "https://aniplay.online/Midias/Movies/Letra-P/Promare/Promare.mp4",
+          "type": "mp4",
+          "label": "SD",
+          "method": "iframe_src"
+        },
         {
           "url": "https://s5.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/js/manifest.6cbd7da0.js",
           "type": "mp4",
           "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://s5.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/js/manifest.6cbd7da0.js"
+          ]
+        },
+        {
+          "url": "https://s5.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/js/manifest.6cbd7da0.js",
+          "type": "mp4",
+          "label": "Dublado",
           "method": "intercept",
           "all": [
             "https://s5.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/js/manifest.6cbd7da0.js"
@@ -4341,11 +4811,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:22:29.021Z"
+    "createdAt": "2026-04-22T21:38:28.217Z"
   },
   {
     "id": "rascal-does-not-dream-of-a-dear-friend",
-    "title": "Home\nAnimes\nRascal Does Not Dream of a Dear Friend",
+    "title": "Rascal Does Not Dream of a Dear Friend",
     "slug": "rascal-does-not-dream-of-a-dear-friend",
     "cover": "https://animeq.net/wp-content/uploads/2025/12/amumfOxjxqMpn8wcezUUkk8YsFD-213x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/bX4jC9SODJLIg8IdNhk3zQhUP8m.jpg",
@@ -4385,11 +4855,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:41:49.572Z"
+    "createdAt": "2026-04-22T21:01:33.448Z"
   },
   {
     "id": "rosa-de-versalhes",
-    "title": "Home\nAnimes\nThe Rose of Versailles",
+    "title": "The Rose of Versailles",
     "slug": "rosa-de-versalhes",
     "cover": "https://animeq.net/wp-content/uploads/2025/05/qDbf7PiVYGBOZ1apewSI2xbXQWe-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/gTGlgtHAwQjJA3G9g2fLWuqg8zG.jpg",
@@ -4417,8 +4887,28 @@
       "The Rose of Versailles"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra%20V/Versailles%20no%20Bara/Leg.php",
+      "main": "https://www.burstcloud.co/embed/c30f63a86555d2848e1b58ef972574dc12dcdb97adeee9ef3dde0e07cb402900/01.mp4",
       "players": [
+        {
+          "url": "https://www.burstcloud.co/embed/c30f63a86555d2848e1b58ef972574dc12dcdb97adeee9ef3dde0e07cb402900/01.mp4",
+          "type": "mp4",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://www.burstcloud.co/embed/c30f63a86555d2848e1b58ef972574dc12dcdb97adeee9ef3dde0e07cb402900/01.mp4",
+            "https://cdn.burstcloud.co/a20260422X6Y0F0kM30v/01.mp4"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/cYy7iIrszvnEtIYF2gXA8Q/us/wybszjqu/me9zni/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/cYy7iIrszvnEtIYF2gXA8Q/us/wybszjqu/me9zni/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/cYy7iIrszvnEtIYF2gXA8Q/us/wybszjqu/me9zni/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra%20V/Versailles%20no%20Bara/Leg.php",
           "type": "embed",
@@ -4435,11 +4925,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:54:17.614Z"
+    "createdAt": "2026-04-22T22:20:15.888Z"
   },
   {
     "id": "saint-seiya-gekijouban",
-    "title": "Home\nAnimes\nSaint Seiya Gekijouban",
+    "title": "Saint Seiya Gekijouban",
     "slug": "saint-seiya-gekijouban",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/4I7hDPGRKryNwTrEtpQQCtzOwL2-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/q4k9UDHE5foTcs48zpqJbpLUDNU.jpg",
@@ -4462,7 +4952,7 @@
     "synopsis": "A deusa Éris encarna na jovem Eiri e sequestra Saori, com o objetivo de roubar seus poderes usando o pomo dourado. Os Cavaleiros de Bronze vão até o santuário de Éris para resgatar a Saori, precisando enfrentar um grupo de cavaleiros traidores que agora são fantasmas a mando de Éris.",
     "year": "1987",
     "altTitle": "Saint Seiya: The Battle with Eris, Saint Seiya: Movie 1, Saint Seiya: The Legend of the Golden Apple, Saint Seiya Gekijouban",
-    "rating": "6",
+    "rating": "7",
     "wpTags": [
       "Saint Seiya: Jashin Eris",
       "Saint Seiya: Movie 1",
@@ -4479,6 +4969,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animeshd.cloud/#qjd3n",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.strp2p.com/#1l8vz",
           "type": "strp2p",
           "label": "FHD",
@@ -4488,11 +4984,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:13:44.938Z"
+    "createdAt": "2026-04-22T21:29:32.506Z"
   },
   {
     "id": "saint-seiya-kamigami-no-atsuki-tatakai",
-    "title": "Home\nAnimes\nSaint Seiya Kamigami no Atsuki Tatakai",
+    "title": "Saint Seiya Kamigami no Atsuki Tatakai",
     "slug": "saint-seiya-kamigami-no-atsuki-tatakai",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/qNKg0bn6E6GWD1iCzL9vwqBLDGF-213x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/o1G9i9BzY598fE5RNmSWXCz24d4.jpg",
@@ -4511,7 +5007,7 @@
     "synopsis": "O filme começa com Hyoga salvando um soldado de Odin, mas o soldado morre e diz que a batalha dos deuses está prestes a começar. O Cavaleiro de Cisne desaparece, e, então, os outros Cavaleiros de Bronze partem para Asgard para tentar descobrir o seu paradeiro. No entanto, Durval, representante de Odin, sequestra Saori Kido. Assim, a batalha contra os Guerreiros de Asgard tem início.",
     "year": "1988",
     "altTitle": "Saint Seiya Kamigami no Atsuki Tatakai, Saint Seiya: The Heated Battle of the Gods, 聖闘士星矢 神々の熱き戦い",
-    "rating": "8",
+    "rating": "5",
     "wpTags": [
       "Saint Seiya: Kamigami no Atsuki Tatakai",
       "Saint Seiya: Movie 2",
@@ -4527,6 +5023,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animeshd.cloud/#lpeg5",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.strp2p.com/#kebkd",
           "type": "strp2p",
           "label": "FHD",
@@ -4536,11 +5038,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:12:23.898Z"
+    "createdAt": "2026-04-22T21:27:41.839Z"
   },
   {
     "id": "saint-seiya-saishuu-seisen-no-senshi-tachi",
-    "title": "Home\nAnimes\nSaint Seiya: Saishuu Seisen no Senshi-tachi",
+    "title": "Saint Seiya: Saishuu Seisen no Senshi-tachi",
     "slug": "saint-seiya-saishuu-seisen-no-senshi-tachi",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/ztnaaBao1ctl0xu6uphmANBI7ef-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/1FdYcvnpyk8vxBbw583ZzwVQ5Ev.jpg",
@@ -4557,7 +5059,7 @@
     "synopsis": "Os cosmos de Poseidon, Abel e Éris, que os Cavaleiros de Bronze enviaram ao inferno, são usados para reviver Lúcifer, o demônio mais cruel. Decidido a se vingar de Atena, Lúcifer resolve destruir a Terra e enfrenta os Cavaleiros de Bronze.",
     "year": "1989",
     "altTitle": "Saint Seiya: Saishuu Seisen no Senshi-tachi, Saint Seiya: Warriors of the Final Holy Battle, 聖闘士星矢 最終聖戦の戦士たち",
-    "rating": "9",
+    "rating": "5",
     "wpTags": [
       "Os Cavaleiros do Zodíaco: Os Guerreiros do Armageddon",
       "Saint Seiya: Saishuu Seisen no Senshi-tachi",
@@ -4573,6 +5075,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animeshd.cloud/#mmowp",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.strp2p.com/#owdui",
           "type": "strp2p",
           "label": "FHD",
@@ -4582,11 +5090,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:10:22.893Z"
+    "createdAt": "2026-04-22T21:25:07.853Z"
   },
   {
     "id": "saint-seiya-shinku-no-shonen-densetsu",
-    "title": "Home\nAnimes\nSaint Seiya: Shinku no Shonen Densetsu",
+    "title": "Saint Seiya: Shinku no Shonen Densetsu",
     "slug": "saint-seiya-shinku-no-shonen-densetsu",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/b3Hg0NCRfLU0My9xVwlkzYhrmzn-213x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/l4oOfCiMqIaaL0Vyx8dnu4FENra.jpg",
@@ -4611,7 +5119,7 @@
     "synopsis": "Abel, irmão de Atena, tentou no passado distante tornar-se o deus dos deuses. Sua ambição fez com que Zeus se unisse a Apolo para derrotá-lo. Após sua morte, Zeus ordenou que os registros sobre Abel fossem apagados para que as futuras gerações jamais soubessem de sua existência. No entanto, devido às blasfêmias cometidas pelos humanos, os deuses decidiram ressuscitar Abel, cujo papel será punir a humanidade. Para ajudá-lo em sua missão, Abel ressuscitou três cavaleiros da era mitológica, que receberam armaduras de bronze de Atena, agora reforçadas como Armaduras do Sol, e ainda um grupo de Cavaleiros de Ouro. Abel, com seus guerreiros, levou Atena ao Santuário, e isso fez com que ela abandonasse os Cavaleiros de Bronze. Liderados por Seiya, os Cavaleiros de Bronze partiram em busca de Atena e tentaram impedir que a humanidade atingisse seu juízo final.",
     "year": "1988",
     "altTitle": "Saint Seiya: Shinku no Shonen Densetsu, 聖闘士星矢 真紅の少年伝説",
-    "rating": "6",
+    "rating": "9",
     "wpTags": [
       "Os Cavaleiros do Zodíaco: A Lenda dos Defensores de Atena",
       "Saint Seiya Movie 3",
@@ -4628,6 +5136,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animeshd.cloud/#66kvs",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.strp2p.com/#nfhxv",
           "type": "strp2p",
           "label": "FHD",
@@ -4637,11 +5151,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:11:43.731Z"
+    "createdAt": "2026-04-22T21:26:40.799Z"
   },
   {
     "id": "saint-seiya-tenkai-hen-josou-overture",
-    "title": "Home\nAnimes\nSaint Seiya: Tenkai-hen Josou – Overture",
+    "title": "Saint Seiya: Tenkai-hen Josou – Overture",
     "slug": "saint-seiya-tenkai-hen-josou-overture",
     "cover": "https://animeq.net/wp-content/uploads/2025/03/eqFNOp1F5GwhIiBNVIWe0CmK6Tx-209x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/3tbyb1ZZAoFl7TiufWX15hQBYTs.jpg",
@@ -4661,7 +5175,7 @@
     "synopsis": "Os defensores da deusa Atena ainda se recuperam de uma batalha contra Hades. Eles precisam enfrentar um novo inimigo: Apolo, que lidera os cavaleiros celestiais e quer tomar o controle do Santuário. Sem a ajuda dos cavaleiros de ouro, cujas almas os deuses selaram para sempre, Seiya e os outros cavaleiros de bronze devem enfrentar esse desafio sozinhos. Agora, o texto usa mais voz ativa e as frases estão mais curtas. Isso facilita a leitura e segue as recomendações de estilo.",
     "year": "2004",
     "altTitle": "Saint Seiya: Tenkai-hen Josou – Overture, 聖闘士星矢 天界編 序奏 ~overture~",
-    "rating": "9",
+    "rating": "7",
     "wpTags": [],
     "video": {
       "main": "https://aniplay.online/HLS/Movies/Letra%20S/Saint%20Seiya/Movie%2005/Leg.php",
@@ -4669,6 +5183,12 @@
         {
           "url": "https://aniplay.online/HLS/Movies/Letra%20S/Saint%20Seiya/Movie%2005/Leg.php",
           "type": "embed",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
+          "url": "https://animeshd.cloud/#66t85",
+          "type": "animeshd",
           "label": "FHD",
           "method": "embed"
         },
@@ -4682,11 +5202,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:48:26.743Z"
+    "createdAt": "2026-04-22T21:23:18.901Z"
   },
   {
     "id": "sakura-card-captor-o-filme",
-    "title": "Home\nAnimes\nSakura Card Captor: O Filme",
+    "title": "Sakura Card Captor: O Filme",
     "slug": "sakura-card-captor-o-filme",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/jfyGmkmLfiKwNUOenjnTyv9bCNf-204x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/jfyGmkmLfiKwNUOenjnTyv9bCNf.jpg",
@@ -4723,8 +5243,8 @@
           "method": "iframe_src"
         },
         {
-          "url": "https://animeshd.cloud/#rq113f",
-          "type": "animeshd",
+          "url": "https://animes.strp2p.com/#n1kkn",
+          "type": "strp2p",
           "label": "FHD",
           "method": "embed"
         }
@@ -4732,11 +5252,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:58:44.717Z"
+    "createdAt": "2026-04-22T21:53:04.438Z"
   },
   {
     "id": "seishun-buta-yarou-wa-odekake-sister-no-yume-wo-minai",
-    "title": "Home\nAnimes\nSeishun Buta Yarou wa Odekake Sister no Yume wo Minai",
+    "title": "Seishun Buta Yarou wa Odekake Sister no Yume wo Minai",
     "slug": "seishun-buta-yarou-wa-odekake-sister-no-yume-wo-minai",
     "cover": "https://animeq.net/wp-content/uploads/2025/03/xCpMG1VhsS2cbXDJ8Dx2LbrhIs5-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/sdh76YtGseZHPk4WiOJjMzKKFSB.jpg",
@@ -4750,7 +5270,7 @@
       "Fantasia",
       "Filme Legendado"
     ],
-    "synopsis": "",
+    "synopsis": "Rascal Does Not Dream of a Sister Venturing Out, 青春ブタ野郎はおでかけシスターの夢を見ない, Rascal Does Not Dream of a Sister Venturing Out Depois de um dezembro exaustivo, Sakuta está rapidamente se aproximando do final do segundo ano do ensino médio. Como Mai é uma estudante do terceiro ano, eles não têm muito tempo juntos antes da formatura. Enquanto isso, sua irmã, Kaede, está se aventurando lenta mas continuamente ao ar livre novamente. Assim que ela começa a se firmar, ela anuncia seu objetivo mais ambicioso até então: cursar o ensino médio de seu irmão! Sakuta sabe melhor do que ninguém o quão difícil isso será para Kaede e está pronto para apoiá-la como puder. Ele só não tem certeza se isso é o melhor para ela… ou o que ela realmente quer… Ficha Técnica Anime Seishun Buta Yarou wa Odekake Sister no Yume wo Minai Seishun Buta Yarou wa Odekake Sister no Yume wo Minai Completo Seishun Buta Yarou wa Odekake Sister no Yume wo Minai Online",
     "year": "2023",
     "altTitle": "",
     "rating": "9.5",
@@ -4782,11 +5302,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:18:33.576Z"
+    "createdAt": "2026-04-22T21:34:21.116Z"
   },
   {
     "id": "seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai",
-    "title": "Home\nAnimes\nSeishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
+    "title": "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
     "slug": "seishun-buta-yarou-wa-randoseru-girl-no-yume-wo-minai",
     "cover": "https://animeq.net/wp-content/uploads/2024/12/raCwak2KUaUt90GekECTppuVv5u-213x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/lLQZbBom0IsdQLhe1n9J9SpMzSR.jpg",
@@ -4801,7 +5321,7 @@
       "Fantasia",
       "Filme Legendado"
     ],
-    "synopsis": "",
+    "synopsis": "Rascal Does Not Dream of a Knapsack Kid, 青春ブタ野郎はランドセルガールの夢を見ない Finalmente, chegou o dia da formatura de Mai no ensino médio. Enquanto Sakuta espera ansiosamente por sua namorada, uma aluna do ensino fundamental que se parece exatamente com ela aparece diante dele. Suspeita, e por todos os motivos errados… Enquanto isso, o pai de Sakuta e Kaede liga de repente, dizendo que a mãe deles quer ver a filha. Ela foi hospitalizada porque a condição de Kaede era demais para ela suportar, então o que ela poderia querer agora? Ficha Técnica Anime Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai Filme Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai Completo Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai Completo Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai Online",
     "year": "2023",
     "altTitle": "",
     "rating": "9.7",
@@ -4831,11 +5351,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:18:56.824Z"
+    "createdAt": "2026-04-22T21:34:46.525Z"
   },
   {
     "id": "seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai",
-    "title": "Home\nAnimes\nSeishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
+    "title": "Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai",
     "slug": "seishun-buta-yarou-wa-yumemiru-shoujo-no-yume-wo-minai",
     "cover": "https://image.tmdb.org/t/p/w185/2Tpyv4cwwyE2xV9bqx7DOWnUCZ5.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/tyxqfALuq02khuKNCwmeMxrqt8T.jpg",
@@ -4856,7 +5376,7 @@
       "Romance",
       "Vida Escolar"
     ],
-    "synopsis": "",
+    "synopsis": "Rascal Does Not Dream of a Dreaming Girl, 青春ブタ野郎はゆめみる少女の夢を見ない Em Fujiwara, onde os céus brilham e os mares brilham, Sakuta Azusagawa está em seu segundo ano do ensino médio. Seus felizes dias com sua namorada e veterana, Mai Sakurajima, são interrompidos com a aparição de sua primeira paixão, Shoko Makinohara. Por razões desconhecidas, ele encontra duas Shokos: uma no ensino médio e outra que se tornou adulta. Como Sakuta se vê vivendo desamparado com Shoko, a Shoko adulto o leva pelo nariz, causando uma enorme brecha em seu relacionamento com Mai. Em meio a tudo isso, ele descobre que Shoko, do ensino médio, está sofrendo de uma doença grave e sua cicatriz começa a latejar… Ficha Técnica Anime Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai Filme Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai Completo Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai Online",
     "year": "2019",
     "altTitle": "",
     "rating": "10",
@@ -4888,11 +5408,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:19:19.342Z"
+    "createdAt": "2026-04-22T21:35:11.786Z"
   },
   {
     "id": "shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack-dublado",
-    "title": "Home\nAnimes\nShingeki no Kyojin Movie: Kanketsu-hen – The Last Attack Dublado",
+    "title": "Shingeki no Kyojin Movie: Kanketsu-hen – The Last Attack Dublado",
     "slug": "shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/rSeFqgr6RibIxonuTHUeaj44shq-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/a4It6nWFmGw6P76B67FZndaecXS.jpg",
@@ -4905,7 +5425,7 @@
       "Ação",
       "Drama"
     ],
-    "synopsis": "",
+    "synopsis": "Voltando-se contra seus antigos aliados e inimigos, Eren Yeager põe em ação um plano desastroso. Sob a orientação do Titã Bestial, Zeke, Eren toma medidas extremas para acabar com o antigo conflito entre Marley e Eldia. Aprofundando-se no passado de sua família Eren luta para controlar seu próprio destino. Enquanto isso, as nações rivais de Marley e Eldia utilizam soldados e Titãs em uma corrida brutal para eliminar o outro. Reiner Braun usa seus próprios poderes em uma tentativa desesperada de conter a própria força militarista de Eren. Seus companheiros Eldians crianças Falco Grice e Gabi Braun lutam para sobreviver no caos que se desenrola. Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack Dublado",
     "year": "2023",
     "altTitle": "",
     "rating": "9",
@@ -4915,8 +5435,19 @@
       "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack Dublado"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra%20S/Snk%20The%20Last%20Attack/Dub.php",
+      "main": "https://animeshd.cloud/hls/AeMjUjQ-KuhLFxII-WXH9Q/ox/zbxp1xs1/h9pbmo/tt/master.m3u8?v=1766826492",
       "players": [
+        {
+          "url": "https://animeshd.cloud/hls/AeMjUjQ-KuhLFxII-WXH9Q/ox/zbxp1xs1/h9pbmo/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/AeMjUjQ-KuhLFxII-WXH9Q/ox/zbxp1xs1/h9pbmo/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/AeMjUjQ-KuhLFxII-WXH9Q/ox/zbxp1xs1/h9pbmo/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/AeMjUjQ-KuhLFxII-WXH9Q/ox/zbxp1xs1/h9pbmo/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra%20S/Snk%20The%20Last%20Attack/Dub.php",
           "type": "embed",
@@ -4933,11 +5464,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:57:48.079Z"
+    "createdAt": "2026-04-22T21:52:01.304Z"
   },
   {
     "id": "shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack",
-    "title": "Home\nAnimes\nShingeki no Kyojin Movie: Kanketsu-hen – The Last Attack",
+    "title": "Shingeki no Kyojin Movie: Kanketsu-hen – The Last Attack",
     "slug": "shingeki-no-kyojin-movie-kanketsu-hen-the-last-attack",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/Jrupd1NbVfhS7D84HLEkvwyxfF-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/a4It6nWFmGw6P76B67FZndaecXS.jpg",
@@ -4950,7 +5481,7 @@
       "Ação",
       "Drama"
     ],
-    "synopsis": "",
+    "synopsis": "Voltando-se contra seus antigos aliados e inimigos, Eren Yeager põe em ação um plano desastroso. Sob a orientação do Titã Bestial, Zeke, Eren toma medidas extremas para acabar com o antigo conflito entre Marley e Eldia. Aprofundando-se no passado de sua família Eren luta para controlar seu próprio destino. Enquanto isso, as nações rivais de Marley e Eldia utilizam soldados e Titãs em uma corrida brutal para eliminar o outro. Reiner Braun usa seus próprios poderes em uma tentativa desesperada de conter a própria força militarista de Eren. Seus companheiros Eldians crianças Falco Grice e Gabi Braun lutam para sobreviver no caos que se desenrola.",
     "year": "2023",
     "altTitle": "",
     "rating": "7",
@@ -4960,8 +5491,19 @@
       "Shingeki no Kyojin Movie: Kanketsu-hen - The Last Attack"
     ],
     "video": {
-      "main": "https://aniplay.online/HLS/Movies/Letra%20S/Snk%20The%20Last%20Attack/Leg.php",
+      "main": "https://animeshd.cloud/hls/DvGNXTb9x_Azr58OdJXxsw/ox/1xmlfi6x/me6wfk/tt/master.m3u8?v=1766826492",
       "players": [
+        {
+          "url": "https://animeshd.cloud/hls/DvGNXTb9x_Azr58OdJXxsw/ox/1xmlfi6x/me6wfk/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/DvGNXTb9x_Azr58OdJXxsw/ox/1xmlfi6x/me6wfk/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/DvGNXTb9x_Azr58OdJXxsw/ox/1xmlfi6x/me6wfk/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/DvGNXTb9x_Azr58OdJXxsw/ox/1xmlfi6x/me6wfk/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
         {
           "url": "https://aniplay.online/HLS/Movies/Letra%20S/Snk%20The%20Last%20Attack/Leg.php",
           "type": "embed",
@@ -4978,11 +5520,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:57:06.939Z"
+    "createdAt": "2026-04-22T21:51:05.977Z"
   },
   {
     "id": "shingeki-no-kyojin-the-final-season-kanketsu-hen-parte-2",
-    "title": "Home\nAnimes\nShingeki no Kyojin The Final Season Kanketsu-hen Parte 2",
+    "title": "Shingeki no Kyojin The Final Season Kanketsu-hen Parte 2",
     "slug": "shingeki-no-kyojin-the-final-season-kanketsu-hen-parte-2",
     "cover": "https://animeq.net/wp-content/uploads/2024/09/Shingeki-no-Kyojin-The-Final-Season-Kanketsu-hen-2.jpg",
     "banner": "",
@@ -4991,7 +5533,7 @@
       "Ação",
       "Drama"
     ],
-    "synopsis": "",
+    "synopsis": "Voltando-se contra seus antigos aliados e inimigos, Eren Yeager põe em ação um plano desastroso. Sob a orientação do Titã Bestial, Zeke, Eren toma medidas extremas para acabar com o antigo conflito entre Marley e Eldia. Aprofundando-se no passado de sua família Eren luta para controlar seu próprio destino. Enquanto isso, as nações rivais de Marley e Eldia utilizam soldados e Titãs em uma corrida brutal para eliminar o outro. Reiner Braun usa seus próprios poderes em uma tentativa desesperada de conter a própria força militarista de Eren. Seus companheiros Eldians crianças Falco Grice e Gabi Braun lutam para sobreviver no caos que se desenrola.",
     "year": "2023",
     "altTitle": "",
     "rating": "5.5",
@@ -5018,11 +5560,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:22:12.806Z"
+    "createdAt": "2026-04-22T21:38:17.645Z"
   },
   {
     "id": "shingeki-no-kyojin-the-final-season-kanketsu-hen",
-    "title": "Home\nAnimes\nShingeki no Kyojin The Final Season Kanketsu-hen Parte 1",
+    "title": "Shingeki no Kyojin The Final Season Kanketsu-hen Parte 1",
     "slug": "shingeki-no-kyojin-the-final-season-kanketsu-hen",
     "cover": "https://animeq.net/wp-content/uploads/2024/09/Shingeki-no-Kyojin-The-Final-Season-Kanketsu-hen.jpg",
     "banner": "",
@@ -5031,7 +5573,7 @@
       "Ação",
       "Drama"
     ],
-    "synopsis": "",
+    "synopsis": "Voltando-se contra seus antigos aliados e inimigos, Eren Yeager põe em ação um plano desastroso. Sob a orientação do Titã Bestial, Zeke, Eren toma medidas extremas para acabar com o antigo conflito entre Marley e Eldia. Aprofundando-se no passado de sua família Eren luta para controlar seu próprio destino. Enquanto isso, as nações rivais de Marley e Eldia utilizam soldados e Titãs em uma corrida brutal para eliminar o outro. Reiner Braun usa seus próprios poderes em uma tentativa desesperada de conter a própria força militarista de Eren. Seus companheiros Eldians crianças Falco Grice e Gabi Braun lutam para sobreviver no caos que se desenrola.",
     "year": "2023",
     "altTitle": "",
     "rating": "10",
@@ -5058,11 +5600,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:22:20.723Z"
+    "createdAt": "2026-04-22T21:38:21.149Z"
   },
   {
     "id": "solo-leveling-segundo-despertar-dublado",
-    "title": "Home\nAnimes\nSolo Leveling: Segundo Despertar Dublado",
+    "title": "Solo Leveling: Segundo Despertar Dublado",
     "slug": "solo-leveling-segundo-despertar-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/01/gHQYBqOYFLGf4zfzUpifM45Meu3-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
@@ -5087,23 +5629,27 @@
       "俺だけレベルアップな件 -ReAwakening- Dublado"
     ],
     "video": {
-      "main": "https://animeshd.cloud/#ogvac",
+      "main": "https://animeshd.cloud/hls/4TVnQiaiIuEhwvPdnS1bhQ/js/xieomesg/9xcnl/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://animeshd.cloud/#ogvac",
-          "type": "animeshd",
+          "url": "https://animeshd.cloud/hls/4TVnQiaiIuEhwvPdnS1bhQ/js/xieomesg/9xcnl/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/4TVnQiaiIuEhwvPdnS1bhQ/js/xieomesg/9xcnl/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/4TVnQiaiIuEhwvPdnS1bhQ/js/xieomesg/9xcnl/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:17:25.880Z"
+    "createdAt": "2026-04-22T21:33:14.665Z"
   },
   {
     "id": "solo-leveling-segundo-despertar",
-    "title": "Home\nAnimes\nSolo Leveling: Segundo Despertar",
+    "title": "Solo Leveling: Segundo Despertar",
     "slug": "solo-leveling-segundo-despertar",
     "cover": "https://animeq.net/wp-content/uploads/2024/12/ggQjQpd5OIIjeQbv11yXfjixj1Z-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/hlfu6g0h0D65SjkVhQBU20zePTl.jpg",
@@ -5128,23 +5674,27 @@
       "俺だけレベルアップな件 -ReAwakening-"
     ],
     "video": {
-      "main": "https://animeshd.cloud/#jmvb1",
+      "main": "https://animeshd.cloud/hls/jwsqWLoaMi4CxH6DzGW8hw/ox/zbxp1xs3/5sd9y/tt/master.m3u8?v=1766826492",
       "players": [
         {
-          "url": "https://animeshd.cloud/#jmvb1",
-          "type": "animeshd",
+          "url": "https://animeshd.cloud/hls/jwsqWLoaMi4CxH6DzGW8hw/ox/zbxp1xs3/5sd9y/tt/master.m3u8?v=1766826492",
+          "type": "hls",
           "label": "HD-CAM - Legendado (pt-br)",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/jwsqWLoaMi4CxH6DzGW8hw/ox/zbxp1xs3/5sd9y/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/jwsqWLoaMi4CxH6DzGW8hw/ox/zbxp1xs3/5sd9y/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:18:10.882Z"
+    "createdAt": "2026-04-22T21:34:03.175Z"
   },
   {
     "id": "sora-no-aosa-wo-shiru-hito-yo",
-    "title": "Home\nAnimes\nSora no Aosa wo Shiru Hito yo",
+    "title": "Sora no Aosa wo Shiru Hito yo",
     "slug": "sora-no-aosa-wo-shiru-hito-yo",
     "cover": "https://animeq.net/wp-content/uploads/2025/04/jWIh1hteYPHwD5efmlsyCWHhXsw-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/k1jWHgAICsNGM5roYcIwaDpryYS.jpg",
@@ -5168,7 +5718,7 @@
     "synopsis": "Quando seus pais morreram, Akane permaneceu em sua cidade natal para cuidar de sua irmã mais nova, Aoi. Anos depois, o ex-namorado de Akane, Shinnosuke, retorna à cidade para se apresentar em um festival de música. Ao mesmo tempo que o reencontro entre os dois ex-amantes, Aoi encontra o eu adolescente de Shinnosuke, que viajou no tempo, e ela se apaixona por ele. A equipa da comovente O Hino do Coração regressa com uma surpreendente história cheia de romance e saudades da juventude.",
     "year": "2019",
     "altTitle": "As Pessoas que Conhecem o Azul do Céu, 空の青さを知る人よ",
-    "rating": "7",
+    "rating": "8",
     "wpTags": [
       "As Pessoas que Conhecem o Azul do Céu",
       "Assistir Sora no Aosa wo Shiru Hito yo",
@@ -5186,6 +5736,17 @@
           "method": "iframe_src"
         },
         {
+          "url": "https://203.188.166.7/v4/aRt0xB0JEHci5TSHAW8mGg/1776904890/ox/okopq/master.m3u8?v=1744505744",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://203.188.166.7/v4/aRt0xB0JEHci5TSHAW8mGg/1776904890/ox/okopq/master.m3u8?v=1744505744",
+            "https://203.188.166.7/v4/aRt0xB0JEHci5TSHAW8mGg/1776904890/ox/okopq/index-f1-v1-a1.m3u8",
+            "https://203.188.166.7/v4/aRt0xB0JEHci5TSHAW8mGg/1776904890/ox/okopq/init-f1-v1-a1.mp4"
+          ]
+        },
+        {
           "url": "https://animeshd.cloud/#rqzkui",
           "type": "animeshd",
           "label": "FHD",
@@ -5195,11 +5756,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:59:35.768Z"
+    "createdAt": "2026-04-22T21:54:19.326Z"
   },
   {
     "id": "spy-x-family-code-white",
-    "title": "Home\nAnimes\nSpy x Family Code: White",
+    "title": "Spy x Family Code: White",
     "slug": "spy-x-family-code-white",
     "cover": "https://animeq.net/wp-content/uploads/2024/08/8ru02e6N6MgqeeRN9iZizPmbeiA-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/18LFBhs0ZUM68BscioitOxr3HQ5.jpg",
@@ -5221,7 +5782,7 @@
       "Aventura",
       "Comédia"
     ],
-    "synopsis": "",
+    "synopsis": "Ele é um espião. Ela uma assassina. Juntos, Loid e Yor mantêm suas vidas duplas enquanto fingem serem a família perfeita. No entanto, sua filha adotiva, Anya, uma telepata, conhece seus empolgantes segredos, sem eles saberem. Usando o pretexto de levar sua família numa viagem de inverno no fim de semana, a tentativa de Loid de progredir em sua missão atual, a Operação Strix, é frustrada quando Anya se envolve por engano e ativa eventos que ameaçam a paz mundial!",
     "year": "2023",
     "altTitle": "",
     "rating": "10",
@@ -5231,23 +5792,32 @@
       "Spy x Family Code: White"
     ],
     "video": {
-      "main": "https://terabox.com/sharing/embed?surl=Q-dxieHqbYsM5febnpoTsw&resolution=1080&autoplay=false&mute=false&uk=4398208808478&fid=1063753781881774&slid=",
+      "main": "https://aniplay.online/Midias/Movies/Letra-S/Spy x Family Code White/01.mp4",
       "players": [
         {
-          "url": "https://terabox.com/sharing/embed?surl=Q-dxieHqbYsM5febnpoTsw&resolution=1080&autoplay=false&mute=false&uk=4398208808478&fid=1063753781881774&slid=",
-          "type": "embed",
+          "url": "https://aniplay.online/Midias/Movies/Letra-S/Spy x Family Code White/01.mp4",
+          "type": "mp4",
+          "label": "Legendado",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://s5.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/js/manifest.6cbd7da0.js",
+          "type": "mp4",
           "label": "FHD",
-          "method": "embed"
+          "method": "intercept",
+          "all": [
+            "https://s5.teraboxcdn.com/fe-opera-static/node-static-v4/fe-webv4-main/js/manifest.6cbd7da0.js"
+          ]
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:22:41.804Z"
+    "createdAt": "2026-04-22T21:38:45.102Z"
   },
   {
     "id": "sr-osomatsu-o-filme",
-    "title": "Home\nAnimes\nSr Osomatsu O Filme",
+    "title": "Sr Osomatsu O Filme",
     "slug": "sr-osomatsu-o-filme",
     "cover": "https://animeq.net/wp-content/uploads/2025/07/yUokiuLP0yDyjowMdzCcsTpwgas-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/2DbEBUe95GSsvqM4h2V3U545oW.jpg",
@@ -5292,11 +5862,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:07:41.749Z"
+    "createdAt": "2026-04-22T21:21:07.421Z"
   },
   {
     "id": "street-fighter-ii-o-filme",
-    "title": "Home\nAnimes\nStreet Fighter II: O Filme",
+    "title": "Street Fighter II: O Filme",
     "slug": "street-fighter-ii-o-filme",
     "cover": "https://animeq.net/wp-content/uploads/2025/09/5VjkqNgky3fpcwVGkQ7YHBRBax2-211x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/reMt35KtqTTIy0mhcKA1PfuruDq.jpg",
@@ -5319,7 +5889,7 @@
     "synopsis": "Bison, o lider da organização criminosa Shadaloo quer conquistar o mundo. Assim ele manda seus capangas atrás de lutadores que possam servi-lo como escravos. Bison captura o grande lutador americano Ken Masters, onde Bison faz uma lavagem cerebral em Ken, obrigando-o a ser seu servo, enfrentando até mesmo seu amigo Ryu, um dos maiores artistas marciais do planeta.",
     "year": "1994",
     "altTitle": "Street Fighter II: The Animated Movie, ストリートファイター II MOVIE",
-    "rating": "6",
+    "rating": "8",
     "wpTags": [
       "assistir street fighter ii o filme",
       "street fighter ii anime",
@@ -5346,11 +5916,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:47:02.432Z"
+    "createdAt": "2026-04-22T21:07:19.626Z"
   },
   {
     "id": "sword-art-online-extra-edition",
-    "title": "Home\nAnimes\nSword Art Online: Extra Edition",
+    "title": "Sword Art Online: Extra Edition",
     "slug": "sword-art-online-extra-edition",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/zCnoFxJXWKlfGisqdiwHxCBzgGJ-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/nI2nNWCZZIMFb1sV7RVq1Nd8iWM.jpg",
@@ -5366,7 +5936,7 @@
     "synopsis": "Kirito e alguns de seus novos amigos relembram os eventos da primeira temporada. Kirito relembra seus momentos decisivos enquanto Suguha aprende a nadar com a ajuda de Asuna e outras garotas que lutaram ao lado de Kirito.",
     "year": "2013",
     "altTitle": "Sword Art Online: Extra Edition, ソードアート・オンライン Extra Edition",
-    "rating": "8",
+    "rating": "6",
     "wpTags": [
       "aincrad e alfheim",
       "anime de ação",
@@ -5398,11 +5968,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:50:47.856Z"
+    "createdAt": "2026-04-22T21:43:04.214Z"
   },
   {
     "id": "sword-art-online-ordinal-scale-dublado",
-    "title": "Home\nAnimes\nSword Art Online: Ordinal Scale Dublado",
+    "title": "Sword Art Online: Ordinal Scale Dublado",
     "slug": "sword-art-online-ordinal-scale-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/zvdSlX3C2mYUUH6URBm8YhJestw-205x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/yFZG86Zvdy6JuIlMW9eHxlVkct5.jpg",
@@ -5428,7 +5998,7 @@
     "synopsis": "Em 2026, 4 anos após o infame incidente de Sword Art Online, uma nova forma de tecnologia emergiu: o Augma, um dispositivo que utiliza um sistema de Realidade Aumentada. Diferente da Realidade Virtual do NerveGear e do Amusphere, é perfeitamente seguro e permite aos jogadores à usarem enquanto estão conscientes, gerando um grande hit no mercado. A aplicação mais popular do Augma é o jogo Ordinal Scale, que emerge os jogadores em um RPG de fantasia com rankings e recompensas. Seguindo a nova mania, os amigos de Kirito mergulham no jogo e, apesar de seus receios sobre o sistema, Kirito eventualmente se junta à eles. Enquanto parece ser algo apenas para diversão e jogos à princípio, eles logo descobrem que o jogo não é tudo o que parece…",
     "year": "2017",
     "altTitle": "Sword Art Online: Ordinal Scale, 劇場版 ソードアート・オンライン -オーディナル・スケール-",
-    "rating": "6",
+    "rating": "5",
     "wpTags": [
       "anime de ação",
       "anime popular",
@@ -5460,11 +6030,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:50:06.027Z"
+    "createdAt": "2026-04-22T21:42:24.371Z"
   },
   {
     "id": "sword-art-online-ordinal-scale",
-    "title": "Home\nAnimes\nSword Art Online: Ordinal Scale",
+    "title": "Sword Art Online: Ordinal Scale",
     "slug": "sword-art-online-ordinal-scale",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/Alntdcf829Cv115No44KOJb23IA-210x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/yFZG86Zvdy6JuIlMW9eHxlVkct5.jpg",
@@ -5522,13 +6092,69 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:50:39.960Z"
+    "createdAt": "2026-04-22T21:42:56.735Z"
   },
   {
     "id": "sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria-dublado",
-    "title": "Home\nAnimes\nSword Art Online: Progressive Movie – Hoshi Naki Yoru no Aria Dublado",
+    "title": "Sword Art Online: Progressive Movie – Hoshi Naki Yoru no Aria Dublado",
     "slug": "sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/lQScKH7AXl7bNJP78aSG1XSyaYI-204x300.jpg",
+    "banner": "https://image.tmdb.org/t/p/w300/vMNdZ1IWSEVhCgA9Td7htExVMCr.jpg",
+    "banners": [
+      "https://image.tmdb.org/t/p/w300/vMNdZ1IWSEVhCgA9Td7htExVMCr.jpg",
+      "https://image.tmdb.org/t/p/w300/2kvl6lcgoyAaf8cSRkzxE611u6T.jpg",
+      "https://image.tmdb.org/t/p/w300/qKVOTKPPtvoXd75L1HOSBPLtKWS.jpg",
+      "https://image.tmdb.org/t/p/w300/cQ6XAJ8HWDTE62FSf4IxHQYVLls.jpg",
+      "https://image.tmdb.org/t/p/w300/w3R70eYrBQtvx7RNY4YGegnSzIO.jpg"
+    ],
+    "genres": [
+      "Ação",
+      "Animação",
+      "Fantasia",
+      "Ficção científica"
+    ],
+    "synopsis": "No dia em que Asuna Yuuki colocou o NerveGear, ela era uma aluna da terceira série que nunca havia tocado em um jogo online. Em 2022, o primeiro VRMMORPG do mundo, Sword Art Online, é lançado oficialmente. Mas os jogadores, ainda entusiasmados com a conexão, de repente se veem presos dentro do jogo quando o Game Master os priva de qualquer chance de sair. O Game Master dá a eles um aviso “Se um jogador morre no jogo, ele também morre na vida real”. Ao ouvir isso, o pânico entre os jogadores começa. Asuna luta com todas as suas forças para sobreviver nesse pesadelo.",
+    "year": "2021",
+    "altTitle": "Sword Art Online Progressive: Ária de uma Noite Sem Estrelas, 劇場版 ソードアート・オンライン-プログレッシブ- 星なき夜のアリア",
+    "rating": "5",
+    "wpTags": [
+      "ação e fantasia",
+      "aincrad",
+      "anime de aventura",
+      "anime popular",
+      "assistir sao progressive",
+      "filme sao",
+      "kirito e asuna",
+      "progressive 1 legendado",
+      "sao progressive filme 1",
+      "sword art online progressive hoshi naki yoru no aria"
+    ],
+    "video": {
+      "main": "https://animeflix.blog/Filmes/Letra-S/Sword Art Online Progressive Movie - Hoshi Naki Yoru no Aria/Dub/01.mp4",
+      "players": [
+        {
+          "url": "https://animeflix.blog/Filmes/Letra-S/Sword Art Online Progressive Movie - Hoshi Naki Yoru no Aria/Dub/01.mp4",
+          "type": "mp4",
+          "label": "HD",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://www.youtube.com/embed/xjjFCxurylA?autoplay=&autohide=1",
+          "type": "embed",
+          "label": "Watch trailer",
+          "method": "embed"
+        }
+      ]
+    },
+    "type": "movie",
+    "releaseDate": "",
+    "createdAt": "2026-04-22T21:08:58.279Z"
+  },
+  {
+    "id": "sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria",
+    "title": "Sword Art Online: Progressive Movie – Hoshi Naki Yoru no Aria",
+    "slug": "sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria",
+    "cover": "https://animeq.net/wp-content/uploads/2025/08/s6yxIoVf5uPm4mGQoSZk9CSd3Vu-215x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/vMNdZ1IWSEVhCgA9Td7htExVMCr.jpg",
     "banners": [
       "https://image.tmdb.org/t/p/w300/vMNdZ1IWSEVhCgA9Td7htExVMCr.jpg",
@@ -5560,76 +6186,8 @@
       "sword art online progressive hoshi naki yoru no aria"
     ],
     "video": {
-      "main": "https://eos.feralhosting.com/inazu/Filmes/Letra-S/Sword Art Online Progressive Movie - Hoshi Naki Yoru no Aria/Dub/01.mp4",
+      "main": "https://animeflix.blog/Filmes/Letra-S/Sword Art Online Progressive Movie - Hoshi Naki Yoru no Aria/01.mp4",
       "players": [
-        {
-          "url": "https://eos.feralhosting.com/inazu/Filmes/Letra-S/Sword Art Online Progressive Movie - Hoshi Naki Yoru no Aria/Dub/01.mp4",
-          "type": "mp4",
-          "label": "HD",
-          "method": "iframe_src"
-        },
-        {
-          "url": "https://animeflix.blog/Filmes/Letra-S/Sword Art Online Progressive Movie - Hoshi Naki Yoru no Aria/Dub/01.mp4",
-          "type": "mp4",
-          "label": "HD",
-          "method": "iframe_src"
-        },
-        {
-          "url": "https://www.youtube.com/embed/xjjFCxurylA?autoplay=&autohide=1",
-          "type": "embed",
-          "label": "Watch trailer",
-          "method": "embed"
-        }
-      ]
-    },
-    "type": "movie",
-    "releaseDate": "",
-    "createdAt": "2026-04-20T16:49:13.321Z"
-  },
-  {
-    "id": "sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria",
-    "title": "Home\nAnimes\nSword Art Online: Progressive Movie – Hoshi Naki Yoru no Aria",
-    "slug": "sword-art-online-progressive-movie-hoshi-naki-yoru-no-aria",
-    "cover": "https://animeq.net/wp-content/uploads/2025/08/s6yxIoVf5uPm4mGQoSZk9CSd3Vu-215x300.jpg",
-    "banner": "https://image.tmdb.org/t/p/w300/vMNdZ1IWSEVhCgA9Td7htExVMCr.jpg",
-    "banners": [
-      "https://image.tmdb.org/t/p/w300/vMNdZ1IWSEVhCgA9Td7htExVMCr.jpg",
-      "https://image.tmdb.org/t/p/w300/2kvl6lcgoyAaf8cSRkzxE611u6T.jpg",
-      "https://image.tmdb.org/t/p/w300/qKVOTKPPtvoXd75L1HOSBPLtKWS.jpg",
-      "https://image.tmdb.org/t/p/w300/cQ6XAJ8HWDTE62FSf4IxHQYVLls.jpg",
-      "https://image.tmdb.org/t/p/w300/w3R70eYrBQtvx7RNY4YGegnSzIO.jpg"
-    ],
-    "genres": [
-      "Ação",
-      "Animação",
-      "Fantasia",
-      "Ficção científica"
-    ],
-    "synopsis": "No dia em que Asuna Yuuki colocou o NerveGear, ela era uma aluna da terceira série que nunca havia tocado em um jogo online. Em 2022, o primeiro VRMMORPG do mundo, Sword Art Online, é lançado oficialmente. Mas os jogadores, ainda entusiasmados com a conexão, de repente se veem presos dentro do jogo quando o Game Master os priva de qualquer chance de sair. O Game Master dá a eles um aviso “Se um jogador morre no jogo, ele também morre na vida real”. Ao ouvir isso, o pânico entre os jogadores começa. Asuna luta com todas as suas forças para sobreviver nesse pesadelo.",
-    "year": "2021",
-    "altTitle": "Sword Art Online Progressive: Ária de uma Noite Sem Estrelas, 劇場版 ソードアート・オンライン-プログレッシブ- 星なき夜のアリア",
-    "rating": "6",
-    "wpTags": [
-      "ação e fantasia",
-      "aincrad",
-      "anime de aventura",
-      "anime popular",
-      "assistir sao progressive",
-      "filme sao",
-      "kirito e asuna",
-      "progressive 1 legendado",
-      "sao progressive filme 1",
-      "sword art online progressive hoshi naki yoru no aria"
-    ],
-    "video": {
-      "main": "https://eos.feralhosting.com/inazu/Filmes/Letra-S/Sword Art Online Progressive Movie - Hoshi Naki Yoru no Aria/01.mp4",
-      "players": [
-        {
-          "url": "https://eos.feralhosting.com/inazu/Filmes/Letra-S/Sword Art Online Progressive Movie - Hoshi Naki Yoru no Aria/01.mp4",
-          "type": "mp4",
-          "label": "HD",
-          "method": "iframe_src"
-        },
         {
           "url": "https://animeflix.blog/Filmes/Letra-S/Sword Art Online Progressive Movie - Hoshi Naki Yoru no Aria/01.mp4",
           "type": "mp4",
@@ -5646,11 +6204,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:50:14.257Z"
+    "createdAt": "2026-04-22T21:42:31.473Z"
   },
   {
     "id": "sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo-dublado",
-    "title": "Home\nAnimes\nSword Art Online: Progressive Movie – Kuraki Yuuyami no Scherzo Dublado",
+    "title": "Sword Art Online: Progressive Movie – Kuraki Yuuyami no Scherzo Dublado",
     "slug": "sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/fEiAvaSBURgE8c7dSqSVkEunr3Z-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/sIsABtZxFBm1IOVOGocd4iPySyg.jpg",
@@ -5682,14 +6240,8 @@
       "sword art online progressive scherzo do crepúsculo sombrio"
     ],
     "video": {
-      "main": "https://eos.feralhosting.com/inazu/Filmes/Letra-S/Sword Art Online Progressive Movie - Kuraki Yuuyami no Scherzo/Dub/01.mp4",
+      "main": "https://animeflix.blog/Filmes/Letra-S/Sword Art Online Progressive Movie - Kuraki Yuuyami no Scherzo/Dub/01.mp4",
       "players": [
-        {
-          "url": "https://eos.feralhosting.com/inazu/Filmes/Letra-S/Sword Art Online Progressive Movie - Kuraki Yuuyami no Scherzo/Dub/01.mp4",
-          "type": "mp4",
-          "label": "HD",
-          "method": "iframe_src"
-        },
         {
           "url": "https://animeflix.blog/Filmes/Letra-S/Sword Art Online Progressive Movie - Kuraki Yuuyami no Scherzo/Dub/01.mp4",
           "type": "mp4",
@@ -5706,11 +6258,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:49:38.194Z"
+    "createdAt": "2026-04-22T21:09:23.020Z"
   },
   {
     "id": "sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo",
-    "title": "Home\nAnimes\nSword Art Online: Progressive Movie – Kuraki Yuuyami no Scherzo",
+    "title": "Sword Art Online: Progressive Movie – Kuraki Yuuyami no Scherzo",
     "slug": "sword-art-online-progressive-movie-kuraki-yuuyami-no-scherzo",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/tPCpAZmw1wUMxkVWvOgFmaZq4zp-210x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/sIsABtZxFBm1IOVOGocd4iPySyg.jpg",
@@ -5728,7 +6280,7 @@
     "synopsis": "Sword Art Online, o primeiro VRMMORPG do mundo, tornou-se um jogo da morte. Há um mês, dez mil usuários estão presos no universo do jogo. Asuna, que conseguiu vencer o primeiro andar do castelo flutuante de Aincrad, une-se a Kirito em sua jornada rumo ao último andar. Com a ajuda de Argo, a negociante de informações, vencer os andares parecia uma tarefa fácil, mas… Começa um conflito entre duas das maiores guildas, que deveriam estar unidas: o Esquadrão de Libertação de Aincrad e a Brigada dos Cavaleiros Dragões. Enquanto isso, uma misteriosa figura manipula a situação por trás dos panos. Nesta perigosa batalha mortal, uma ameaça que desafia qualquer estratégia se aproxima de Asuna e Kirito!",
     "year": "2022",
     "altTitle": "Sword Art Online Progressive: Scherzo do Crepúsculo Sombrio, 劇場版 ソードアート・オンライン -プログレッシブ- 冥き夕闇のスケルツォ",
-    "rating": "5",
+    "rating": "8",
     "wpTags": [
       "ação e fantasia",
       "aincrad",
@@ -5742,14 +6294,8 @@
       "sword art online progressive scherzo do crepúsculo sombrio"
     ],
     "video": {
-      "main": "https://eos.feralhosting.com/inazu/Filmes/Letra-S/Sword Art Online Progressive Movie - Kuraki Yuuyami no Scherzo/01.mp4",
+      "main": "https://animeflix.blog/Filmes/Letra-S/Sword Art Online Progressive Movie - Kuraki Yuuyami no Scherzo/01.mp4",
       "players": [
-        {
-          "url": "https://eos.feralhosting.com/inazu/Filmes/Letra-S/Sword Art Online Progressive Movie - Kuraki Yuuyami no Scherzo/01.mp4",
-          "type": "mp4",
-          "label": "HD",
-          "method": "iframe_src"
-        },
         {
           "url": "https://animeflix.blog/Filmes/Letra-S/Sword Art Online Progressive Movie - Kuraki Yuuyami no Scherzo/01.mp4",
           "type": "mp4",
@@ -5766,11 +6312,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:50:56.192Z"
+    "createdAt": "2026-04-22T21:43:11.681Z"
   },
   {
     "id": "tibet-inu-monogatari",
-    "title": "Home\nAnimes\nTibet inu monogatari",
+    "title": "Tibet inu monogatari",
     "slug": "tibet-inu-monogatari",
     "cover": "https://animeq.net/wp-content/uploads/2025/03/DIlI874KB9MhK3Jr3UC4wEhwsq-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/4qJ6LWN7xSL3gI1wfu3FmcbwnTl.jpg",
@@ -5806,16 +6352,22 @@
           "type": "animeshd",
           "label": "FHD",
           "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#pjrik",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
         }
       ]
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:04:43.955Z"
+    "createdAt": "2026-04-22T21:15:56.617Z"
   },
   {
     "id": "trapezium",
-    "title": "Home\nAnimes\nTrapezium",
+    "title": "Trapezium",
     "slug": "trapezium",
     "cover": "https://animeq.net/wp-content/uploads/2025/02/hIbx5AvMNVLijCe3QQmVJY9jENy-212x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/f7L0CMVMnlV2FRlWASw9Yu6zYEQ.jpg",
@@ -5840,7 +6392,7 @@
     "synopsis": "Motivada por uma paixão inabalável por se tornar uma ídolo, Yu Azuma, uma jovem e ambiciosa aluna do primeiro ano da Joshu East High School, decide formar um grupo de ídolos. No entanto, para transformar esse sonho em realidade, ela precisa reunir talentos de diferentes lugares. Assim, ela recruta uma garota de cada uma das quatro escolas de ensino médio de sua região: norte, leste, sul e oeste. Pouco a pouco, Yu encontra suas futuras colegas de grupo. Em primeiro lugar, há Ranko Kashima, uma sofisticada aluna do segundo ano da Holy Teneritas Southern Girls’ Academy. Com um penteado cacheado distinto, ela se destaca por sua admiração por Madame Butterfly, o que acrescenta um toque de elegância ao grupo. Além dela, há Kurumi Taiga, aluna da West Tech Vocational High School. Diferente das demais, Kurumi adora usar jaquetas fofas com mangas longas e, acima de tudo, sonha em vencer um campeonato de robótica. Por fim, Mika Kamei, aluna da Joshu North High School, é conhecida por seu bom coração e por sua dedicação ao voluntariado, o que faz dela uma peça essencial para o grupo. Com o apoio de Shinji Kudo, colaborador e confidente de Yu, essas quatro jovens embarcam, enfim, em uma jornada rumo ao estrelato. No entanto, o caminho não será nada fácil. Pelo contrário, elas enfrentarão desafios inesperados, exigências rigorosas e contratempos constantes. Dessa forma, a pressão pode ameaçar tudo pelo que Yu trabalhou tanto. Ainda assim, será que elas conseguirão superar essas dificuldades e alcançar o sucesso?",
     "year": "2024",
     "altTitle": "Trapezium, トラペジウム",
-    "rating": "9",
+    "rating": "5",
     "wpTags": [
       "Trapezium"
     ],
@@ -5854,6 +6406,12 @@
           "method": "embed"
         },
         {
+          "url": "https://animeshd.cloud/#ishmjv",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
           "url": "https://animes.strp2p.com/#vh58v",
           "type": "strp2p",
           "label": "FHD",
@@ -5863,11 +6421,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:07:49.552Z"
+    "createdAt": "2026-04-22T21:21:13.997Z"
   },
   {
     "id": "violet-evergarden-recollections-dublado",
-    "title": "Home\nAnimes\nViolet Evergarden: Recollections Dublado",
+    "title": "Violet Evergarden: Recollections Dublado",
     "slug": "violet-evergarden-recollections-dublado",
     "cover": "https://animeq.net/wp-content/uploads/2024/12/yNrfz5Mc7IFszxAbivV1Kq0gZrW-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/husCUMbZkgRZVdNtMLOj3nO4CxH.jpg",
@@ -5915,11 +6473,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:17:47.471Z"
+    "createdAt": "2026-04-22T21:33:38.630Z"
   },
   {
     "id": "yes-ka-no-ka-hanbun-ka",
-    "title": "Home\nAnimes\nYes ka No ka Hanbun ka",
+    "title": "Yes ka No ka Hanbun ka",
     "slug": "yes-ka-no-ka-hanbun-ka",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/zbpQrG2i2ppU948AG57TW53NHuG-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/10WUwXTSOMTrmkcVALk8cfsXlFt.jpg",
@@ -5939,7 +6497,7 @@
     "synopsis": "Kei Kunieda é um locutor conhecido por sua personalidade amável e gentil diante das câmeras. No entanto, por trás do sorriso, ele guarda pensamentos ácidos e críticos sobre os outros. Sua vida cotidiana é tranquila, mesmo mantendo parte de si escondida. Tudo muda quando ele conhece Ushio Tsuzuki, um animador stop-motion independente. Kei acaba se envolvendo em uma mentira: suas duas personas passam a conhecer Ushio em situações diferentes, sem que ele perceba que são a mesma pessoa. Com o tempo, os sentimentos entre eles crescem, e Kei começa a se perguntar se Ushio será capaz de amar suas duas versões — ou apenas a metade que ele mostra.",
     "year": "2020",
     "altTitle": "Yes, No, or Maybe?, Yes, No, or Maybe Half?, イエスかノーか半分か",
-    "rating": "8",
+    "rating": "9",
     "wpTags": [
       "assistir yes ka no ka hanbun ka",
       "filme bl yes ka no ka hanbun ka",
@@ -5967,11 +6525,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:46:05.142Z"
+    "createdAt": "2026-04-22T21:06:20.465Z"
   },
   {
     "id": "yuukai-anna",
-    "title": "Home\nAnimes\nYuukai Anna",
+    "title": "Yuukai Anna",
     "slug": "yuukai-anna",
     "cover": "https://animeq.net/wp-content/uploads/2025/10/sjvOlVzYyhjWXyDwo86eImWNkU7-218x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/srLxYrrqHTNtUFofSDVAIyiI8PP.jpg",
@@ -5995,7 +6553,7 @@
     "synopsis": "196X. Anna, uma sequestradora profissional enigmática e atraente, sequestra o Professor durante sua cerimônia de casamento a pedido de uma de suas ex-namoradas. Essa mulher, cujo rosto Anna nunca viu, deseja morrer com o Professor antes que ele se case. Saindo da igreja com o Professor no banco de trás de sua motocicleta, Anna embarca em sua jornada para a cidade fictícia de “Alpha Paris”.",
     "year": "2018",
     "altTitle": "ANNA (kidnapper), 誘拐アンナ, 誘拐アンナ",
-    "rating": "7",
+    "rating": "5",
     "wpTags": [
       "anime yuukai anna",
       "assistir yuukai anna",
@@ -6022,11 +6580,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:46:13.936Z"
+    "createdAt": "2026-04-22T21:06:27.886Z"
   },
   {
     "id": "zillion-burning-night",
-    "title": "Home\nAnimes\nZillion: Burning Night",
+    "title": "Zillion: Burning Night",
     "slug": "zillion-burning-night",
     "cover": "https://animeq.net/wp-content/uploads/2025/08/oBxh51DxK8B7Byr10wSbBNzAYjt-200x300.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/Ar0z41ErRQF9JqBG2LYyj8zXujX.jpg",
@@ -6041,7 +6599,7 @@
     "synopsis": "Esta é uma história alternativa, situada em uma época imprecisa e sem ligação com a cronologia da série. Após uma apresentação em uma boate administrada por chefe Gordon, Apple — vocalista da banda de rock White Nuts, com J.J. na guitarra, Champ no baixo, Deibo na bateria e Amy nos teclados — sofre um sequestro pelos Nozas Gerdock, Soleir e Nabaro. Lady Admiss, que planeja casar Apple com seu filho Gerdock, ordena o sequestro.",
     "year": "1988",
     "altTitle": "Zillion: Burning Night, Akai Koudan Zillion: Utahime Yakyoku, 赤い光弾ジリオン 歌姫夜曲",
-    "rating": "8",
+    "rating": "6",
     "wpTags": [
       "animação vintage",
       "anime clássico",
@@ -6072,11 +6630,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T16:52:05.543Z"
+    "createdAt": "2026-04-22T21:44:29.025Z"
   },
   {
     "id": "zone-of-the-enders-2167-idolo",
-    "title": "Home\nAnimes\nZone of the Enders: 2167 Idolo",
+    "title": "Zone of the Enders: 2167 Idolo",
     "slug": "zone-of-the-enders-2167-idolo",
     "cover": "https://image.tmdb.org/t/p/original/dhuhErLRzQFH3WWaaRQvU6ClDOs.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/hzNiueJ4KnXhAXK0jGGTVkmwEcm.jpg",
@@ -6091,7 +6649,7 @@
       "Ficção científica",
       "Filme Legendado"
     ],
-    "synopsis": "",
+    "synopsis": "Z.O.E. 2167 Idolo, ZOE: Idolo, Z.O.E 2167 IDOLO, Z.O.E. 2167 Idolo, Zone of The Enders: Z.O.E 2167 Idolo Radium e Viola, os melhores pilotos da classe do exército BAHRAM, realizarão testes de ponta em uma nova arma que Marte espera utilizar para se libertar da tirania da Força Espacial das Nações Unidas (UNSF). Essa nova tecnologia, chamada “Estrutura Orbital,” usa uma fonte de energia extremamente rara e poderosa, o minério de Metatron.",
     "year": "2001",
     "altTitle": "",
     "rating": "7",
@@ -6102,7 +6660,8 @@
       "Zone of the Enders: 2167 Idolo",
       "Zone of the Enders: 2167 Idolo Completo",
       "Zone of the Enders: 2167 Idolo Online",
-      "Zone of The Enders: Z.O.E 2167 Idolo"
+      "Zone of The Enders: Z.O.E 2167 Idolo",
+      "Ficha Técnica Anime Zone of the Enders: 2167 Idolo"
     ],
     "video": {
       "main": "https://animeflix.blog/Filmes/Letra-Z/Zone of the Enders: 2167 Idolo/01.mp4",
@@ -6123,11 +6682,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:20:05.647Z"
+    "createdAt": "2026-04-22T21:35:43.571Z"
   },
   {
     "id": "zoo-hidamari-no-shi",
-    "title": "Home\nAnimes\nZoo: Hidamari no Shi",
+    "title": "Zoo: Hidamari no Shi",
     "slug": "zoo-hidamari-no-shi",
     "cover": "https://image.tmdb.org/t/p/original/f6MPUJH4sb2sx6rqdNCmd8Dkliu.jpg",
     "banner": "",
@@ -6137,16 +6696,18 @@
       "Ficção científica",
       "Filme Legendado"
     ],
-    "synopsis": "",
+    "synopsis": "Um homem faz uma garota robô e tenta ensinar a ela os aspectos da vida cotidiana. Mas qual é seu objetivo real? Hidamari no Shi é a quarta parte do filme de cinco partes Zoo, adaptado do primeiro volume dos romances de Otsuichi de mesmo nome. É a única parte do filme feita de animação; as outras partes são sequências de ação ao vivo.",
     "year": "2005",
     "altTitle": "",
-    "rating": "9",
+    "rating": "8",
     "wpTags": [
       "Assistir Zoo: Hidamari no Shi",
       "Filme Zoo: Hidamari no Shi",
       "Filme Zoo: Hidamari no Shi Completo",
       "Zoo: Hidamari no Shi",
-      "Zoo: Hidamari no Shi Online"
+      "Zoo: Hidamari no Shi Online",
+      "Zoo: Hidamari no Uta, ZOO 「陽だまりの詩（シ）」",
+      "Ficha Técnica Anime Zoo: Hidamari no Shi"
     ],
     "video": {
       "main": "https://animeflix.blog/Filmes/Letra-Z/Zoo Hidamari no Shi/01.mp4",
@@ -6167,11 +6728,11 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:20:13.576Z"
+    "createdAt": "2026-04-22T21:35:49.973Z"
   },
   {
     "id": "zutto-mae-kara-suki-deshita-kokuhaku-jikkou-iinkai-kinyoubi-no-ohayou",
-    "title": "Home\nAnimes\nZutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai",
+    "title": "Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai",
     "slug": "zutto-mae-kara-suki-deshita-kokuhaku-jikkou-iinkai-kinyoubi-no-ohayou",
     "cover": "https://image.tmdb.org/t/p/original/uZs07Id1mf2Mi9WnOm4jgW8w5EP.jpg",
     "banner": "https://image.tmdb.org/t/p/w300/zyqfXxJVhPOTIKHDeFBQXx1IIXl.jpg",
@@ -6185,10 +6746,10 @@
       "Filme Legendado",
       "Romance"
     ],
-    "synopsis": "",
+    "synopsis": "Eu Sempre Amei Você, I’ve Always Liked You: A Friday’s Good Morning, I’ve Always Liked You Picture Drama Special, HoneyWorks: Kinyoubi no Ohayou, ずっと前から好きでした。～告白実行委員会～ 「金曜日のおはよう」, I’ve Always Liked You: A Friday’s Good Morning Enomoto Natsuki, uma estudante do terceiro ano no Colégio Sakuragaoka, tem sentimentos não correspondidos pelo seu amigo de infância, Setoguchi Yuu. Incapaz de ser honesta com seus próprios sentimentos, Natsuki diz a Yuu que está apenas o usando para praticar uma confissão. Enquanto Natsuki finge que não tem sentimentos por Yuu, seu colega de classe, Ayase Koyuki, a chama para um encontro. Natsuki será capaz de assumir o seu amor por Yuu? Ficha Técnica Anime Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai: Kinyoubi no Ohayou Filme Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai: Kinyoubi no Ohayou Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai: Kinyoubi no Ohayou Completo",
     "year": "2016",
     "altTitle": "",
-    "rating": "7",
+    "rating": "8",
     "wpTags": [
       "Eu Sempre Amei Você",
       "Filme Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai: Kinyoubi no Ohayou",
@@ -6217,6 +6778,6 @@
     },
     "type": "movie",
     "releaseDate": "",
-    "createdAt": "2026-04-20T17:19:57.032Z"
+    "createdAt": "2026-04-22T21:35:37.235Z"
   }
 ]
