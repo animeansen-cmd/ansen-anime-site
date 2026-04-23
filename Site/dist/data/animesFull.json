@@ -6369,6 +6369,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 4,
+        "title": "Episódio 04 - O alvorecer do computador",
+        "url": "https://animeq.net/episodio/dr-stone-science-future-4-part-3-episodio-04/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/dC8CG7Z8suo5bgF2FZaw8sXC0R1-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/Dr-Stone-Science-Future-4/04.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/Dr-Stone-Science-Future-4/04.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dw3N8kJQq5Wrl--HSzGZiAbEhrnUGZO-k4kRFo16eUcbxT0e-6XpXKvdi65Zc0W7LAzM6R1iLx71Tpp4kfRdqv5wqYeUsjLOXaFqrBYLo_D3U3tZeF7yC2U1CukcuIyNleryf0",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#31ysdu",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#bg3z8w",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T17:27:11.601Z"
       }
     ]
   },
@@ -7016,6 +7052,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 5,
+        "title": "Episódio 05 - Que coisa irritante! Será que eles estão juntos?!",
+        "url": "https://animeq.net/episodio/ganbare-nakamura-kun-dublado-episodio-05/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/1eMc3J8xCc07l9bHSZCdXfG2jI7-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-G/Ganbare-Nakamura-kun/Dub/05.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-G/Ganbare-Nakamura-kun/Dub/05.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dwpWJncoh2Vy153eaN4_6m6cPBPySxp0eN7ak5PFot6sUjqHErX8c6jIKS3S0GbfSlcAxhrUOE24IMiMm7nDPmydk7_93e-2tKiqPAU8y62PBXy-w8DY_XcbKtOtTb9XcVLRJyT",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#vbm9tl",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#tunruy",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T17:26:06.454Z"
       }
     ]
   },
@@ -8480,6 +8552,50 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 3,
+        "title": "Episódio 03 - A hipocrisia é a flor da cavalaria.",
+        "url": "https://animeq.net/episodio/himekishi-wa-barbaroi-no-yome-episodio-03/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/4diwccMl3bcEcvTG8YApQ2uvIok-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-H/Himekishi-wa-Barbaroi-no-Yome/03.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-H/Himekishi-wa-Barbaroi-no-Yome/03.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/2vVQ1eBnwxJKY7QzuZ2TOg/np/1xmlfz6h/sczshw/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/2vVQ1eBnwxJKY7QzuZ2TOg/np/1xmlfz6h/sczshw/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/2vVQ1eBnwxJKY7QzuZ2TOg/np/1xmlfz6h/sczshw/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://animes.strp2p.com/hls/2vVQ1eBnwxJKY7QzuZ2TOg/np/1xmlfz6h/sczshw/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animes.strp2p.com/hls/2vVQ1eBnwxJKY7QzuZ2TOg/np/1xmlfz6h/sczshw/tt/master.m3u8?v=1766826492",
+                "https://animes.strp2p.com/hls/2vVQ1eBnwxJKY7QzuZ2TOg/np/1xmlfz6h/sczshw/tt/index-f2-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxUJI5cRYaDgSOJUln0fGVAQhb9WwjW3FAE_5WLdWA76S9dDOoc63_9lJ9_QmzeCwLOePgcYkSL0z6OTbDRj404nvbuipIEc9GcViTMENlVst2LKFQCqk2unZPsX8YoGU9gIJo",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T17:28:14.275Z"
       }
     ]
   },
@@ -10366,6 +10482,85 @@
           ]
         },
         "createdAt": "2026-04-22T18:32:45.946Z"
+      }
+    ]
+  },
+  {
+    "id": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+    "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
+    "slug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado",
+    "cover": "https://animeq.net/wp-content/uploads/2026/04/2F7zlgOtk9z0FGn2EjOFWDjGcBP-201x300.jpg",
+    "banner": "https://image.tmdb.org/t/p/w300/vjAwJQEc4UADkyu3mqv8vRQmoX0.jpg",
+    "banners": [
+      "https://image.tmdb.org/t/p/w300/vjAwJQEc4UADkyu3mqv8vRQmoX0.jpg",
+      "https://image.tmdb.org/t/p/w300/lsSSDzO4dNg45Uvp57OiMyAI86b.jpg",
+      "https://image.tmdb.org/t/p/w300/aKQF6JS5If9zOo7wfI9NEGKewx4.jpg",
+      "https://image.tmdb.org/t/p/w300/8JSZFFl3kauZ8Wd6s5WX2w3EcN0.jpg"
+    ],
+    "genres": [
+      "Ação",
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Fantasia",
+      "Sci-Fi",
+      "Letra J",
+      "Dublado"
+    ],
+    "synopsis": "A terceira temporada de Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou continua a história de um homem que renasce em outro mundo. Após morrer em um acidente de trânsito, ele desperta à beira de um lago desconhecido. No entanto, seu corpo não se move. Ele também não consegue falar normalmente. Quando tenta gritar, apenas frases automáticas saem. Ele percebe que se tornou uma máquina de vendas. Além disso, só pode agir dentro das limitações desse corpo. Sem conseguir se mover, ele precisa encontrar uma forma de sobreviver.",
+    "year": "2026",
+    "altTitle": "Reborn as a Vending Machine, I Now Wander the Dungeon Season 3 Dublado, I Was Reborn as a Vending Machine, Wandering in the Dungeon, I Reincarnated Into a Vending Machine 3, Reencarnado numa Máquina de Vendas Agora Exploro a Masmorra 3",
+    "rating": "10",
+    "language": "dublado",
+    "wpTags": [
+      "assistir vending machine isekai 3",
+      "jidou hanbaiki ni umarekawatta ore season 3",
+      "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 3rd Season Dublado",
+      "Reencarnado numa Máquina de Vendas Agora Exploro a Masmorra",
+      "reincarnated as a vending machine season 3",
+      "vending machine isekai season 3"
+    ],
+    "aliases": [
+      "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado"
+    ],
+    "releaseDate": "2026-04-01T03:00:00.000Z",
+    "createdAt": "2026-04-23T17:23:10.999Z",
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Episódio 01 - A História de Cada um",
+        "url": "https://animeq.net/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-dublado-episodio-01/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/2wEsdS1WXUfDoT7AuIXL635Budw-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-J/Jidou-3/Dub/01.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-J/Jidou-3/Dub/01.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxuvcuttdCK5N_k2mNt40gJwxWVOdIhV0J0GgMRnYLfU2zJB53GYyJtEMyvMfdcfKHDbtlOXh1gYutHP7vQBWM-sqVo0uc1-Is7saWIp3q-GEBvEBWH_-4HI-rNUAEFvFlg-Fo_",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#horv6w",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#unfyyd",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T17:23:13.345Z"
       }
     ]
   },
@@ -12923,6 +13118,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 3,
+        "title": "Episódio 03 - Não nascem dois pássaros com a mesma pena.",
+        "url": "https://animeq.net/episodio/kujima-utaeba-ie-hororo-episodio-03/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/fCsmDGgDyIHGk1xD2abVJQ2sSxv-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-K/Kujima-Utaeba-Ie-Hororo/03.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-K/Kujima-Utaeba-Ie-Hororo/03.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dzytLQEHh8zSVkXqpc_JSrmq70PeTfbr2jds9LhIIPO-2aR7VSQFImI3PU7-jwKjOmys9EZlg0knXu5iY_odPVWvDMjLbKygDF6AxeciB0RUnKLGEAMSSvWThdmbw4CiJrQGxAh",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#xslq9u",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#bg3zha",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T17:29:03.092Z"
       }
     ]
   },
@@ -43193,6 +43424,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 3,
+        "title": "Episodio 03 - Guarda da Torre de Vigia",
+        "url": "https://animeq.net/episodio/rezero-kara-hajimeru-isekai-seikatsu-dublado-4th-season-episodio-03/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/jVKE6p52QBTXANm2Yv8zBo15Ezn-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-R/Re-Zero-4/Dub/03.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-R/Re-Zero-4/Dub/03.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dx1-KOzzhpV1JZvwiKwIncVva7Fj6si6ITleFxhqC3bXK4ijf7FBLfZ8X6Kslfpd2l9YrtLb0XJWtiexAX5gHtkohgPmnXD10RyPktSrrlZwL0jkGBcn2VJSgesHwnpRyjwzw",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#9j81sh",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#1l8hh5",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T17:25:03.753Z"
       }
     ]
   },
@@ -43607,6 +43874,83 @@
           ]
         },
         "createdAt": "2026-04-22T18:26:52.137Z"
+      }
+    ]
+  },
+  {
+    "id": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+    "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
+    "slug": "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado",
+    "cover": "https://animeq.net/wp-content/uploads/2026/04/kD9617ZaR8rToD4G3TgsKOEs45N-201x300.jpg",
+    "banner": "https://image.tmdb.org/t/p/w300/xiFu26relCPxf0OpU6gLswd51mj.jpg",
+    "banners": [
+      "https://image.tmdb.org/t/p/w300/xiFu26relCPxf0OpU6gLswd51mj.jpg",
+      "https://image.tmdb.org/t/p/w300/e7kTe38qPXSzjhAb05mwE1NjtNK.jpg",
+      "https://image.tmdb.org/t/p/w300/e4PpWRThWJ9aOLPG3P9PeCx02Jr.jpg"
+    ],
+    "genres": [
+      "Ação",
+      "Animação",
+      "Aventura",
+      "Letra S",
+      "Dublado"
+    ],
+    "synopsis": "Segunda temporada de Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? . Arthur Leywin, com memórias do Rei Grey, enfrenta ameaças de guerra entre Dicathen e os Vritra, buscando proteger sua família e evitar se tornar o monstro de sua vida passada",
+    "year": "2026",
+    "altTitle": "The Beginning After the End Season 2, Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado, The Beginning After the End, TBATE, 最強の王様、二度目の人生は何をする? Season2",
+    "rating": "9.2",
+    "language": "dublado",
+    "wpTags": [
+      "assistir the beginning after the end",
+      "beginning after the end anime",
+      "Saikyou no Ousama Nidome no Jinsei wa Nani wo Suru? Season 2 Dublado",
+      "saikyou no ousama season 2",
+      "tbate dublado",
+      "tbate season 2",
+      "The Beginning After the End",
+      "the beginning after the end season 2"
+    ],
+    "aliases": [
+      "saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado"
+    ],
+    "releaseDate": "2026-04-01T03:00:00.000Z",
+    "createdAt": "2026-04-23T17:22:04.713Z",
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Episódio 01 - O Rei se Aventura",
+        "url": "https://animeq.net/episodio/saikyou-no-ousama-nidome-no-jinsei-wa-nani-wo-suru-season-2-dublado-episodio-01/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/zJtHNqVr6Jbhw4AZaQWLZGlOhq1-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-S/Saikyou-no-Ousama-Nidome-no-Jinsei-wa-Nani-o-Suru-2/Dub/01.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-S/Saikyou-no-Ousama-Nidome-no-Jinsei-wa-Nani-o-Suru-2/Dub/01.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dzSdV6rl23mK7CpQUNyv6bgNZZ5ZcP1ypz2kDPiRhqYblTlkfKRQNUIgzWpq2sUNuVxobdee2LZgnK0kF6RTvTwTKTSxXRt5-zMhdmFvaugz-TNVuYTy7KAct6XtE4o3dQrrcY",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#horvil",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#3paupu",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T17:22:07.073Z"
       }
     ]
   },
