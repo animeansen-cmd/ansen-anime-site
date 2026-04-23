@@ -1215,6 +1215,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 3,
+        "title": "Episódio 03 - Katsurako Ibuki e Natsuko Kusanagi / Ruriko Yamaji e Natsuko Kusanagi",
+        "url": "https://animeq.net/episodio/awajima-hyakkei-episodio-03/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/5sb28KCl4VROXKItVix6PUbDTj1-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-A/Awajima-Hyakkei/03.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-A/Awajima-Hyakkei/03.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dzw8PcssV4AVLpNg2LgES5lptzhIk0jZDDVbo_5-C6YDrBDc5qgNEcNsl9_XP728QWZ_KT2b4HgXRCwMnGwRIe7ddrwAIWDHVW-fPJsOA6XSFkyicufImeNU5YEe4vMDEBPmaQ",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#czfsnt",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#3pausu",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T19:25:14.736Z"
       }
     ]
   },
@@ -6522,6 +6558,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 4,
+        "title": "Episódio 04 - O alvorecer do computador",
+        "url": "https://animeq.net/episodio/dr-stone-science-future-4-part-3-dublado-episodio-04/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/dC8CG7Z8suo5bgF2FZaw8sXC0R1-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/Dr-Stone-Science-Future-4/Dub/04.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/Dr-Stone-Science-Future-4/Dub/04.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxDUINhk9-Z2V3LrBC7L5M6chLWL42I5rVSo1xXGF_TetRVtb8YNDkbSmqMJxGTliYlb4EhNKdHknH2fSPbJW28JqkfXBsWj35TklZ5LhEI-vDE9Js6S-MFCMDWGMKjB9i9iNNz",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#69utbs",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#pasnkj",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T19:27:19.324Z"
       }
     ]
   },
@@ -7296,6 +7368,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 4,
+        "title": "Episódio 04 - Se você me apoiar",
+        "url": "https://animeq.net/episodio/haibara-kun-no-tsuyokute-seishun-new-game-episodio-04/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/geXVZX7lKkzsBwfuICuZf66bbF7-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-H/Haibara-kun-no-Tsuyokute-Seishun-New-Game/04.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-H/Haibara-kun-no-Tsuyokute-Seishun-New-Game/04.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dyalaQpJv67nUhl3PNQ2kjESYqWMFQjtE6Cna_777-el4LXkMcmtLNLxnjQPQ1n2ay_RORyANOrpBFvkFg8Rg7hHX3EW6v_mZQzejUiIqZ_ZUPgCgX-R5SX9drzwaXSknDqUsE",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#ikovhi",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#tunr1h",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T19:22:04.919Z"
       }
     ]
   },
@@ -8859,6 +8967,42 @@
           ]
         },
         "createdAt": "2026-04-20T13:29:35.716Z"
+      },
+      {
+        "number": 3,
+        "title": "Episódio 03 - O Castelo do Arquiduque e a Cantina Italiana",
+        "url": "https://animeq.net/episodio/honzuki-no-gekokujou-4-episodio-03/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/kmskNJ5Uh1ExKAFIa1UcFBskA30-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-H/Honzuki-no-Gekokujou-4/03.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-H/Honzuki-no-Gekokujou-4/03.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dwHJw1XeLL47SGCynN-B-F3KLncjZsCHWe2IHw3lRCnrRyv_cDh2g0PWRw4FE-oFPUEhYkH_3ocGvIVbduL9Esa7AyG1EyVRx8T0WE4hmYxt3J4K-Lb-T1bc-WOdwvRgFkB3uY",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#xsl81l",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#nf1jlv",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T19:24:11.949Z"
       }
     ]
   },
@@ -12783,6 +12927,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 4,
+        "title": "Episódio 04 - Momentos Preciosos",
+        "url": "https://animeq.net/episodio/kirio-fanclub-episodio-04/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/sYe1lD4aPjZz1AGNDbgUGCO1OHN-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-K/Kirio-Fanclub/04.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-K/Kirio-Fanclub/04.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dyp52Yuj3VJTWAZEpt65UVxQFJuKsmXavb2lJ6HNE61iDZSGHOGcSWI0XGmGqdvHC3TKYvIvXerS__8QOe8Ujb7YPhWOfPEzY8YZcnFeOMHI2ApfXmIL33D0HBZexmyUbJkZUI",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#xsl8f9",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#unfy16",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T19:26:17.007Z"
       }
     ]
   },
@@ -14210,6 +14390,47 @@
           ]
         },
         "createdAt": "2026-04-20T13:31:09.529Z"
+      },
+      {
+        "number": 4,
+        "title": "Episódio 04 - O assassinato no Hotel Kowloon (1)",
+        "url": "https://animeq.net/episodio/mata-korosarete-shimatta-no-desu-ne-tantei-sama-episodio-04/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/nC1K64ibFUOTQLWEwCIpF20Tn8A-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-M/Mata-Korosarete-Shimatta-no-desu-ne/004.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-M/Mata-Korosarete-Shimatta-no-desu-ne/004.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://94.131.217.89/v4/VVNsXhOv2pD6GvEgAdZ1pg/1776982225/js/prj19g/master.m3u8?v=1776968161",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://94.131.217.89/v4/VVNsXhOv2pD6GvEgAdZ1pg/1776982225/js/prj19g/master.m3u8?v=1776968161",
+                "https://94.131.217.89/v4/VVNsXhOv2pD6GvEgAdZ1pg/1776982225/js/prj19g/index-f1-v1-a1.m3u8",
+                "https://94.131.217.89/v4/VVNsXhOv2pD6GvEgAdZ1pg/1776982225/js/prj19g/init-f1-v1-a1.mp4"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dyadWGuISEoLXms9P6J3k7PWK_D7K2tnsVeO6vqp_EfRZZLmfeXUoEuE3KUx9kvSgpQ5GszQ-Tf7iAlX__Ddcn9SqvTYgdTHRhi9wdlnDmGCY_JcIs456AWArzn-X8hhULDTZCw",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#6z9mya",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-23T19:23:07.100Z"
       }
     ]
   },
