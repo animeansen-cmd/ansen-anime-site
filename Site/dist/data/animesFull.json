@@ -8828,7 +8828,7 @@
       "hokuto-no-ken-fist-of-the-north-star-dublado"
     ],
     "releaseDate": "",
-    "createdAt": "",
+    "createdAt": "2026-04-24T00:39:09.574Z",
     "episodes": [
       {
         "number": 1,
@@ -8877,6 +8877,83 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 3,
+        "title": "Episódio 03 - Cruzeiro do Sul",
+        "url": "https://animeq.net/episodio/hokuto-no-ken-fist-of-the-north-star-dublado-episodio-03/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/n3ejRLpeIlp8H7PaJL9sTka1Dwm-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-H/Hokuto-no-Ken-Fist-of-the-North-Star-2026/Dub/03.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-H/Hokuto-no-Ken-Fist-of-the-North-Star-2026/Dub/03.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dwS9T-RDLiHb84G-gTIJgsRP8-kRShJljghOdBqgKO39azGISwAfpcPkFHnPa0ieqFOrJJmUW8psI-5hO1GjLbbUKUirPH-1uKM3GziqdMfAR_2S0R-wTwrIwPkzMJCNaHGNFge",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#5yxuk3",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#3pauxg",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-24T00:40:12.780Z"
+      },
+      {
+        "number": 4,
+        "title": "Episódio 04 - Chamas da Obsessão",
+        "url": "https://animeq.net/episodio/hokuto-no-ken-fist-of-the-north-star-dublado-episodio-04/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/P0sc6cbhzpTH5rj8CVklpck20w-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-H/Hokuto-no-Ken-Fist-of-the-North-Star-2026/Dub/04.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-H/Hokuto-no-Ken-Fist-of-the-North-Star-2026/Dub/04.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://203.188.166.124/v4/bH1sBOS1y8PFpaKDIv7wqA/1777001207/np/q5op99/master.m3u8?v=1776986045",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://203.188.166.124/v4/bH1sBOS1y8PFpaKDIv7wqA/1777001207/np/q5op99/master.m3u8?v=1776986045",
+                "https://203.188.166.124/v4/bH1sBOS1y8PFpaKDIv7wqA/1777001207/np/q5op99/index-f1-v1-a1.m3u8",
+                "https://203.188.166.124/v4/bH1sBOS1y8PFpaKDIv7wqA/1777001207/np/q5op99/init-f1-v1-a1.mp4"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dwjz06A06HTZCBJACQVW4wwKNsrV8UOq0WPg5NUzIKUBjtz5dGRRIf-37NqMjvW5TKN48XZWjfEcnzIWQonOv3hjB8o0eujyTFRINPkptt-KDCX7odiLdtJblQ9A7yzTYVX-T_B",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#bhpccg",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-24T00:39:10.867Z"
       }
     ]
   },

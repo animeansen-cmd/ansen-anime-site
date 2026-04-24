@@ -1,5 +1,86 @@
 [
   {
+    "animeSlug": "hokuto-no-ken-fist-of-the-north-star-dublado",
+    "title": "Episódio 04 - Chamas da Obsessão",
+    "number": 4,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/P0sc6cbhzpTH5rj8CVklpck20w-300x170.jpg",
+    "url": "https://animeq.net/episodio/hokuto-no-ken-fist-of-the-north-star-dublado-episodio-04/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-H/Hokuto-no-Ken-Fist-of-the-North-Star-2026/Dub/04.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-H/Hokuto-no-Ken-Fist-of-the-North-Star-2026/Dub/04.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://203.188.166.124/v4/bH1sBOS1y8PFpaKDIv7wqA/1777001207/np/q5op99/master.m3u8?v=1776986045",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://203.188.166.124/v4/bH1sBOS1y8PFpaKDIv7wqA/1777001207/np/q5op99/master.m3u8?v=1776986045",
+            "https://203.188.166.124/v4/bH1sBOS1y8PFpaKDIv7wqA/1777001207/np/q5op99/index-f1-v1-a1.m3u8",
+            "https://203.188.166.124/v4/bH1sBOS1y8PFpaKDIv7wqA/1777001207/np/q5op99/init-f1-v1-a1.mp4"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dwjz06A06HTZCBJACQVW4wwKNsrV8UOq0WPg5NUzIKUBjtz5dGRRIf-37NqMjvW5TKN48XZWjfEcnzIWQonOv3hjB8o0eujyTFRINPkptt-KDCX7odiLdtJblQ9A7yzTYVX-T_B",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        },
+        {
+          "url": "https://animeshd.cloud/#bhpccg",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1776991148304,
+    "createdAt": "2026-04-24T00:40:10.017Z"
+  },
+  {
+    "animeSlug": "hokuto-no-ken-fist-of-the-north-star-dublado",
+    "title": "Episódio 03 - Cruzeiro do Sul",
+    "number": 3,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/n3ejRLpeIlp8H7PaJL9sTka1Dwm-300x170.jpg",
+    "url": "https://animeq.net/episodio/hokuto-no-ken-fist-of-the-north-star-dublado-episodio-03/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-H/Hokuto-no-Ken-Fist-of-the-North-Star-2026/Dub/03.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-H/Hokuto-no-Ken-Fist-of-the-North-Star-2026/Dub/03.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dwS9T-RDLiHb84G-gTIJgsRP8-kRShJljghOdBqgKO39azGISwAfpcPkFHnPa0ieqFOrJJmUW8psI-5hO1GjLbbUKUirPH-1uKM3GziqdMfAR_2S0R-wTwrIwPkzMJCNaHGNFge",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        },
+        {
+          "url": "https://animeshd.cloud/#5yxuk3",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#3pauxg",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1776991147304,
+    "createdAt": "2026-04-24T00:41:12.916Z"
+  },
+  {
     "animeSlug": "haibara-kun-no-tsuyokute-seishun-new-game",
     "title": "Episódio 04 - Se você me apoiar",
     "number": 4,
@@ -3484,57 +3565,5 @@
     },
     "order": -1776807280698,
     "createdAt": "2026-04-21T21:49:32.525Z"
-  },
-  {
-    "animeSlug": "jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season",
-    "title": "Episódio 03 - Permanecer em território inimigo",
-    "number": 3,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/8ZK6k58Txpd2OP5ryM8DrcKVpDn-300x170.jpg",
-    "url": "https://animeq.net/episodio/jidou-hanbaiki-ni-umarekawatta-ore-wa-meikyuu-wo-samayou-3rd-season-episodio-03/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwDzptUXY4J_lyWkyGRixSM2ZfJsJ6mNGsEfPgs2mj84tGfLDs3nyZMbxkEJ00qmNJxn5bOdMJhXC9O9stbBQAXIRFbQrI_0Lto6IOmA00i2uw4d6COpVAdUvRzEfScXyvElm0",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwDzptUXY4J_lyWkyGRixSM2ZfJsJ6mNGsEfPgs2mj84tGfLDs3nyZMbxkEJ00qmNJxn5bOdMJhXC9O9stbBQAXIRFbQrI_0Lto6IOmA00i2uw4d6COpVAdUvRzEfScXyvElm0",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#69lg96",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807279698,
-    "createdAt": "2026-04-21T21:49:40.529Z"
-  },
-  {
-    "animeSlug": "youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki",
-    "title": "Episódio 06 - Uma batalha turbulenta pelo recrutamento",
-    "number": 6,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/2elqqy782p7nZ3UCd2S4aqrj2Hl-300x170.jpg",
-    "url": "https://animeq.net/episodio/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki-episodio-06/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dxApwgbO9FarQytV6r1bIWx3wxzfNyFSarhGvJ8fJdMom00lia8JjWTYF-Hjqhb_Qo1dI-O5bfLP44kDZ0D383oQ97RYkmJcRKVDMzZW4JuTFj4pJXIwJc6vtS0v6GR4DwqQI_o",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dxApwgbO9FarQytV6r1bIWx3wxzfNyFSarhGvJ8fJdMom00lia8JjWTYF-Hjqhb_Qo1dI-O5bfLP44kDZ0D383oQ97RYkmJcRKVDMzZW4JuTFj4pJXIwJc6vtS0v6GR4DwqQI_o",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#5yftb1",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807278698,
-    "createdAt": "2026-04-21T21:49:48.051Z"
   }
 ]
