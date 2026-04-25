@@ -8899,6 +8899,30 @@
           ]
         },
         "createdAt": "2026-04-24T18:40:21.917Z"
+      },
+      {
+        "number": 5,
+        "title": "Episódio 05 - Cruz de Sangue",
+        "url": "https://animeq.net/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-05/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/wPZLTtqI3293Au0aiAa6H8Obdr4-300x170.jpg",
+        "video": {
+          "main": "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/playlist.m3u8",
+          "players": [
+            {
+              "url": "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/playlist.m3u8",
+              "type": "hls",
+              "label": "FullHD / HLS",
+              "method": "intercept",
+              "all": [
+                "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/playlist.m3u8",
+                "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/segment000.ts",
+                "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/segment001.ts",
+                "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/segment002.ts"
+              ]
+            }
+          ]
+        },
+        "createdAt": "2026-04-25T01:49:17.726Z"
       }
     ]
   },

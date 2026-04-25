@@ -1,5 +1,31 @@
 [
   {
+    "animeSlug": "fist-of-the-north-star-hokuto-no-ken",
+    "title": "Episódio 05 - Cruz de Sangue",
+    "number": 5,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/wPZLTtqI3293Au0aiAa6H8Obdr4-300x170.jpg",
+    "url": "https://animeq.net/episodio/hokuto-no-ken-fist-of-the-north-star-episodio-05/",
+    "video": {
+      "main": "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/playlist.m3u8",
+      "players": [
+        {
+          "url": "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/playlist.m3u8",
+          "type": "hls",
+          "label": "FullHD / HLS",
+          "method": "intercept",
+          "all": [
+            "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/playlist.m3u8",
+            "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/segment000.ts",
+            "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/segment001.ts",
+            "https://animesdrive.online/Midias/Letra-H/Hokuto-no-Ken-2026/Episodio-05-Leg/segment002.ts"
+          ]
+        }
+      ]
+    },
+    "order": -1777081755256,
+    "createdAt": "2026-04-25T01:49:25.763Z"
+  },
+  {
     "animeSlug": "kami-no-shizuku",
     "title": "Episódio 03 - Assim falou o testamento.",
     "number": 3,
@@ -3665,37 +3691,5 @@
     },
     "order": -1776807291698,
     "createdAt": "2026-04-21T21:48:05.950Z"
-  },
-  {
-    "animeSlug": "invencivel-4-dublado",
-    "title": "Episodio 07 - Não Faça Nenhuma Loucura",
-    "number": 7,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/vEyYNzrfpLCefYhILeUmdBcLp0M-300x170.jpg",
-    "url": "https://animeq.net/episodio/invencivel-4-dublado-episodio-07/",
-    "video": {
-      "main": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/007.mp4",
-      "players": [
-        {
-          "url": "https://aniplay.online/Midias/Animes/Letra-I/Invencivel-4/Dub/007.mp4",
-          "type": "mp4",
-          "label": "FullHD / HLS",
-          "method": "iframe_src"
-        },
-        {
-          "url": "https://animeshd.cloud/#prdhda",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        },
-        {
-          "url": "https://cdn10.rpmhub.site/#fd6unp",
-          "type": "embed",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807290698,
-    "createdAt": "2026-04-21T21:48:12.605Z"
   }
 ]
