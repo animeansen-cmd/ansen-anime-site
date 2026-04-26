@@ -14683,6 +14683,42 @@
           ]
         },
         "createdAt": ""
+      },
+      {
+        "number": 4,
+        "title": "Episódio 04 - Não podemos vê-lo, mas...",
+        "url": "https://animeq.net/episodio/mairimashita-iruma-kun-4-dublado-episodio-04/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/tjnNgoenMTXlHs6fPZwS7yXLR1f-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-M/Mairimashita-Iruma-kun-4/Dub/04.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-M/Mairimashita-Iruma-kun-4/Dub/04.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dz58zJ4U1mIhH4kmg0Oh10HFcjDUT1T9Cy3XWO1mMI-n9tmh941d9ZdV9YROnEVmPSmqv0ZbG9xmYyPvaPPWF1z4mhZwO2PlVXKNYQxKzuNrXsCM-IHaPclW5x6u65cQ3uLoK3f",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#tfxf3a",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#pasv3i",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-26T00:53:44.442Z"
       }
     ]
   },
@@ -47419,7 +47455,44 @@
     ],
     "releaseDate": "2026-04-03T03:00:00.000Z",
     "createdAt": "2026-04-25T20:08:37.315Z",
-    "episodes": []
+    "episodes": [
+      {
+        "number": 1,
+        "title": "Episódio 01 - Novos dias",
+        "url": "https://animeq.net/episodio/tensei-shitara-slime-datta-ken-4th-season-dublado-episodio-01/",
+        "thumbnail": "https://animeq.net/wp-content/uploads/2026/04/qz0Y4kW1VLlAT6En7E6peveMRij-300x170.jpg",
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-T/Tensei-shitara-Slime-Datta-Ken-4/Dub/01.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-T/Tensei-shitara-Slime-Datta-Ken-4/Dub/01.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxFhYcpSrOlgUnGZvDU3QtBwDKBf7NKf9DYbAN6AzYul-HhstjQJK090Zg9Db-VyyuGJayLUQ3Km7M_TnXbOCGlsF3-bG2QBkSkruEZifzjrAtgy_BtF_6UgyaorQC6oG2P7Q",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#8wfwgf",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#5ow1xe",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
+        "createdAt": "2026-04-26T00:54:46.841Z"
+      }
+    ]
   },
   {
     "id": "terror-man",
