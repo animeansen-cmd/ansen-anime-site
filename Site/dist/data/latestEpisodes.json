@@ -1,5 +1,679 @@
 [
   {
+    "animeSlug": "one-piece",
+    "title": "Episódio 1159 - Destrua o Jardim em Miniatura - Escape do Reino dos Blocos!",
+    "number": 1159,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/9MHsG2oscIHYCBPNIPNm8XbsiZG-300x170.jpg",
+    "url": "https://animeq.net/episodio/one-piece-episodio-1159/",
+    "video": {
+      "main": "https://tityos.feralhosting.com/kkurodax/O/One-Piece/1147fhd.mp4",
+      "players": [
+        {
+          "url": "https://tityos.feralhosting.com/kkurodax/O/One-Piece/1147fhd.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeflix.blog/Animes/Letra-O/One Piece/1147fhd.mp4",
+          "type": "mp4",
+          "label": "FHD",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/#xehcov",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257457842,
+    "createdAt": "2026-04-27T02:37:39.909Z"
+  },
+  {
+    "animeSlug": "yozakura-san-chi-no-daisakusen-2",
+    "title": "Episódio 03 - A Equipe de Vigilância de Segurança Big Bro Shinzo",
+    "number": 3,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/eRPzPOUf5s8GTpssXCfa3zZeCeC-300x170.jpg",
+    "url": "https://animeq.net/episodio/yozakura-san-chi-no-daisakusen-2-episodio-03/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-Y/Yozakura-san-Chi-no-Daisakusen-2/03.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-Y/Yozakura-san-Chi-no-Daisakusen-2/03.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/bjTkJX8prufdzbmz5_lpqQ/x6b/wybszpqr/nfpbm3/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/bjTkJX8prufdzbmz5_lpqQ/x6b/wybszpqr/nfpbm3/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/bjTkJX8prufdzbmz5_lpqQ/x6b/wybszpqr/nfpbm3/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/bjTkJX8prufdzbmz5_lpqQ/x6b/wybszpqr/nfpbm3/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/bjTkJX8prufdzbmz5_lpqQ/x6b/wybszpqr/nfpbm3/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/bjTkJX8prufdzbmz5_lpqQ/x6b/wybszpqr/nfpbm3/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/bjTkJX8prufdzbmz5_lpqQ/x6b/wybszpqr/nfpbm3/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dzmvmtbCfl8zxQDtHwELkcLp9hKfDIdw2nRzebC0PxjiMElJZOJwlQCnAt1yfQ_RRPJlLE0RbFQQzI5xuAB2ijXw6AcGOAQDMk2C2xq3ynVD-ebAaTE4UDOPOoWGUFTdzAxzFs",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257456842,
+    "createdAt": "2026-04-27T02:38:34.335Z"
+  },
+  {
+    "animeSlug": "digimon-beatbreak",
+    "title": "Episódio 28 - Presente",
+    "number": 28,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/oTmzJydGQzRFmm1AyyfYncJSSlw-300x170.jpg",
+    "url": "https://animeq.net/episodio/digimon-beatbreak-episodio-28/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-D/Digimon-Beatbreak/_28.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-D/Digimon-Beatbreak/_28.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/P8Bm8_AJiec07eHv8YdUTQ/ho/wybszpqr/grwjdu/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/P8Bm8_AJiec07eHv8YdUTQ/ho/wybszpqr/grwjdu/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/P8Bm8_AJiec07eHv8YdUTQ/ho/wybszpqr/grwjdu/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/P8Bm8_AJiec07eHv8YdUTQ/ho/wybszpqr/grwjdu/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://203.188.166.7/v4/lxl0WGZh5elzQQ9VZVaNeg/1777267558/ho/6z9ufu/master.m3u8?v=1777223508",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://203.188.166.7/v4/lxl0WGZh5elzQQ9VZVaNeg/1777267558/ho/6z9ufu/master.m3u8?v=1777223508",
+            "https://203.188.166.7/v4/lxl0WGZh5elzQQ9VZVaNeg/1777267558/ho/6z9ufu/index-f1-v1-a1.m3u8",
+            "https://203.188.166.7/v4/lxl0WGZh5elzQQ9VZVaNeg/1777267558/ho/6z9ufu/init-f1-v1-a1.mp4"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dz6q9GrqRZPi7uA3ijsZuOAOFXyG4TtAxo_hRDje-o-a5IJ2yap5MHEmF0k5tFOSbWmNO29SFTEeHQLl28ENKkYdbqmsi5RDOnayE6hAKw9KqyP13_sCiPqCaZizdnMLzyOjBU",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257455842,
+    "createdAt": "2026-04-27T02:39:22.284Z"
+  },
+  {
+    "animeSlug": "ghost-concert-missing-songs",
+    "title": "Episódio 04 - Mundos à parte",
+    "number": 4,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/305EV7pWz7pBBC9zRxdTtCc4D5x-300x170.jpg",
+    "url": "https://animeq.net/episodio/ghost-concert-missing-songs-episodio-04/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-G/Ghost-Concert-Missing-Songs/04.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-G/Ghost-Concert-Missing-Songs/04.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dzbFWPeLGsDbDrUr-KDpLmudJ6Nr14jgKkfcYZ34u6tBgfQr6u4xs2oV7HVQMSMfRNLGKCu4evmSZa2HIjAg9V4bdrJknWuJe8spG_21xBrR2Ln27dYm9YBCU3K3qde-yoF9nQ",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        },
+        {
+          "url": "https://animeshd.cloud/#d3v1cw",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#l8c3rj",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257454842,
+    "createdAt": "2026-04-27T02:40:25.431Z"
+  },
+  {
+    "animeSlug": "kuroneko-to-majo-no-kyoushitsu",
+    "title": "Episódio 03 - Os Magos do Zodíaco",
+    "number": 3,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/jppXmguCM6pQd80L0HQHo8iFDpP-300x170.jpg",
+    "url": "https://animeq.net/episodio/kuroneko-to-majo-no-kyoushitsu-episodio-03/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-K/Kuroneko-to-Majo-no-Kyoushitsu/03.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-K/Kuroneko-to-Majo-no-Kyoushitsu/03.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/-kwoL7Gt3ZSF_Jrah7254A/lf/wybszpqr/p3xcm9/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/-kwoL7Gt3ZSF_Jrah7254A/lf/wybszpqr/p3xcm9/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/-kwoL7Gt3ZSF_Jrah7254A/lf/wybszpqr/p3xcm9/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/-kwoL7Gt3ZSF_Jrah7254A/lf/wybszpqr/p3xcm9/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/-kwoL7Gt3ZSF_Jrah7254A/lf/wybszpqr/p3xcm9/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/-kwoL7Gt3ZSF_Jrah7254A/lf/wybszpqr/p3xcm9/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/-kwoL7Gt3ZSF_Jrah7254A/lf/wybszpqr/p3xcm9/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dymQmUxE2_bI3OMlhiTqN5zg0sDr14ZeK1uetMwYGJKZqhTjTveJHiCRMFfFR7oy0v_U1laz3TFfotQjn4F4I452X9heHFnmCRATynDS1Jvb-JulNUWFn-F7Hrt7Ja1ZOcuHIs",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257453842,
+    "createdAt": "2026-04-27T02:41:13.965Z"
+  },
+  {
+    "animeSlug": "shunkashuutou-daikousha-haru-no-mai-dublado",
+    "title": "Episódio 02 - Neve persistente",
+    "number": 2,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/dJn6oL4StWJ9EoD1JrmHwh8nVZc-300x170.jpg",
+    "url": "https://animeq.net/episodio/shunkashuutou-daikousha-haru-no-mai-dublado-episodio-02/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-S/Shunkashuutou-Daikousha/Dub/02.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-S/Shunkashuutou-Daikousha/Dub/02.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dyhCnwrcprvf9uFU2cnDOo7IZ91d_mxx_1rAuj_qw2fP7mfShF0yXmzCKJ_vlCj6F1qx5qQ4NxbsrI-6xNDf9r5OD6p2LsscAVxhM61F8Ny3pgdtH23vYRjJd1drhUP6UfHHySM",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        },
+        {
+          "url": "https://animeshd.cloud/#d3vzln",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#5owhkp",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257452842,
+    "createdAt": "2026-04-27T02:42:16.506Z"
+  },
+  {
+    "animeSlug": "the-food-diary-of-miss-maid",
+    "title": "Episódio 05 - Sorvete cremoso, vinho de ameixa, chá de cevada, crepe e ovo cru sobre arroz",
+    "number": 5,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/yk1C6mSeXJrr7njlc1bXEGWz0Bd-300x170.jpg",
+    "url": "https://animeq.net/episodio/maid-san-wa-taberu-dake-episodio-05/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-M/Maid-san-wa-Taberu-dake/05.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-M/Maid-san-wa-Taberu-dake/05.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dy-TZ3wGa9s3gdTUgqd6xBbtRClkf7rcIgUq9RTSV6H94vdNkzsjd5wRMLtogd5ZphDLlV71J7Sspx5lTyIxYHGDPSpZ5YUH9XHC3Jye-1zZOSAVvTfugaaHoRkFsTk165M0w_N",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        },
+        {
+          "url": "https://animeshd.cloud/#ikdjab",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#skem6k",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257451842,
+    "createdAt": "2026-04-27T02:43:19.467Z"
+  },
+  {
+    "animeSlug": "niwatori-fighter-dublado",
+    "title": "Episódio 07 - Cantando sobre uma pena",
+    "number": 7,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/eA4Z0BJQbCgZTK03o7WyAFWR1Id-300x170.jpg",
+    "url": "https://animeq.net/episodio/niwatori-fighter-dublado-episodio-07/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-N/Niwatori-Fighter/Dub/07.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-N/Niwatori-Fighter/Dub/07.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/Oy77yA21lfipEg0JRR7w3Q/3vi/wybszpqr/grwobm/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/Oy77yA21lfipEg0JRR7w3Q/3vi/wybszpqr/grwobm/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/Oy77yA21lfipEg0JRR7w3Q/3vi/wybszpqr/grwobm/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/Oy77yA21lfipEg0JRR7w3Q/3vi/wybszpqr/grwobm/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/Oy77yA21lfipEg0JRR7w3Q/3vi/wybszpqr/grwobm/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/Oy77yA21lfipEg0JRR7w3Q/3vi/wybszpqr/grwobm/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/Oy77yA21lfipEg0JRR7w3Q/3vi/wybszpqr/grwobm/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dyCzcN2g68tRG1gRc-M1WXruReRPnMt9E7BzycqB-YbH8Ep29oKHrIIlH6eYqrtv_RlUGIu66wtU_mYJiIgNUvuR8R7GR5vo84zKiUBvhaa0oO1tPrjUy7pnj_Vb2roO5mOxHjR",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257450842,
+    "createdAt": "2026-04-27T02:44:07.913Z"
+  },
+  {
+    "animeSlug": "reincarnation-no-kaben",
+    "title": "Episódio 04 - Onisciência e Corrupção",
+    "number": 4,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/xDvknm2ppvy1Kl3c4GoxUReM85K-300x170.jpg",
+    "url": "https://animeq.net/episodio/reincarnation-no-kaben-episodio-04/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-R/Reincarnation-no-Kaben/04.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-R/Reincarnation-no-Kaben/04.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/JAiRjR_to-lUcLN0BsmBqQ/k5/wybszpqr/cmubkg/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/JAiRjR_to-lUcLN0BsmBqQ/k5/wybszpqr/cmubkg/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/JAiRjR_to-lUcLN0BsmBqQ/k5/wybszpqr/cmubkg/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/JAiRjR_to-lUcLN0BsmBqQ/k5/wybszpqr/cmubkg/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/JAiRjR_to-lUcLN0BsmBqQ/k5/wybszpqr/cmubkg/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/JAiRjR_to-lUcLN0BsmBqQ/k5/wybszpqr/cmubkg/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/JAiRjR_to-lUcLN0BsmBqQ/k5/wybszpqr/cmubkg/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dwCAhUNKPS4qdMibYSHvjJIGEaUP11NwK90kUlOR3RSMQs_-evjABqw2rTHxdfNBAQUE1hZtnrZ6S1lOyrfDRoDAMuV07_1kx30YIqM4e6fMcXS4ojxG9FK-IPnIajqLc2iFiQ",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257449842,
+    "createdAt": "2026-04-27T02:44:56.515Z"
+  },
+  {
+    "animeSlug": "nippon-sangoku-dublado",
+    "title": "Episódio 04 - Golpe de Estado em Seii",
+    "number": 4,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/jw5owjLCAB9dOuZagRxCbk4nQpk-300x170.jpg",
+    "url": "https://animeq.net/episodio/nippon-sangoku-dublado-episodio-04/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-N/NIPPON-SANGOKU/Dub/04.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-N/NIPPON-SANGOKU/Dub/04.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/j5R03M2kpy9cC7Bmyy_JSg/urp/wybszpqr/cmubhf/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/j5R03M2kpy9cC7Bmyy_JSg/urp/wybszpqr/cmubhf/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/j5R03M2kpy9cC7Bmyy_JSg/urp/wybszpqr/cmubhf/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/j5R03M2kpy9cC7Bmyy_JSg/urp/wybszpqr/cmubhf/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dz_qdYAymbCAddqNoENdoIg7gcm8QEBvDF_r_f2Qp_xlnni6kELRKf0g4yoagfDwvHDWFfxAXrVF6WYkNGV0dOSxWDlzvjp5Pt3dUucAm-pLYAyXJ6iBXQk1J6l9AuJLPfEL_Q",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#3pawax",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257448842,
+    "createdAt": "2026-04-27T02:45:51.775Z"
+  },
+  {
+    "animeSlug": "nippon-sangoku",
+    "title": "Episódio 04 - Golpe de Estado em Seii",
+    "number": 4,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/4VkIjPNAQZv7XAhl4m2E0VvhPKm-300x170.jpg",
+    "url": "https://animeq.net/episodio/nippon-sangoku-episodio-04/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-N/NIPPON-SANGOKU/04.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-N/NIPPON-SANGOKU/04.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/VjVkp5hMcs1LOVwaT1ZG4A/rqz/wybszpqr/jylzu6/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/VjVkp5hMcs1LOVwaT1ZG4A/rqz/wybszpqr/jylzu6/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/VjVkp5hMcs1LOVwaT1ZG4A/rqz/wybszpqr/jylzu6/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/VjVkp5hMcs1LOVwaT1ZG4A/rqz/wybszpqr/jylzu6/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/VjVkp5hMcs1LOVwaT1ZG4A/rqz/wybszpqr/jylzu6/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/VjVkp5hMcs1LOVwaT1ZG4A/rqz/wybszpqr/jylzu6/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/VjVkp5hMcs1LOVwaT1ZG4A/rqz/wybszpqr/jylzu6/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dya1m6CGx8MRPMDpin3ORHvVK_duVRcbop7YlOwL6ZZJoF261IpOs6CCYi1jZ9qK1PNw-clwcim69cCNNmLznYSXDr_ZAa586M5_3sfkPHoOH1CpmriBOVXVyjP7fmeKqoQUgo",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257447842,
+    "createdAt": "2026-04-27T02:46:40.286Z"
+  },
+  {
+    "animeSlug": "mao",
+    "title": "Episódio 04 - O Incidente Shorinkyo",
+    "number": 4,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/3fyhj8xdn1O6oR665kh2FS367cr-300x170.jpg",
+    "url": "https://animeq.net/episodio/mao-episodio-04/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-M/MAO/04.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-M/MAO/04.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/uPS-_YhBQC-ZxuYOmxtVwQ/6hp/wybszpqr/95gcfo/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/uPS-_YhBQC-ZxuYOmxtVwQ/6hp/wybszpqr/95gcfo/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/uPS-_YhBQC-ZxuYOmxtVwQ/6hp/wybszpqr/95gcfo/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/uPS-_YhBQC-ZxuYOmxtVwQ/6hp/wybszpqr/95gcfo/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dzhCMfREEMccuzQhIOOVzQBtePJc6OFHV1jtc0ox3Q94s_9kESD2raAHrW1tqH_p26i3FBW9FM6XKoLuyqYreC6v2-B3Z9T45YF8UiMdAfYMj5kRGqGQYTpeEBpeG9WGCa2LNxT",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#skemif",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257446842,
+    "createdAt": "2026-04-27T02:47:35.932Z"
+  },
+  {
+    "animeSlug": "niwatori-fighter",
+    "title": "Episódio 07 - Cantando sobre uma pena",
+    "number": 7,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/yYDkKHp5tbgIkqpw0Bg3OCbXrJy-300x170.jpg",
+    "url": "https://animeq.net/episodio/niwatori-fighter-episodio-07/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-N/Niwatori-Fighter/07.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-N/Niwatori-Fighter/07.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/pmJkamb4_LoFGuWzFSzyUg/mf/wybszpqr/owe5vu/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/pmJkamb4_LoFGuWzFSzyUg/mf/wybszpqr/owe5vu/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/pmJkamb4_LoFGuWzFSzyUg/mf/wybszpqr/owe5vu/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/pmJkamb4_LoFGuWzFSzyUg/mf/wybszpqr/owe5vu/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://45.156.158.184/v4/JPyCP8GOJ0Y0fvtg-Pp06Q/1777268100/mf/askdwi/master.m3u8?v=1777211146",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://45.156.158.184/v4/JPyCP8GOJ0Y0fvtg-Pp06Q/1777268100/mf/askdwi/master.m3u8?v=1777211146",
+            "https://45.156.158.184/v4/JPyCP8GOJ0Y0fvtg-Pp06Q/1777268100/mf/askdwi/index-f1-v1-a1.m3u8",
+            "https://45.156.158.184/v4/JPyCP8GOJ0Y0fvtg-Pp06Q/1777268100/mf/askdwi/init-f1-v1-a1.mp4"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dw3BK-IuVbvEkQcfhg7YlstawzatZnhn9P8cqynDmLaviTHMsoj-2cGEQRzv-SQJDajYzsQyy8eleQVSAsJYgvytS7pVR_8EA8_zqxMbE4irRrHxJXsrOoo-XjpA_Q4TB8L92Tj",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257445842,
+    "createdAt": "2026-04-27T02:48:30.510Z"
+  },
+  {
+    "animeSlug": "ace-of-the-diamond-act-ii-season-2",
+    "title": "Episódio 04 - Rugido",
+    "number": 4,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/ijukMJo8tX6gxPmC9TOjlTHCjxF-300x170.jpg",
+    "url": "https://animeq.net/episodio/ace-of-the-diamond-act-ii-season-2-episodio-04/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-D/Diamond-no-Ace-2/04.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-D/Diamond-no-Ace-2/04.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animeshd.cloud/hls/sRoWthO6AykgSk-Z6km_Zw/xy/wybszpqr/6nzoe9/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animeshd.cloud/hls/sRoWthO6AykgSk-Z6km_Zw/xy/wybszpqr/6nzoe9/tt/master.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/sRoWthO6AykgSk-Z6km_Zw/xy/wybszpqr/6nzoe9/tt/index-f1-v1-a1.m3u8?v=1766826492",
+            "https://animeshd.cloud/hls/sRoWthO6AykgSk-Z6km_Zw/xy/wybszpqr/6nzoe9/tt/index-f2-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dy_Ds99-zCoyTlLOSwgQye-scIbsd593L47tsbe7CJnvjEY1_IMFWSndeIV3ZhG22R5nt8NlxdRmcNNmoV3eltvjlBmdHYxMJeCZEiwwazoEw_pgOrnXG-rL8xnTGPjLxMPtExm",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#f1lb1c",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257444842,
+    "createdAt": "2026-04-27T02:49:25.917Z"
+  },
+  {
+    "animeSlug": "tsue-to-tsurugi-no-wistoria-2",
+    "title": "Episódio 03 - Um Único Feitiço",
+    "number": 3,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/sfBgO2EmJgmhVN21Qb83WFUvQtJ-300x170.jpg",
+    "url": "https://animeq.net/episodio/tsue-to-tsurugi-no-wistoria-2-episodio-03/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-T/Tsue-to-Tsurugi-no-Wistoria-2/3.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-T/Tsue-to-Tsurugi-no-Wistoria-2/3.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://animes.strp2p.com/hls/LxzfD86lAaiUjVEL3r59eA/c5u/wybszpqr/6nzutj/tt/master.m3u8?v=1766826492",
+          "type": "hls",
+          "label": "FHD",
+          "method": "intercept",
+          "all": [
+            "https://animes.strp2p.com/hls/LxzfD86lAaiUjVEL3r59eA/c5u/wybszpqr/6nzutj/tt/master.m3u8?v=1766826492",
+            "https://animes.strp2p.com/hls/LxzfD86lAaiUjVEL3r59eA/c5u/wybszpqr/6nzutj/tt/index-f1-v1-a1.m3u8?v=1766826492"
+          ]
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dxXZg_-WyTMEzgU-y5q8o5rU6lq9hOmgEpLO73avSPljQ0w8liDyApkNNnjzsf9aoJ1PPIHWDIIHmSEN_2YJ7lmfOrbskjPhzOamhUT_i5lDBba-5KYHkDKbOYjwO-hc6oVL9DI",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        },
+        {
+          "url": "https://animeshd.cloud/#xs9uys",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257443842,
+    "createdAt": "2026-04-27T02:50:21.338Z"
+  },
+  {
+    "animeSlug": "nippon-sangoku-dublado",
+    "title": "Episódio 03 - Conselho Imperial",
+    "number": 3,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/5LQSwwRwxvNiPOhk41wC2VwLtB7-300x170.jpg",
+    "url": "https://animeq.net/episodio/nippon-sangoku-dublado-episodio-03/",
+    "video": {
+      "main": "https://www.blogger.com/video.g?token=AD6v5dybfcYL7cWNzFVd1H-yXZCA78HGyBGcObPJ-RDmcZ_havYTEAWtYEIW15TfNkXfHWqJZXkLBN3MPF5UavqPFoI7wqj4c1nBSBjPKO6xondVTfXOhAeo8UP9-ld37VEjSl2VyNOW",
+      "players": [
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dybfcYL7cWNzFVd1H-yXZCA78HGyBGcObPJ-RDmcZ_havYTEAWtYEIW15TfNkXfHWqJZXkLBN3MPF5UavqPFoI7wqj4c1nBSBjPKO6xondVTfXOhAeo8UP9-ld37VEjSl2VyNOW",
+          "type": "blogger",
+          "label": "FullHD / HLS",
+          "method": "embed"
+        },
+        {
+          "url": "https://animeshd.cloud/#sdrzl6",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777257442842,
+    "createdAt": "2026-04-27T02:50:24.241Z"
+  },
+  {
     "animeSlug": "mairimashita-iruma-kun-4-dublado",
     "title": "Episódio 04 - Não podemos vê-lo, mas...",
     "number": 4,
@@ -3513,427 +4187,5 @@
     },
     "order": -1776807326698,
     "createdAt": "2026-04-21T21:42:56.359Z"
-  },
-  {
-    "animeSlug": "yomi-no-tsugai",
-    "title": "Episódio 03 - Dera e Hana",
-    "number": 3,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/9WMtf5eOOouiMV63uejCqSEb5NI-300x170.jpg",
-    "url": "https://animeq.net/episodio/yomi-no-tsugai-episodio-03/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dyLKUw9jgYpN--glyq6mtoMSr6unjwvHYZdjl6LmERxHwu73AYNmos0R0-K-W1FBrvzIRopsvPrcB07_aOWfdAJqrA4kbU_Gz3UO1aLhWWwSb6kf8XagujVOl5VZ85_P4DaO5Js",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dyLKUw9jgYpN--glyq6mtoMSr6unjwvHYZdjl6LmERxHwu73AYNmos0R0-K-W1FBrvzIRopsvPrcB07_aOWfdAJqrA4kbU_Gz3UO1aLhWWwSb6kf8XagujVOl5VZ85_P4DaO5Js",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#9jrgia",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807325698,
-    "createdAt": "2026-04-21T21:43:04.762Z"
-  },
-  {
-    "animeSlug": "akane-banashi",
-    "title": "Episódio 03 - Companheiro aprendiz mais velho",
-    "number": 3,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/jEwOvYskSfpSwvQDspAlevbzeni-300x170.jpg",
-    "url": "https://animeq.net/episodio/akane-banashi-episodio-03/",
-    "video": {
-      "main": "https://aniplay.online/Midias/Animes/Letra-A/Akane-banashi/03.mp4",
-      "players": [
-        {
-          "url": "https://aniplay.online/Midias/Animes/Letra-A/Akane-banashi/03.mp4",
-          "type": "mp4",
-          "label": "FullHD / HLS",
-          "method": "iframe_src"
-        },
-        {
-          "url": "https://animeshd.cloud/#311cmn",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807324698,
-    "createdAt": "2026-04-21T21:43:12.120Z"
-  },
-  {
-    "animeSlug": "kill-ao-dublado",
-    "title": "Episódio 01 - Vamos para a escola.",
-    "number": 1,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/3TVGF5ExYg1OdQZBn0lrr1C1yj8-300x170.jpg",
-    "url": "https://animeq.net/episodio/kill-ao-dublado-episodio-01/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dw2-TJ_TQD80DsO3shHKRVYE3VZ-a-B66IaQRRYiEaC45sTF-rjPrKLo4rjV5JSPdBIr8LLZhD7i_X0EUplMv-38SxY-IGIEglC2HH0T-9Hx-LMQPfiFAQwAKHK_9EXH6_paJrN",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dw2-TJ_TQD80DsO3shHKRVYE3VZ-a-B66IaQRRYiEaC45sTF-rjPrKLo4rjV5JSPdBIr8LLZhD7i_X0EUplMv-38SxY-IGIEglC2HH0T-9Hx-LMQPfiFAQwAKHK_9EXH6_paJrN",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#mppbai",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807323698,
-    "createdAt": "2026-04-21T21:43:20.104Z"
-  },
-  {
-    "animeSlug": "kill-blue",
-    "title": "Episódio 02 - Noren Mitsuoka",
-    "number": 2,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/bgK1SDNNINpa9SuarpiUPGIqFBh-300x170.jpg",
-    "url": "https://animeq.net/episodio/kill-ao-episodio-02/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwbBszml4_g4Kp826taMV-QQk7AlT_DI45-g06KxmDsugommExKcxv2QwVhTiCyoukxZCo-5rHplsx5kK36BlOfNrZl6z8n6h-6fZTk_WyWELahbgF4tR0ClFsgz18LcgtB_YVe",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwbBszml4_g4Kp826taMV-QQk7AlT_DI45-g06KxmDsugommExKcxv2QwVhTiCyoukxZCo-5rHplsx5kK36BlOfNrZl6z8n6h-6fZTk_WyWELahbgF4tR0ClFsgz18LcgtB_YVe",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#3118la",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807322698,
-    "createdAt": "2026-04-21T21:43:27.921Z"
-  },
-  {
-    "animeSlug": "saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo",
-    "title": "Episódio 04 - Treinar é o único caminho",
-    "number": 4,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/kgndbDRcLyplbyzX0u6v854olDS-300x170.jpg",
-    "url": "https://animeq.net/episodio/saikyou-no-shokugyou-wa-yuusha-demo-kenja-demo-naku-kanteishi-kari-rashii-desu-yo-episodio-04/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dxrzt61cC6V44w4YgQpa8vCj6SJs4f_BmHL9tVCHhGfhuX4rzBU7uqrTBzi4v-lcG_HwDUoqNG62woxqI3bKjiOTdxyidkgqRTuhYzP9xg89wqJICI42155OMHh3aKg0xXXmSM",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dxrzt61cC6V44w4YgQpa8vCj6SJs4f_BmHL9tVCHhGfhuX4rzBU7uqrTBzi4v-lcG_HwDUoqNG62woxqI3bKjiOTdxyidkgqRTuhYzP9xg89wqJICI42155OMHh3aKg0xXXmSM",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#bhhfkd",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        },
-        {
-          "url": "https://animes.strp2p.com/#l8zubg",
-          "type": "strp2p",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807321698,
-    "createdAt": "2026-04-21T21:43:35.886Z"
-  },
-  {
-    "animeSlug": "mairimashita-iruma-kun-4",
-    "title": "Episódio 03 - A essência de um dem-dol",
-    "number": 3,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/ru8PKVbbO2P0rBeO3ccUEQWZ2pU-300x170.jpg",
-    "url": "https://animeq.net/episodio/mairimashita-iruma-kun-4-episodio-03/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dw892JQUJL64SXTEpX5x52vwdOvp3KkARy14urzFvRC7KZjUzIH6dfM57RBfiGC2fGj6NBvjXPgxV5orQKHqA6KzPMXZtJfn0l12-v9DzR6-OPQKnEg7do68x8adSEvw-PxEUg",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dw892JQUJL64SXTEpX5x52vwdOvp3KkARy14urzFvRC7KZjUzIH6dfM57RBfiGC2fGj6NBvjXPgxV5orQKHqA6KzPMXZtJfn0l12-v9DzR6-OPQKnEg7do68x8adSEvw-PxEUg",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#u889v3",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807320698,
-    "createdAt": "2026-04-21T21:43:43.800Z"
-  },
-  {
-    "animeSlug": "sousou-no-friere-2-dublado",
-    "title": "Episódio 10 - Uma bela vista",
-    "number": 10,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/lafr3AlTyggDpScdTeJoH0vdzeC-300x170.jpg",
-    "url": "https://animeq.net/episodio/sousou-no-frieren-2-dublado-episodio-10/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzSFP9txXhvXYKBnp38SO0xZmI17HbPuNRGO-FsnIKD92snWNA3906vOh9a5knBA60lCjVYEPhFNEMU1idgMkb7TcRCjVXx4A3Rw1Gfohs_w7kg2HEfmfVNzuasK9tAvquc4_hJ",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzSFP9txXhvXYKBnp38SO0xZmI17HbPuNRGO-FsnIKD92snWNA3906vOh9a5knBA60lCjVYEPhFNEMU1idgMkb7TcRCjVXx4A3Rw1Gfohs_w7kg2HEfmfVNzuasK9tAvquc4_hJ",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#d33ihm",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807319698,
-    "createdAt": "2026-04-21T21:43:51.028Z"
-  },
-  {
-    "animeSlug": "kami-no-shizuku",
-    "title": "Episódio 02 - Orações a uma Terra Perfumada",
-    "number": 2,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/x0Px91bCx5EUBU31vwxSq0OX3EK-300x170.jpg",
-    "url": "https://animeq.net/episodio/kami-no-shizuku-episodio-02/",
-    "video": {
-      "main": "https://aniplay.online/Midias/Animes/Letra-K/Kami-no-Shizuku/02.mp4",
-      "players": [
-        {
-          "url": "https://aniplay.online/Midias/Animes/Letra-K/Kami-no-Shizuku/02.mp4",
-          "type": "mp4",
-          "label": "FullHD / HLS",
-          "method": "iframe_src"
-        },
-        {
-          "url": "https://animeshd.cloud/#prrywd",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807318698,
-    "createdAt": "2026-04-21T21:43:58.831Z"
-  },
-  {
-    "animeSlug": "snowball-earth-dublado",
-    "title": "Episódio 03 - MEU PRIMEIRO AMIGO",
-    "number": 3,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/ydYWcqp11SfUOaFjRrHNQavULxz-300x170.jpg",
-    "url": "https://animeq.net/episodio/snowball-earth-dublado-episodio-03/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzqFOeelKCRPXZ-jXP2K2RiJZ_lD7J7vUpSdHarLMtshD2OK7AyayVp9sCLt0qw9syXVVuEpf-aA7qCfV-vwbUB9AItPWKEp-z3NNDB-FBND6Iwz9DJKE7K17rjRxKRs4xwEVBA",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzqFOeelKCRPXZ-jXP2K2RiJZ_lD7J7vUpSdHarLMtshD2OK7AyayVp9sCLt0qw9syXVVuEpf-aA7qCfV-vwbUB9AItPWKEp-z3NNDB-FBND6Iwz9DJKE7K17rjRxKRs4xwEVBA",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#5yyopr",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807317698,
-    "createdAt": "2026-04-21T21:44:06.131Z"
-  },
-  {
-    "animeSlug": "snowball-earth",
-    "title": "Episódio 03 - MEU PRIMEIRO AMIGO",
-    "number": 3,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/xd1e4HDNGf3VOWjPuPyz3xeAMV-300x170.jpg",
-    "url": "https://animeq.net/episodio/snowball-earth-episodio-03/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dx1B_K20EE3Nt0x6_3CCp-gs2ABMCtRwCJ3N2Pg-yWxE1JXJD-w7CIggN50M6xA4rCxyCmGFmqJaiEOU6m3PH-EtX5SGDvQFEx4DwjMfukhc9DRNZEwloHC6aFQ0-qBOamF0owt",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dx1B_K20EE3Nt0x6_3CCp-gs2ABMCtRwCJ3N2Pg-yWxE1JXJD-w7CIggN50M6xA4rCxyCmGFmqJaiEOU6m3PH-EtX5SGDvQFEx4DwjMfukhc9DRNZEwloHC6aFQ0-qBOamF0owt",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#lnnbza",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807316698,
-    "createdAt": "2026-04-21T21:44:14.179Z"
-  },
-  {
-    "animeSlug": "kamiina-botan-yoeru-sugata-wa-yuri-no-hana",
-    "title": "Episódio 02",
-    "number": 2,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/vekeDuXEuob2t8x10ybCpaAFyDo-300x170.jpg",
-    "url": "https://animeq.net/episodio/kamiina-botan-yoeru-sugata-wa-yuri-no-hana-episodio-02/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dxG5yIjm1fmUOkxzKYKOrvH8lg7RpcOjZ4jl-pEKr0U2SmqjLWpZHHJhTDPLApgDnmevgoyDv3RVVkCHdZTEf0LK-L0suKOxB5ZtolKaYtUT9681eS9FzV4GWnjO5RbvRoqCtw9",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dxG5yIjm1fmUOkxzKYKOrvH8lg7RpcOjZ4jl-pEKr0U2SmqjLWpZHHJhTDPLApgDnmevgoyDv3RVVkCHdZTEf0LK-L0suKOxB5ZtolKaYtUT9681eS9FzV4GWnjO5RbvRoqCtw9",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#czz9hs",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807315698,
-    "createdAt": "2026-04-21T21:44:22.118Z"
-  },
-  {
-    "animeSlug": "otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2",
-    "title": "Episódio 03 - Voltando para casa e rompendo com o passado",
-    "number": 3,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/fTvLE5r1Jw5QBjpVged8jQwdQjj-300x170.jpg",
-    "url": "https://animeq.net/episodio/otonari-no-tenshi-sama-ni-itsunomanika-dame-ningen-ni-sareteita-ken-2-episodio-03/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dyefViBlqTgrQTzHmxue6ple1BBSQ186LyMRqOUQ1WjYisSVtYJ8K9WHPlB10I7EbxH2qeewqmUhTdSenqk0wSOlezh5JKb3KKSFiPF0eN5FseUS1iHU16hKiv8fIAA6eibMu8f",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dyefViBlqTgrQTzHmxue6ple1BBSQ186LyMRqOUQ1WjYisSVtYJ8K9WHPlB10I7EbxH2qeewqmUhTdSenqk0wSOlezh5JKb3KKSFiPF0eN5FseUS1iHU16hKiv8fIAA6eibMu8f",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#xsstc1",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807314698,
-    "createdAt": "2026-04-21T21:44:30.195Z"
-  },
-  {
-    "animeSlug": "tensei-shitara-slime-datta-ken-4th-season",
-    "title": "Episódio 03 - É formada a Equipe Avatar",
-    "number": 3,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/zZYXo9bM7TK1FQBGY9yEKfxwOYi-300x170.jpg",
-    "url": "https://animeq.net/episodio/tensei-shitara-slime-datta-ken-4th-season-episodio-03/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dwktK8-OK57jzraZAsFIJEv6pV6cBE8Qh8_-lDmVVYP3Dp79K7SE6DuBMOFAiSYUG7Vl4c7qgQ-QVn8gHcXtad-UQWo58rO_zJLlANzxJsE_JNU7hh7NsyBvq-tbWDoGvDmHQ",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dwktK8-OK57jzraZAsFIJEv6pV6cBE8Qh8_-lDmVVYP3Dp79K7SE6DuBMOFAiSYUG7Vl4c7qgQ-QVn8gHcXtad-UQWo58rO_zJLlANzxJsE_JNU7hh7NsyBvq-tbWDoGvDmHQ",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#bhh38y",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807313698,
-    "createdAt": "2026-04-21T21:44:37.281Z"
-  },
-  {
-    "animeSlug": "jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku",
-    "title": "Episódio 03 - O Registro da Autoproclamada Vilã e a Observação da Admissão Escolar",
-    "number": 3,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/9cDtRCpKSd1oiKVRp6s3j4ChHbD-300x170.jpg",
-    "url": "https://animeq.net/episodio/jishou-akuyaku-reijou-na-konyakusha-no-kansatsu-kiroku-episodio-03/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dzuDwhpk-SdWvzOreDsRCGMDzlRFDZXiYLL9kcKcVNxRKjh0_Kzysu-Lkk_YGVcaoNGP9wCdOTHwHgzmOzkCq7I9C9GXe2dJF_LxGyyZQMiYCC202stBLdBaUYK9gUrFG9GYQ",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dzuDwhpk-SdWvzOreDsRCGMDzlRFDZXiYLL9kcKcVNxRKjh0_Kzysu-Lkk_YGVcaoNGP9wCdOTHwHgzmOzkCq7I9C9GXe2dJF_LxGyyZQMiYCC202stBLdBaUYK9gUrFG9GYQ",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#5yy99c",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807312698,
-    "createdAt": "2026-04-21T21:44:46.801Z"
-  },
-  {
-    "animeSlug": "dandelion-dublado",
-    "title": "Episódio 07 - Faça o que só pode ser feito agora!",
-    "number": 7,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/kQLiR4C2jQFUMdPfJMRmvxGtU0s-300x170.jpg",
-    "url": "https://animeq.net/episodio/dandelion-dublado-episodio-07/",
-    "video": {
-      "main": "https://aniplay.online/Midias/Animes/Letra-D/Dandelion/Dub/07.mp4",
-      "players": [
-        {
-          "url": "https://aniplay.online/Midias/Animes/Letra-D/Dandelion/Dub/07.mp4",
-          "type": "mp4",
-          "label": "FullHD / HLS",
-          "method": "iframe_src"
-        },
-        {
-          "url": "https://animeshd.cloud/#699tuf",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807311698,
-    "createdAt": "2026-04-21T21:44:55.375Z"
-  },
-  {
-    "animeSlug": "dandelion",
-    "title": "Episódio 07 - Faça o que só pode ser feito agora!",
-    "number": 7,
-    "image": "https://animeq.net/wp-content/uploads/2026/04/kQLiR4C2jQFUMdPfJMRmvxGtU0s-300x170.jpg",
-    "url": "https://animeq.net/episodio/dandelion-episodio-07/",
-    "video": {
-      "main": "https://www.blogger.com/video.g?token=AD6v5dxTdrmltenUtjqIFEpg9M8ZGrhUZe3yv6jMQFGA-oviOTa5B1Z_znRSQzoYBsN8znAlgOQIqC47CW_s1LlgJhEUDpVlQZwej5Tj4s9k95nLtA3KVbTd1bU9mRVLIGkD8Yq9yUY",
-      "players": [
-        {
-          "url": "https://www.blogger.com/video.g?token=AD6v5dxTdrmltenUtjqIFEpg9M8ZGrhUZe3yv6jMQFGA-oviOTa5B1Z_znRSQzoYBsN8znAlgOQIqC47CW_s1LlgJhEUDpVlQZwej5Tj4s9k95nLtA3KVbTd1bU9mRVLIGkD8Yq9yUY",
-          "type": "blogger",
-          "label": "FullHD / HLS",
-          "method": "embed"
-        },
-        {
-          "url": "https://animeshd.cloud/#d33mph",
-          "type": "animeshd",
-          "label": "FHD",
-          "method": "embed"
-        }
-      ]
-    },
-    "order": -1776807310698,
-    "createdAt": "2026-04-21T21:45:03.336Z"
   }
 ]
