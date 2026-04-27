@@ -6119,7 +6119,34 @@
         "title": "Episódio 04 - Lua de Sangue — Noite do eclipse total da lua —",
         "url": "https://animeq.net/episodio/dark-moon-the-blood-altar-episodio-04/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/01/hBGnUojtdPdE345YPYP5AQ7rA2Z-300x170.jpg",
-        "video": null,
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/04.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/04.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/Zw2LgewhnSL6Hcaot0Jbcw/3vi/cvam3k5z/ery6fc/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/Zw2LgewhnSL6Hcaot0Jbcw/3vi/cvam3k5z/ery6fc/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/Zw2LgewhnSL6Hcaot0Jbcw/3vi/cvam3k5z/ery6fc/tt/index-f1-v1-a1.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/Zw2LgewhnSL6Hcaot0Jbcw/3vi/cvam3k5z/ery6fc/tt/index-f2-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://animes.strp2p.com/#bcwyw5",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
         "createdAt": "2026-04-26T20:17:26.340Z"
       },
       {
@@ -6127,7 +6154,44 @@
         "title": "Episódio 05",
         "url": "https://animeq.net/episodio/dark-moon-the-blood-altar-episodio-05/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/02/3umDz1yXb4ebnzUXnm7qX0oIqMm-300x170.jpg",
-        "video": null,
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/05.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/05.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/2Z_KISb25iQexffQSRp_0A/5c/v1feaent/pqshyb/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/2Z_KISb25iQexffQSRp_0A/5c/v1feaent/pqshyb/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/2Z_KISb25iQexffQSRp_0A/5c/v1feaent/pqshyb/tt/index-f1-v1-a1.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/2Z_KISb25iQexffQSRp_0A/5c/v1feaent/pqshyb/tt/index-f2-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://animes.strp2p.com/hls/2Z_KISb25iQexffQSRp_0A/5c/v1feaent/pqshyb/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animes.strp2p.com/hls/2Z_KISb25iQexffQSRp_0A/5c/v1feaent/pqshyb/tt/master.m3u8?v=1766826492",
+                "https://animes.strp2p.com/hls/2Z_KISb25iQexffQSRp_0A/5c/v1feaent/pqshyb/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxT_UYfBR-BQFe3f38IQYGU-FhOMBZ23Loks0N7GKLbG9MK5J5iB-I3RPkIqb8wfSSE2RsyqRVecmOzA0BlFPpmKtII25415A6ofhg10oyZW1Z2k4UeOvsTwigHWbs_UfdtQ-U",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            }
+          ]
+        },
         "createdAt": "2026-04-26T20:17:26.340Z"
       },
       {
@@ -6135,7 +6199,35 @@
         "title": "Episódio 06",
         "url": "https://animeq.net/episodio/dark-moon-the-blood-altar-episodio-06/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/02/toDBQQRK2Ju220Ng9MmDoJjyv40-300x170.jpg",
-        "video": null,
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/06.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/06.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dzLlMRrLEdSqck-IsiJqlY5cbnBMvInHCVAXHck4ZJDX0E6XshX5KRV3Xm03b-UZmZEXz6pcsMP2_m5lTcwdvkinotSm09uVDCHvlO5j9ysQiHGxU_VxmGI9_vv7Pz7vU-Nzzo",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#ms98ua",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#vipvur",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
         "createdAt": "2026-04-26T20:17:26.340Z"
       },
       {
@@ -6143,7 +6235,35 @@
         "title": "Episódio 07 - Lua Azul - O Destino é Assim",
         "url": "https://animeq.net/episodio/dark-moon-the-blood-altar-episodio-07/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/02/ynwWiSyqiwHK475Gx1OzjeANZaI-300x170.jpg",
-        "video": null,
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/07.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/07.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dyyZOj0wZSWW6s2HVXIiYyVsZI_34hCjCVEoL7-TUgGntjYQEawVQK13GTJQrlQ2n6wciivdOV5Z1ClUAbU1V0RRytBtJJ7Lphk-mg6FxKJIlr9D0LcRbzdyge2L51a0o0Dpfc",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#o8vlvc",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#klamv5",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
         "createdAt": "2026-04-26T20:17:26.340Z"
       },
       {
@@ -6151,7 +6271,35 @@
         "title": "Episódio 08 - Lua Antiga — Lorde Vampiro —",
         "url": "https://animeq.net/episodio/dark-moon-the-blood-altar-episodio-08/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/02/aL8ftT7sBSQ0MNtTXU7EyqDAcso-300x170.jpg",
-        "video": null,
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/08.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/08.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dzs3imVGRym87X49YE1rG-9gNTvSZZGDfwuwycKKBaHQ8jUpGl2yGNnYTnjwjxu5RoS1fDVyRS6XKkNaNu7s2dEhLXNZTnWDo-odUwXn0dVEzoyz91lqRGIEcFygYgpbaMCia28",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animeshd.cloud/#vyhgmg",
+              "type": "animeshd",
+              "label": "FHD",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#klo9vq",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
         "createdAt": "2026-04-26T20:17:26.340Z"
       },
       {
@@ -6159,7 +6307,40 @@
         "title": "Episódio 09 - Lua Nebulosa — A névoa negra da Railgun —",
         "url": "https://animeq.net/episodio/dark-moon-the-blood-altar-episodio-09/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/03/aL8ftT7sBSQ0MNtTXU7EyqDAcso-300x170.jpg",
-        "video": null,
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/09.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/09.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/XXE6IO9yDycwKCovpzPRXA/ox/dq8zrme1/dak8xy/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/XXE6IO9yDycwKCovpzPRXA/ox/dq8zrme1/dak8xy/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/XXE6IO9yDycwKCovpzPRXA/ox/dq8zrme1/dak8xy/tt/index-f1-v1-a1.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/XXE6IO9yDycwKCovpzPRXA/ox/dq8zrme1/dak8xy/tt/index-f2-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dz8YmZC3R66G8M0e926ksaAj9ba9xNWBnnKmYN-Y8gz5zs-XiIexG-b7lfVutOUgtkgP79B0UatwcpEA2elhTWWRvVo22P1l97zFOB6-Sywo06xwOsOAN32LnvOleWB1Ugu9_Xv",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#3uzf1i",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
         "createdAt": "2026-04-26T20:17:26.340Z"
       },
       {
@@ -6167,7 +6348,40 @@
         "title": "Episódio 10 - Lua Minguante - Combate Mortal no Outono -",
         "url": "https://animeq.net/episodio/dark-moon-the-blood-altar-episodio-10/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/03/bY0vJ2lZE8DIvU7iaaxfFqxY08J-300x170.jpg",
-        "video": null,
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/10.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/10.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/ogrrn_Bwr-iNGErwlplIMQ/9a/1xmlfi6v/s8otma/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/ogrrn_Bwr-iNGErwlplIMQ/9a/1xmlfi6v/s8otma/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/ogrrn_Bwr-iNGErwlplIMQ/9a/1xmlfi6v/s8otma/tt/index-f1-v1-a1.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/ogrrn_Bwr-iNGErwlplIMQ/9a/1xmlfi6v/s8otma/tt/index-f2-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dwQDi92F-GFo-MQo0cUZhFponQJ-AGKXKxZ31AFJG5Ba27ptOn-GETEjoegfbZH8E4fEF6wGF_ZODsJR3449r7ctYaykuiHJye8nfKNzxRiPbx9q-n0lsvDlokyZuVR-RvVcmmR&origin=hg6yutio78945tsdfdsgfery76978p.blogspot.com",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#1hj86b",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
         "createdAt": "2026-04-26T20:17:26.340Z"
       },
       {
@@ -6175,7 +6389,39 @@
         "title": "Episódio 11 - Lua Nebulosa — O Sangue de Vargr —",
         "url": "https://animeq.net/episodio/dark-moon-the-blood-altar-episodio-11/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/03/gJeDciYhmhX52RgtdLVZnFjGWSm-300x170.jpg",
-        "video": null,
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/11.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/11.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/ewMrd7KULB_R1NQ76Wur7A/hz/unjaovjx/ej8vtk/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/ewMrd7KULB_R1NQ76Wur7A/hz/unjaovjx/ej8vtk/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/ewMrd7KULB_R1NQ76Wur7A/hz/unjaovjx/ej8vtk/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dwctlidHvsXPYZZoMSGvput0Ouv3dkVfy2PLxT5flXQSGpaFxBVFPgevalkxzz7XHBZOVmx4wGyl2YgBtgCcunzMYyIXyDtPU1dpJKarhYxV65nT75ikFbQPwGFnI7j_nqCEJvL",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            },
+            {
+              "url": "https://animes.strp2p.com/#r59jss",
+              "type": "strp2p",
+              "label": "FHD",
+              "method": "embed"
+            }
+          ]
+        },
         "createdAt": "2026-04-26T20:17:26.340Z"
       },
       {
@@ -6183,7 +6429,44 @@
         "title": "Episódio 12 - Lua das Trevas — O Altar da Lua —",
         "url": "https://animeq.net/episodio/dark-moon-the-blood-altar-episodio-12/",
         "thumbnail": "https://animeq.net/wp-content/uploads/2026/03/20bWOq0N1eOqyoqkNkWMwpmvo2D-300x170.jpg",
-        "video": null,
+        "video": {
+          "main": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/12.mp4",
+          "players": [
+            {
+              "url": "https://aniplay.online/Midias/Animes/Letra-D/DARK-MOON-THE-BLOOD-ALTAR/12.mp4",
+              "type": "mp4",
+              "label": "FullHD / HLS",
+              "method": "iframe_src"
+            },
+            {
+              "url": "https://animeshd.cloud/hls/Dux8noV1gbBvVMHkUlKVvQ/5w3/v1feadni/mo5uw3/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animeshd.cloud/hls/Dux8noV1gbBvVMHkUlKVvQ/5w3/v1feadni/mo5uw3/tt/master.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/Dux8noV1gbBvVMHkUlKVvQ/5w3/v1feadni/mo5uw3/tt/index-f1-v1-a1.m3u8?v=1766826492",
+                "https://animeshd.cloud/hls/Dux8noV1gbBvVMHkUlKVvQ/5w3/v1feadni/mo5uw3/tt/index-f2-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://animes.strp2p.com/hls/Dux8noV1gbBvVMHkUlKVvQ/5w3/v1feadni/mo5uw3/tt/master.m3u8?v=1766826492",
+              "type": "hls",
+              "label": "FHD",
+              "method": "intercept",
+              "all": [
+                "https://animes.strp2p.com/hls/Dux8noV1gbBvVMHkUlKVvQ/5w3/v1feadni/mo5uw3/tt/master.m3u8?v=1766826492",
+                "https://animes.strp2p.com/hls/Dux8noV1gbBvVMHkUlKVvQ/5w3/v1feadni/mo5uw3/tt/index-f1-v1-a1.m3u8?v=1766826492"
+              ]
+            },
+            {
+              "url": "https://www.blogger.com/video.g?token=AD6v5dxgVEHD--utOUfPbjPIMo8rCgRh8eASKMvbJBGpLeFxduF7smqBqIPVqsPe3umgQwR6ZOQX2hJ_Yqo-S2fwyLCVFSXTuxzZsRDt4eu8bklScLXdS6dkbiol9OhbZGH-LI34vW8",
+              "type": "blogger",
+              "label": "Mobile / Celular",
+              "method": "embed"
+            }
+          ]
+        },
         "createdAt": "2026-04-26T20:17:26.340Z"
       }
     ]
