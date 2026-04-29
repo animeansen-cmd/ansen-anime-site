@@ -1,5 +1,43 @@
 [
   {
+    "animeSlug": "megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de",
+    "title": "Episódio 04 - Vegetal / A fechadura de um baú de tesouro",
+    "number": 4,
+    "image": "https://animeq.net/wp-content/uploads/2026/04/1w8Bwa3gaSdocP8rKjhJIQUOjkd-300x170.jpg",
+    "url": "https://animeq.net/episodio/megami-isekai-tensei-nani-ni-naritai-desu-ka-ore-yuusha-no-rokkotsu-de-episodio-04/",
+    "video": {
+      "main": "https://aniplay.online/Midias/Animes/Letra-M/Megami-Isekai-Tensei-Nani-ni-Naritai-desu-ke-Ore-Yuusha-no-Rokkotsu-de/004.mp4",
+      "players": [
+        {
+          "url": "https://aniplay.online/Midias/Animes/Letra-M/Megami-Isekai-Tensei-Nani-ni-Naritai-desu-ke-Ore-Yuusha-no-Rokkotsu-de/004.mp4",
+          "type": "mp4",
+          "label": "FullHD / HLS",
+          "method": "iframe_src"
+        },
+        {
+          "url": "https://www.blogger.com/video.g?token=AD6v5dxbjSQ_PZ5HwPeaaMGOAbxNRubr4uoVfkRdeBGF-7DvwBSju8depPHPf8F_sWmRIlzyoAoxx_0FTnCH4uCTbuKPBRmL5dbq2vJ1mLipMwASlfxLA01YEE_ilQooRyziLOdRz1Q",
+          "type": "blogger",
+          "label": "Mobile / Celular",
+          "method": "embed"
+        },
+        {
+          "url": "https://animeshd.cloud/#8wf8fb",
+          "type": "animeshd",
+          "label": "FHD",
+          "method": "embed"
+        },
+        {
+          "url": "https://animes.strp2p.com/#nf13lb",
+          "type": "strp2p",
+          "label": "FHD",
+          "method": "embed"
+        }
+      ]
+    },
+    "order": -1777429294837,
+    "createdAt": "2026-04-29T02:22:36.997Z"
+  },
+  {
     "animeSlug": "marriagetoxin-dublado",
     "title": "Episódio 01 - A Busca do Mestre dos Venenos por uma Noiva",
     "number": 1,
