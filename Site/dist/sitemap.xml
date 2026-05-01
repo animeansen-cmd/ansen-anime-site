@@ -11047,6 +11047,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://ansenanimes.com.br/anime/haikyuu</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ansenanimes.com.br/episodio/haikyuu/1</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://ansenanimes.com.br/anime/hanazakari-no-kimitachi-e</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>weekly</changefreq>
@@ -18548,6 +18560,12 @@
   </url>
   <url>
     <loc>https://ansenanimes.com.br/episodio/kami-no-shizuku/3</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ansenanimes.com.br/episodio/kami-no-shizuku/4</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -37286,6 +37304,12 @@
   </url>
   <url>
     <loc>https://ansenanimes.com.br/episodio/snowball-earth/4</loc>
+    <lastmod>2026-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ansenanimes.com.br/episodio/snowball-earth/5</loc>
     <lastmod>2026-05-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
