@@ -5,12 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="monetag" content="3254dd2bc68ef62f6252f0b98dcefba2" />
 
+    <!-- Preconnect para domínios críticos (reduz latência de DNS+TCP) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://img.ansenanimes.com.br" crossorigin />
+    <link rel="dns-prefetch" href="https://animeq.net" />
+
+    <!-- Google Fonts via link (não bloqueia render + font-display=swap embutido) -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap" media="print" onload="this.media='all'" />
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap" /></noscript>
+
     <!-- Primary Meta Tags — sobrescritos por useSeo em cada página -->
     <title>Ansen Animes - Assistir Animes Online Dublado e Legendado HD</title>
     <meta name="description" content="Assista animes online dublado e legendado em HD gratuitamente. Catalogo completo com episodios atualizados diariamente, calendario semanal e lancamentos no Ansen Animes." />
     <meta name="keywords" content="assistir animes, animes online gratis, animes hd, animes dublados, animes legendados, ver animes online, lancamentos de animes" />
     <meta name="author" content="Ansen Animes" />
-    <link rel="canonical" href="https://ansenanimes.com.br/" />
+    <!-- canonical injetada por useSeo.ts dinamicamente por página -->
 
     <!-- Open Graph -->
     <meta property="og:site_name"   content="Ansen Animes" />
@@ -45,34 +55,33 @@
     }
     </script>
 
-    <!-- Cloudflare Web Analytics -->
-    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "320fbaf6fcf14e9886f37f09c73fae41"}'></script>
-
-    <!-- Google Analytics -->
+    <!-- Google Analytics (async — não bloqueia render) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7F7B9QYZ7R"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
       gtag('config', 'G-7F7B9QYZ7R');
     </script>
-
-    <!-- Monetag Multitag -->
-    <script src="https://quge5.com/88/tag.min.js" data-zone="232646" async data-cfasync="false"></script>
-    <script type="module" crossorigin src="/assets/index-AyhLfcQd.js"></script>
-    <link rel="modulepreload" crossorigin href="/assets/vendor-react-BDJNq4VR.js">
-    <link rel="modulepreload" crossorigin href="/assets/vendor-query-BJXCnN5Y.js">
-    <link rel="modulepreload" crossorigin href="/assets/vendor-router-BltvqmxR.js">
-    <link rel="modulepreload" crossorigin href="/assets/vendor-supabase-C6UFQgq8.js">
-    <link rel="modulepreload" crossorigin href="/assets/vendor-ui-DBg7cG4e.js">
-    <link rel="modulepreload" crossorigin href="/assets/vendor-icons-DeFfsxuR.js">
-    <link rel="modulepreload" crossorigin href="/assets/vendor-motion-BGCvdHqX.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-B8EUk4K6.css">
+    <script type="module" crossorigin src="/assets/index-BJaw3IEK.js"></script>
+    <link rel="modulepreload" crossorigin href="/assets/vendor-react-DZSIeqxb.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-query-CWWCZQi4.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-router-CGkFZ0K2.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-supabase-BMd0-gPM.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-ui-B-21Y_ge.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-icons-D0a2OCZY.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-motion-BGTEUnE4.js">
+    <link rel="stylesheet" crossorigin href="/assets/index-DHGxqdEn.css">
   </head>
 
   <body>
     <div id="root"></div>
+
+    <!-- Cloudflare Web Analytics (defer — carrega após LCP) -->
+    <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"token": "320fbaf6fcf14e9886f37f09c73fae41"}'></script>
+
+    <!-- Monetag Multitag (defer — não bloqueia LCP) -->
+    <script defer src="https://quge5.com/88/tag.min.js" data-zone="232646" data-cfasync="false"></script>
 
     <!-- Monetag Popunder -->
     <script>(function(s){s.dataset.zone='10913086',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
