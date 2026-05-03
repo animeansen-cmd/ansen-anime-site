@@ -10225,6 +10225,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://ansenanimes.com.br/episodio/ghost-concert-missing-songs/5</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://ansenanimes.com.br/anime/gintama-mr-ginpachis-zany-class</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -25315,24 +25321,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ansenanimes.com.br/episodio/one-piece/1022.5</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ansenanimes.com.br/episodio/one-piece/1100.5</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://ansenanimes.com.br/episodio/one-piece/1108.5</loc>
-    <lastmod>2026-05-03</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://ansenanimes.com.br/episodio/one-piece/1</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -31465,6 +31453,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://ansenanimes.com.br/episodio/one-piece/1022.5</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://ansenanimes.com.br/episodio/one-piece/1023</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -31933,6 +31927,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://ansenanimes.com.br/episodio/one-piece/1100.5</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://ansenanimes.com.br/episodio/one-piece/1101</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
@@ -31976,6 +31976,12 @@
   </url>
   <url>
     <loc>https://ansenanimes.com.br/episodio/one-piece/1108</loc>
+    <lastmod>2026-05-03</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://ansenanimes.com.br/episodio/one-piece/1108.5</loc>
     <lastmod>2026-05-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
