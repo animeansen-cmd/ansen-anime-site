@@ -1,0 +1,7 @@
+name = "ansen-image-proxy"
+main = "index.js"
+compatibility_date = "2024-04-01"
+
+[routes]
+# Rota customizada usando seu domínio já configurado no Cloudflare
+# Após o deploy, adicione no painel: img.ansenanimes.com.br/*

@@ -1,0 +1,31 @@
+No terminal, dentro de d:\Ansen\Site, roda:
+
+npm run dev -- --port 5173
+npm run dev
+
+Depois abre no navegador:
+http://localhost:5173/
+http://localhost:8081/
+
+Diasigor1@outlook.com
+Porcoespinho1@
+
+Diasigor1@outlook.com
+Porcoespinho15@
+
+Google Auth
+https://siswvybcbdxopljwzyrh.supabase.co/auth/v1/callback
+
+Chave API Resend
+re_G5FukQEZ_8TVQfDqNZES4bTrVeC7r7WZq
+
+https://animeq.net/
+https://animesonline.cloud/
+https://animeplay.cloud/
+https://animesdrive.online/
+
+--Pegar anime unico
+node scraper/crawlers/unicoScraper.js https://animeq.net/anime/one-piece
+
+--Chave Lovable
+HEI-8318455-242810

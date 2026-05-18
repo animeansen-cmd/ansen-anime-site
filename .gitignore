@@ -1,0 +1,12 @@
+node_modules/
+scraper/node_modules/
+Site/node_modules/
+
+.env
+scraper/serviceAccount.json
+
+data/
+scraper/
+
+# Documentação local com credenciais — nunca subir pro GitHub
+BLUEPRINT.md
