@@ -29,3 +29,5 @@ node scraper/crawlers/unicoScraper.js https://animeq.net/anime/one-piece
 
 --Chave Lovable
 HEI-8318455-242810
+
+Use como refencia para o design: D:\Extras\claude-cookbooks-main
