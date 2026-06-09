@@ -1,5 +1,6 @@
 User-agent: *
 Allow: /
 Disallow: /admin
+Disallow: /favoritos
 
 Sitemap: https://ansenanimes.com.br/sitemap.xml
