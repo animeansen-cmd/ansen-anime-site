@@ -96,6 +96,7 @@ function generateSitemap() {
         `User-agent: *`,
         `Allow: /`,
         `Disallow: /admin`,
+        `Disallow: /favoritos`,
         ``,
         `Sitemap: ${SITE_URL}/sitemap.xml`
     ].join("\n"), "utf8");

@@ -55,33 +55,46 @@ function toRating(value: string | number | undefined) {
 // adicionando o Referer correto para burlar o hotlink protection.
 const IMAGE_PROXY_URL = "https://img.ansenanimes.com.br";
 
+function cleanUrl(url: string | undefined): string {
+  if (!url || url.startsWith("data:image") || url.includes("placeholder")) return "";
+  return url;
+}
+
 function getHighResUrl(url: string | undefined): string {
-  if (!url) return "";
+  const cleaned = cleanUrl(url);
+  if (!cleaned) return "";
+  if (cleaned.startsWith(IMAGE_PROXY_URL)) {
+    return cleaned;
+  }
 
   // TMDB: troca tamanho fixo pela versão original
-  if (url.includes("image.tmdb.org")) {
-    return url.replace(/\/w\d+\//, "/original/");
+  if (cleaned.includes("image.tmdb.org")) {
+    return cleaned.replace(/\/w\d+\//, "/original/");
   }
 
   // animeq: remove o sufixo de dimensão do WordPress (-300x450, -225x318, etc)
   // antes de passar pro proxy, para pedir a imagem em resolução original.
-  if (url.includes("animeq.net") || url.includes("animeq")) {
-    const originalUrl = url.replace(/-\d+x\d+(\.[a-zA-Z]+)$/, "$1");
+  if (cleaned.includes("animeq.net") || cleaned.includes("animeq")) {
+    const originalUrl = cleaned.replace(/-\d+x\d+(\.[a-zA-Z]+)$/, "$1");
     return `${IMAGE_PROXY_URL}/?url=${encodeURIComponent(originalUrl)}`;
   }
 
   // Demais URLs: tenta remover sufixo de dimensão também
-  return url.replace(/-\d+x\d+(\.[a-zA-Z]+)$/, "$1");
+  return cleaned.replace(/-\d+x\d+(\.[a-zA-Z]+)$/, "$1");
 }
 
 // Fallback: mantém a URL com o sufixo de dimensão original (comportamento antigo).
 // Usado como plano B caso a versão sem sufixo não exista no servidor.
 function getProxiedUrl(url: string | undefined): string {
-  if (!url) return "";
-  if (url.includes("animeq.net") || url.includes("animeq")) {
-    return `${IMAGE_PROXY_URL}/?url=${encodeURIComponent(url)}`;
+  const cleaned = cleanUrl(url);
+  if (!cleaned) return "";
+  if (cleaned.startsWith(IMAGE_PROXY_URL)) {
+    return cleaned;
   }
-  return url;
+  if (cleaned.includes("animeq.net") || cleaned.includes("animeq")) {
+    return `${IMAGE_PROXY_URL}/?url=${encodeURIComponent(cleaned)}`;
+  }
+  return cleaned;
 }
 
 function getFallbackReleaseDate(anime: Anime) {
@@ -106,15 +119,16 @@ function getFallbackReleaseDate(anime: Anime) {
 
 function normalizeAnime(anime: Anime): Anime {
   const synopsis = anime.synopsis || anime.description || "";
+  const cleanedCover = cleanUrl(anime.cover);
 
   return {
     ...anime,
     url: anime.url || "",
     altTitle: anime.altTitle || "",
-    image: getHighResUrl(anime.image || anime.cover),
-    cover: getHighResUrl(anime.cover),
-    coverFallback: getProxiedUrl(anime.cover), // URL com sufixo original, plano B
-    banner: getHighResUrl(anime.banner || anime.banners?.[0] || anime.cover),
+    image: getHighResUrl(cleanUrl(anime.image) || cleanedCover),
+    cover: getHighResUrl(cleanedCover),
+    coverFallback: getProxiedUrl(cleanedCover), // URL com sufixo original, plano B
+    banner: getHighResUrl(cleanUrl(anime.banner) || cleanUrl(anime.banners?.[0]) || cleanedCover),
     banners: (anime.banners?.length ? anime.banners : anime.banner ? [anime.banner] : []).map(getHighResUrl),
     description: synopsis,
     synopsis,
@@ -130,7 +144,7 @@ function normalizeAnime(anime: Anime): Anime {
         url: episode.url || "",
         // Para thumbnails de episódio usamos getProxiedUrl (mantém o sufixo -300x170)
         // em vez de getHighResUrl (que remove o sufixo e pode causar 404 no WordPress)
-        thumbnail: getProxiedUrl(episode.thumbnail || anime.cover),
+        thumbnail: getProxiedUrl(cleanUrl(episode.thumbnail) || cleanedCover),
       }))
       .sort((left, right) => left.number - right.number),
   };
@@ -546,7 +560,7 @@ export function mapLatestEpisodesToCatalog(animes: Anime[], latestEpisodes: Late
       number: episode.number,
       title: episode.title,
       url: "",
-      thumbnail: episode.image || anime?.cover || "",
+      thumbnail: cleanUrl(episode.image) || cleanUrl(anime?.cover) || "",
       video: episode.video || "",
       createdAt: episode.createdAt,
       animeId: anime?.id || episode.animeSlug,

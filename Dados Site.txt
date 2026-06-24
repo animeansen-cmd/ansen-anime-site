@@ -31,3 +31,11 @@ node scraper/crawlers/unicoScraper.js https://animeq.net/anime/one-piece
 HEI-8318455-242810
 
 Use como refencia para o design: D:\Extras\claude-cookbooks-main
+
+python run.py
+
+845677491920397
+
+eb39b678273a0ec9ed9d4b6985559510
+
+EAAMBI6KAHg0BRmS9v1gTNZATuPApSqhFrfSEfiKNlcnRlfJG2LXzOZAg1ZC8dilKq4i530WCvNH7fRIuJjLnqFI2jMhvi6a4kLg5vNPm7Ty0VGFHoYpApr0WOfmCJmb26iuuMfdv8cQg4S00HlZCZABLe91UYsZCk2AZBHFcZA6XQ5OaZAVD5nNns0YdJx1gQc60SlykqaZAzXZCeuBZCZBjZCRx9ey77ve8lhUObs9qkxmK1uce7J4VI8
