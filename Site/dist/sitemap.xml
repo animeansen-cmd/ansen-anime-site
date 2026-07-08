@@ -48013,6 +48013,18 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://ansenanimes.com.br/anime/youjo-senki-ii</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://ansenanimes.com.br/episodio/youjo-senki-ii/1</loc>
+    <lastmod>2026-07-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://ansenanimes.com.br/anime/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-4th-season-2-nensei-hen-1-gakki</loc>
     <lastmod>2026-07-08</lastmod>
     <changefreq>weekly</changefreq>
