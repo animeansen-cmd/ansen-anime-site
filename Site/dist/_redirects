@@ -1,1 +1,5 @@
+# Redirect legacy episode URLs to new SEO canonical URLs
+/episodio/:slug-:num.html /episodio/:slug/:num 301
+
+# SPA fallback rule
 /* /index.html 200

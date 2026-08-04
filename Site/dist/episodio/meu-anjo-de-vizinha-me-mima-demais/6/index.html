@@ -5,6 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="monetag" content="3254dd2bc68ef62f6252f0b98dcefba2" />
 
+    <!-- PWA Setup -->
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#FF5500" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Ansen Animes" />
+    <link rel="apple-touch-icon" href="/og-cover.jpg" />
+
     <!-- Preconnect para domínios críticos (reduz latência de DNS+TCP) -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -50,15 +58,15 @@
       gtag('js', new Date());
       gtag('config', 'G-7F7B9QYZ7R');
     </script>
-    <script type="module" crossorigin src="/assets/index-DXutDXk7.js"></script>
+    <script type="module" crossorigin src="/assets/index-DGVBxfH2.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vendor-react-DZSIeqxb.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-query-CWWCZQi4.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-router-CGkFZ0K2.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-supabase-BMd0-gPM.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-ui-B-21Y_ge.js">
-    <link rel="modulepreload" crossorigin href="/assets/vendor-icons-2TVRnqvf.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-icons-B7xB-W5H.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-motion-BGTEUnE4.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-D8l2UHEH.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-CC14yo5D.css">
   
     <meta name="description" content="Assistir Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken Episódio 06 - Presente do Anjo legendado em HD. Título alternativo: The Ang..." />
     <meta name="keywords" content="Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken, The Angel Next Door Spoils Me Rotten, Meu Anjo de Vizinha Me Mima Demais, お隣の天使様にいつの間にか駄目人間にされていた件, Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken episodio 06, Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken episodio 06 online, Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken episodio 06 legendado, Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken episodio 06 hd, assistir Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken online, Presente do Anjo, assistir anime online gratis" />
@@ -85,5 +93,13 @@
 
     <!-- Monetag Popunder -->
     <script>(function(s){s.dataset.zone='10913086',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+    <!-- Service Worker Registration for PWA & Push Ads -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch(err => console.log('SW reg error:', err));
+        });
+      }
+    </script>
   </body>
 </html>

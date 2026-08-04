@@ -31,5 +31,5 @@
 # ─── HTML (sem cache, sempre pega versão nova) ───────────────────────────────
 /*
   X-Content-Type-Options: nosniff
-  X-Frame-Options: DENY
-  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: no-referrer-when-downgrade

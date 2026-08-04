@@ -1,0 +1,6 @@
+# Monetag & Ad Networks Authorization File
+# https://monetag.com/
+# Domain: ansenanimes.com.br
+
+# Monetag Direct Seller
+google.com, pub-3254dd2bc68ef62f6252f0b98dcefba2, DIRECT, f08c47fec0942fa0

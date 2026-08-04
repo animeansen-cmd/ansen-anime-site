@@ -5,6 +5,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="monetag" content="3254dd2bc68ef62f6252f0b98dcefba2" />
 
+    <!-- PWA Setup -->
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#FF5500" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Ansen Animes" />
+    <link rel="apple-touch-icon" href="/og-cover.jpg" />
+
     <!-- Preconnect para domínios críticos (reduz latência de DNS+TCP) -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -50,15 +58,15 @@
       gtag('js', new Date());
       gtag('config', 'G-7F7B9QYZ7R');
     </script>
-    <script type="module" crossorigin src="/assets/index-DXutDXk7.js"></script>
+    <script type="module" crossorigin src="/assets/index-DGVBxfH2.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vendor-react-DZSIeqxb.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-query-CWWCZQi4.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-router-CGkFZ0K2.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-supabase-BMd0-gPM.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-ui-B-21Y_ge.js">
-    <link rel="modulepreload" crossorigin href="/assets/vendor-icons-2TVRnqvf.js">
+    <link rel="modulepreload" crossorigin href="/assets/vendor-icons-B7xB-W5H.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-motion-BGTEUnE4.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-D8l2UHEH.css">
+    <link rel="stylesheet" crossorigin href="/assets/index-CC14yo5D.css">
   
     <meta name="description" content="Assistir Souzai Saishuka no Isekai Ryokouki Episódio 03 legendado em HD. Título alternativo: A Gatherer’s Adventure in Isekai." />
     <meta name="keywords" content="Souzai Saishuka no Isekai Ryokouki, A Gatherer’s Adventure in Isekai, Material Collector’s Another World Travels, 素材採取家の異世界旅行記, Souzai Saishuka no Isekai Ryokouki episodio 03, Souzai Saishuka no Isekai Ryokouki episodio 03 online, Souzai Saishuka no Isekai Ryokouki episodio 03 legendado, Souzai Saishuka no Isekai Ryokouki episodio 03 hd, assistir Souzai Saishuka no Isekai Ryokouki online, assistir anime online gratis" />
@@ -85,5 +93,13 @@
 
     <!-- Monetag Popunder -->
     <script>(function(s){s.dataset.zone='10913086',s.src='https://al5sm.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+    <!-- Service Worker Registration for PWA & Push Ads -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch(err => console.log('SW reg error:', err));
+        });
+      }
+    </script>
   </body>
 </html>
