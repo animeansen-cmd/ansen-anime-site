@@ -2,7 +2,7 @@
   "name": "Ansen Animes - Assistir Animes Online HD",
   "short_name": "Ansen Animes",
   "description": "Assista animes online dublado e legendado em HD gratuitamente no Ansen Animes.",
-  "start_url": "/",
+  "start_url": "/?utm_source=pwa&utm_medium=app",
   "display": "standalone",
   "background_color": "#0A0A0F",
   "theme_color": "#FF5500",

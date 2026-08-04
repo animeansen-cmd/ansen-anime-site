@@ -57,8 +57,11 @@
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
       gtag('config', 'G-7F7B9QYZ7R');
+      if (window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone) {
+        gtag('event', 'pwa_session', { event_category: 'PWA', event_label: 'Standalone Launch' });
+      }
     </script>
-    <script type="module" crossorigin src="/assets/index-DGVBxfH2.js"></script>
+    <script type="module" crossorigin src="/assets/index-DQUduEJ5.js"></script>
     <link rel="modulepreload" crossorigin href="/assets/vendor-react-DZSIeqxb.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-query-CWWCZQi4.js">
     <link rel="modulepreload" crossorigin href="/assets/vendor-router-CGkFZ0K2.js">
