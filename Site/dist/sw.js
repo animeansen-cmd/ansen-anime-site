@@ -1,4 +1,7 @@
-// Ansen Animes - Service Worker
+// Monetag Push Notifications — DEVE ficar no topo antes de qualquer outro código
+try { importScripts('https://vfrhtga.com/pfe/current/sw.pfe.js'); } catch(e) {}
+
+// Ansen Animes - Service Worker (PWA)
 const CACHE_NAME = "ansen-pwa-v1";
 const ASSETS_TO_CACHE = [
   "/",
